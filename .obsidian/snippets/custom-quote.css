@@ -1,0 +1,17 @@
+/* 기존 인용구를 quote 콜아웃 스타일로 변경 */
+blockquote {
+  background-color: var(--callout-color);
+  border-left: 4px solid rgba(var(--callout-color), 0.3);
+  padding: 10px 15px;
+  border-radius: 4px;
+  margin: 1em 0;
+}
+
+/* 인용구 아이콘 추가 (옵션) */
+blockquote::before {
+  content: "“";
+  font-size: 2em;
+  color: rgba(var(--callout-color), 0.5);
+  float: left;
+  margin-right: 10px;
+}

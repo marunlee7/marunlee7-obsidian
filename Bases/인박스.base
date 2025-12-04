@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.path.contains("10-프로젝트/인박스")
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 434

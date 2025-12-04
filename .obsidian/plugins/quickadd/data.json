@@ -1,0 +1,435 @@
+{
+  "choices": [
+    {
+      "id": "2d02ba45-e2a4-4955-8414-1814bffb6776",
+      "name": "T1: Series Master 생성",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T01_Series_Index_Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "01_Index"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "b172b29b-3ee6-45e5-b53d-7dd0232dae36",
+      "name": "T2: Article Atom 생성",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T02_Source_Note_Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02_Sources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "3b575f49-ea98-43ed-be37-86e527c1491d",
+      "name": "T2: Article Atom 한자어휘 템플릿",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T02_Source_Note_Template_한자어휘 템플릿.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02_Sources/한자어휘 템플릿"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "0eb8e379-5b62-499f-a848-03e00d99c03f",
+      "name": "T2: Article Atom 작업노트_2025",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T02_Source_Note_Template_작업노트.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02_Sources/작업노트_2025"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c5d426db-ebf7-46cc-bb6e-51c8fdfed15d",
+      "name": "T3: Concept_Dictionary 생성",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T03_Concept_Dictionary_Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03_Concepts"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": true,
+        "linkType": "link"
+      },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c7689fe8-d58d-4bd9-977f-4eb52486e8f2",
+      "name": "T4: personal_analysis 생성",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T04_Analysis_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "04_Analysis",
+          "04_Analysis/북트레싱",
+          "04_Analysis/김병기의 알쏭어 달쏭사",
+          "04_Analysis/한자암기박사"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "newLine",
+        "requireActiveFile": true,
+        "linkType": "link"
+      },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "663bf491-2567-4974-8b44-ef1e02cae796",
+      "name": "T5: Collection",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T05_Sentence_Collection_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "05_Collection"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "newLine",
+        "requireActiveFile": true,
+        "linkType": "link"
+      },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "d7286f70-a5d2-4eaa-8006-b5b9d1a01f7a",
+      "name": "T6: Person_data",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T05_Sentence_Collection_Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "06_person_data"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "newLine",
+        "requireActiveFile": true,
+        "linkType": "link"
+      },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "0731e6e1-29fe-49e2-b810-1a76ff1aa523",
+      "name": "----",
+      "type": "Template",
+      "command": false,
+      "templatePath": "",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": false
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "09_System/tp",
+  "announceUpdates": "all",
+  "version": "2.8.0",
+  "globalVariables": {},
+  "onePageInputEnabled": false,
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": false,
+  "showCaptureNotification": true,
+  "showInputCancellationNotification": false,
+  "enableTemplatePropertyTypes": false,
+  "ai": {
+    "defaultModel": "gemini-1.5-pro",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "/",
+    "showAssistant": false,
+    "providers": [
+      {
+        "name": "Gemini",
+        "endpoint": "https://generativelanguage.googleapis.com",
+        "apiKey": "AIzaSyCswFj_TWjGVlvgPHNWbGQzdzAKtdgwKq4",
+        "models": [
+          {
+            "name": "gemini-1.5-pro",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash-8b",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-embedding-001",
+            "maxTokens": 2048
+          },
+          {
+            "name": "gemini-2.5-flash-image",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gemini-2.5-flash-preview-05-20",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-flash-lite-latest",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-3-pro-preview",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-2.5-flash",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-flash-latest",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-pro-preview-05-06",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-flash-preview-tts",
+            "maxTokens": 8000
+          },
+          {
+            "name": "gemini-2.0-flash-lite",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-live-2.5-flash-preview-native-audio",
+            "maxTokens": 131072
+          },
+          {
+            "name": "gemini-2.0-flash",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-flash-lite",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-pro-preview-06-05",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-live-2.5-flash",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gemini-2.5-flash-lite-preview-06-17",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-flash-image-preview",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gemini-2.5-flash-preview-09-2025",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-flash-preview-04-17",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-pro-preview-tts",
+            "maxTokens": 8000
+          },
+          {
+            "name": "gemini-2.5-pro",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-flash-lite-preview-09-2025",
+            "maxTokens": 1048576
+          }
+        ],
+        "autoSyncModels": true,
+        "modelSource": "modelsDev"
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true,
+    "setProviderModelDiscoveryMode": true
+  }
+}

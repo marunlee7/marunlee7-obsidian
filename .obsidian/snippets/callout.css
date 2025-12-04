@@ -1,0 +1,16 @@
+.callout {
+  --callout-radius: 2px;
+  padding: 0;
+  background-color:var(--admonition-bg-color);
+  border-left: solid 4px rgb(var(--callout-color));
+}
+
+.callout .callout-title {
+  padding: 6px;
+  background-color: rgba(var(--callout-color), 0.4);
+}
+
+.callout .callout-content {
+  padding: 5px 15px;
+  background-color: rgba(var(--callout-color), 0.1);
+}

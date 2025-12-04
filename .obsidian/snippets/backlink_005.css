@@ -1,0 +1,46 @@
+/* 백링크 패널(문서 하단+사이드바) 공통 폰트 크기 및 줄 간격 */
+.embedded-backlinks .backlink-pane,
+.mod-right-split .backlink-pane {
+  font-size: 0.9em;   /* 폰트 크기 통일 */
+  line-height: 1.7; /* 줄 간격은 유지 */
+}
+
+/* 백링크 문서명(타이틀) */
+.embedded-backlinks .backlink-pane .tree-item-self,
+.mod-right-split .backlink-pane .tree-item-self {
+  color: var(--text-accent, #3a4a6b);
+  background: none;
+  font-size: 1em;   /* 통일 */
+  font-weight: 500;
+  margin-bottom: 4px;
+  padding: 2px 2px;
+  border-radius: 3px;
+}
+
+/* 백링크 본문(본문 텍스트) */
+.embedded-backlinks .backlink-pane .search-result-file-matches,
+.mod-right-split .backlink-pane .search-result-file-matches {
+  font-size: 1em;   /* 통일 */
+}
+
+/* 각 백링크 결과 구분선 */
+.embedded-backlinks .backlink-pane .search-result-file-match,
+.mod-right-split .backlink-pane .search-result-file-match {
+  border-bottom: 1px solid var(--background-modifier-border, #e0e0e0);
+  padding: 4px 2px;
+}
+.embedded-backlinks .backlink-pane .search-result-file-match:last-child,
+.mod-right-split .backlink-pane .search-result-file-match:last-child {
+  border-bottom: none;
+}
+
+/* 헤드라인(헤딩) 약하게 강조 */
+.embedded-backlinks .backlink-pane .tree-item-inner,
+.mod-right-split .backlink-pane .tree-item-inner {
+  font-weight: 500;
+  color: var(--text-normal, #222);
+  padding: 2px 2px;
+  border-radius: 2px;
+  background: none;
+  font-size: 1em;   /* 통일 */
+}

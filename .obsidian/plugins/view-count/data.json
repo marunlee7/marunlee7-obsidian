@@ -1,0 +1,16 @@
+{
+  "countMethod": "unique-days-opened",
+  "skipNewNotes": false,
+  "syncToFrontmatter": false,
+  "propertyName": "view-count",
+  "pluginVersion": "2.5.0",
+  "logLevel": "off",
+  "excludedPaths": [
+    "90-Settings. Bases",
+    " Excalidraw"
+  ],
+  "templaterDelay": 0,
+  "currentView": "views",
+  "timePeriod": "3-days",
+  "itemCount": 20
+}

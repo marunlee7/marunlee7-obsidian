@@ -1,0 +1,25 @@
+formulas:
+  무제: ""
+views:
+  - type: table
+    name: 신문으로 배우는 실용한자
+    filters:
+      and:
+        - source_author == "최성엽"
+        - parent == "최성엽의 신문으로 배우는 실용한자"
+    order:
+      - file.name
+      - series_num
+      - checkbox
+      - published
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 297
+      note.series_num: 61
+      file.ctime: 136
+  - type: table
+    name: 뷰

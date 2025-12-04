@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "ecbf9a037cf73e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22169cedb10de86",
+        "type": "tabs",
+        "dimension": 46.04012671594509,
+        "children": [
+          {
+            "id": "40b820d565a6efc9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-리소스/Book/B-정석원 문화한자.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "B-정석원 문화한자"
+            }
+          },
+          {
+            "id": "353b0a550b2f8883",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "919baddfb8d94167",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/정석원.base",
+                "viewName": "한자여행 not read"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "정석원"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d7e4fd29f03399f2",
+        "type": "tabs",
+        "dimension": 53.95987328405491,
+        "children": [
+          {
+            "id": "a4f59a3bd381ba0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Concepts/한자사전/利文.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "利文"
+            }
+          },
+          {
+            "id": "a719b13fe1e24689",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c037d77973d34bf2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "595ff6af5a04c705",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "cd4aa2f84232fdc8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "34c2b3ffa70a5922",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "effdce823f90f00d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "모든 속성"
+        }
+      },
+      {
+        "id": "f2094f470719bb73",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "26e339843b9d0f0f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5d20bcf4bcd10534",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "03_Concepts/한자사전/利文.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "4c527bb0ff77de4a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "01_Index/Booknote/B-흐린 생각 맑은 말-정민/맑은말 001 욕과무변.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      },
+      {
+        "id": "ebaf4aad4b1e2f3a",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "dfa3deddbdafccef",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "cross-in-box",
+          "title": "Timeline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-composer:Open smart composer": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "translate:Open translation view": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "bases:새 베이스 생성하기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "kr-book-info-plugin:Add Book Info": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a4f59a3bd381ba0f",
+  "lastOpenFiles": [
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 품절(品切).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 익명(匿名) ②.md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 어용(御用).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 청춘(靑春).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 만족(滿足) ①.md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 암장(暗葬).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 홍위병(紅衛兵).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 도살장(屠殺場).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 탕감(蕩減).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 청운(靑雲).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 타계(他界).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 이타(利他).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 추호(秋毫) ②.md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 제수(祭需).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 제동(制動).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 원탁회의(圓卓會議).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 조경(造景).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 은혜(恩惠).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 나침반(羅針盤).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 홍해(紅海).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 지중화(地中化).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 반가(班家).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 방점(傍點) ②.md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 궤도(軌道).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 초토(焦土) ①.md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자/신문으로 배우는 실용한자 임상(臨床).md",
+    "00_인박스/최성엽 신문으로 배우는 실용한자",
+    "09_System/가이드라인_ver2",
+    "02_Sources/김병기의 알쏭어 달쏭사/체크리스트",
+    "02_Sources/김병기의 알쏭어 달쏭사",
+    "02_Sources/다산선생 지식경영법(old)",
+    "02_Sources/B-다산선생 지식경영법/강",
+    "02_Sources/B-다산선생 지식경영법/편집",
+    "02_Sources/B-다산선생 지식경영법/목",
+    "02_Sources/B-다산선생 지식경영법/결",
+    "02_Sources/B-다산선생 지식경영법/연보",
+    "Assets/작가의방/작가의 방 노트 샘플.png",
+    "Assets/작가의방/작가의 방 제텔카스텐 원칙 연결.webp",
+    "Assets/작가의방/작가의 방 Zettelkasten 노트형식.png",
+    "Assets/작가의방/작가의 방 칸반보드 프로젝트 진행 관리 예시.png",
+    "Assets/작가의방/작가의 방 니클라스 루만.png",
+    "Assets/김영훈의 생각줍기/생각줍기 20130923 욕망 Desire.png",
+    "Assets/김영훈의 생각줍기/3단계 글쓰기 방법 - 인용, 요약, 청상.jpeg",
+    "Assets/작가_안대회.png",
+    "Assets/Pasted image 20251014222053.png",
+    "Assets/효정서당 2급 표지.png",
+    "30-리소스/Dict/Hword1/무제.canvas",
+    "무제.canvas",
+    "30-리소스/Hanja/B-전광진 하루한자격언/무제.canvas",
+    "무제 1.canvas"
+  ]
+}

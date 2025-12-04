@@ -1,0 +1,19 @@
+{
+  "cssTheme": "Minimal",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "theme": "moonstone",
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "interfaceFontFamily": "noto sans thin,Apple SD Gothic Neo",
+  "textFontFamily": "Apple SD Gothic Neo,Noto Sans KR,리디바탕",
+  "showRibbon": false,
+  "enabledCssSnippets": [
+    "my_style",
+    "linked mentions",
+    "task",
+    "h1_margin"
+  ],
+  "monospaceFontFamily": "Apple SD Gothic Neo,Noto Sans Kannada"
+}

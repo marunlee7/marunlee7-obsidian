@@ -1,0 +1,17 @@
+/* 읽기(미리보기) 모드: 내부 링크 밑줄 제거 및 hover 시 빨간색 */
+.markdown-rendered .internal-link {
+  text-decoration: none !important;
+  transition: color 0.2s;
+}
+.markdown-rendered .internal-link:hover {
+  color: red !important;
+}
+
+/* 편집(라이브 프리뷰) 모드: 내부 링크 밑줄 제거 및 hover 시 빨간색 */
+.markdown-source-view.mod-cm6 .cm-underline {
+  text-decoration: none !important;
+  transition: color 0.2s;
+}
+.markdown-source-view.mod-cm6 .cm-underline:hover {
+  color: red !important;
+}

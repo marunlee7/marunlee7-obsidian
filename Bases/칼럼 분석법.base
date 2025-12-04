@@ -1,0 +1,72 @@
+views:
+  - type: table
+    name: 칼럼 분석법
+    filters:
+      and:
+        - file.tags.contains("칼럼/분석법")
+        - '!file.tags.contains("📚독서")'
+        - '!file.folder.contains("90-settings")'
+    order:
+      - file.name
+      - file.tags
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 267
+      note.read: 79
+      note.checkbox: 99
+  - type: table
+    name: read
+    filters:
+      and:
+        - file.tags.contains("북스/이인호/책벌레의공부")
+        - '!file.tags.contains("📚독서")'
+        - read == true
+    order:
+      - file.name
+      - aliases
+      - read
+      - checkbox
+    sort: []
+    columnSize:
+      file.name: 307
+      note.aliases: 247
+      note.read: 79
+      note.checkbox: 61
+  - type: table
+    name: not read
+    filters:
+      and:
+        - file.tags.contains("북스/이인호/책벌레의공부")
+        - '!file.tags.contains("📚독서")'
+        - read != true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort: []
+    columnSize:
+      file.name: 567
+      note.read: 79
+      note.checkbox: 61
+  - type: table
+    name: checkbox
+    filters:
+      and:
+        - file.tags.contains("북스/이인호/책벌레의공부")
+        - checkbox == true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 337
+      note.checkbox: 61

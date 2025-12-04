@@ -1,0 +1,146 @@
+{
+  "version": "1.4.5",
+  "display_language": "display",
+  "filter_mode": "2",
+  "translation_service": "deepl",
+  "security_setting": "none",
+  "switch_button_action": "switch-both",
+  "translation_command_action": "below",
+  "apply_glossary": false,
+  "local_glossary": false,
+  "glossary_preference": "online",
+  "case_insensitive_glossary": false,
+  "enable_animations": true,
+  "glossary_bidirectional": false,
+  "quicksettings_default": [
+    "change-service",
+    "automatic-translation",
+    "change-layout",
+    "apply-filter",
+    "open-settings"
+  ],
+  "layout_default": 0,
+  "left_quickactions_default": [
+    "paste",
+    "clear"
+  ],
+  "right_quickactions_default": [
+    "copy"
+  ],
+  "hide_attribution_default": false,
+  "default_source_language": "auto",
+  "target_language_preference": "specific",
+  "last_used_target_languages": [
+    "ko",
+    "en"
+  ],
+  "default_target_language": "ko",
+  "filtered_services": [
+    "deepl"
+  ],
+  "hotkeys": [
+    {
+      "id": "view-action-copy",
+      "modifiers": [],
+      "key": ""
+    },
+    {
+      "id": "view-action-clear",
+      "modifiers": [],
+      "key": ""
+    },
+    {
+      "id": "view-action-paste",
+      "modifiers": [],
+      "key": ""
+    },
+    {
+      "id": "view-clear-fields",
+      "modifiers": [],
+      "key": ""
+    }
+  ],
+  "service_settings": {
+    "fasttext": {
+      "default_usage": false,
+      "version": "1.0.0"
+    },
+    "deepl": {
+      "selected_languages": [
+        "en",
+        "ko"
+      ],
+      "api_key": "13e098e2-d1b1-4901-9106-31f7a55c8d36:fx",
+      "auto_translate": false,
+      "auto_translate_interval": 500,
+      "validated": true,
+      "available_languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "tr",
+        "uk",
+        "zh"
+      ],
+      "glossary_languages": {
+        "de": [
+          "en",
+          "fr"
+        ],
+        "en": [
+          "de",
+          "es",
+          "fr",
+          "ja",
+          "it",
+          "pl",
+          "nl"
+        ],
+        "es": [
+          "en"
+        ],
+        "fr": [
+          "de",
+          "en"
+        ],
+        "ja": [
+          "en"
+        ],
+        "it": [
+          "en"
+        ],
+        "pl": [
+          "en"
+        ],
+        "nl": [
+          "en"
+        ]
+      },
+      "version": "1.0.3",
+      "host": "https://api-free.deepl.com/v2"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "scanned": true,
+  "reminders": {
+    "40. PARA/41. Projects/작가의방/옵시디언 리마인더 Reminder.md": [
+      {
+        "title": "체크리스트 <- GTD 기반",
+        "time": "2023-11-28",
+        "rowNumber": 7
+      }
+    ],
+    "40. PARA/41. Projects/작가의방/노션처럼 옵시디안 메모를 데이터베이스로 만들어보자.md": [
+      {
+        "title": "세상 모든 업무를 3단계로",
+        "time": "2023-11-28 00:00",
+        "rowNumber": 14
+      }
+    ],
+    "30. Journals/생각노트/어문회 한자 정리 - 2차 버전.md": [
+      {
+        "title": "재점검",
+        "time": "2023-11-29",
+        "rowNumber": 9
+      }
+    ],
+    "20. Finder/22. MOC/MOC 할일.md": [
+      {
+        "title": "어문회 2급, 3급 빈출어휘 정리 ![[어문회 2급, 3급 빈출어휘.txt]]",
+        "time": "2023-11-28",
+        "rowNumber": 6
+      },
+      {
+        "title": "Logseq 꼬불 한자 정리 ⏫",
+        "time": "2023-11-28",
+        "rowNumber": 8
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

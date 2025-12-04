@@ -1,0 +1,149 @@
+views:
+  - type: table
+    name: 다산선생 지식경영법 10강 50목
+    filters:
+      and:
+        - file.tags.contains("정민/다산선생지식경영법")
+        - '!file.tags.contains("📚독서")'
+        - file.folder != "30-리소스/Booknote/B-다산선생 지식경영법/결"
+    order:
+      - file.name
+      - read
+      - checkbox
+      - description
+    sort:
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.name: 491
+      note.read: 73
+      note.checkbox: 61
+  - type: table
+    name: 10강
+    filters:
+      and:
+        - file.tags.contains("정민/다산선생지식경영법/10강")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.name: 347
+      note.read: 73
+      note.checkbox: 73
+  - type: table
+    name: 50목
+    filters:
+      and:
+        - file.tags.contains("정민/다산선생지식경영법/50목")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+      - description
+    sort:
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.name: 347
+      note.read: 73
+      note.checkbox: 73
+  - type: table
+    name: 200결
+    filters:
+      and:
+        - file.tags.contains("정민/다산선생지식경영법/200결")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.name: 347
+      note.read: 73
+      note.checkbox: 73
+  - type: table
+    name: 편집 노트
+    filters:
+      and:
+        - file.tags.contains("정민/다산선생지식경영법/편집")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.name: 347
+      note.read: 73
+      note.checkbox: 73
+  - type: table
+    name: 한자어휘/다산치학
+    filters:
+      and:
+        - file.tags.contains("한자어휘/다산치학")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - sound
+      - meaning
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 189
+      note.sound: 115
+      note.meaning: 141
+      note.checkbox: 61
+  - type: table
+    name: not read
+    filters:
+      and:
+        - file.tags.contains("정민/다산선생지식경영법")
+        - '!file.tags.contains("📚독서")'
+        - read != true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort: []
+    columnSize:
+      file.name: 357
+      note.checkbox: 61
+  - type: table
+    name: 표 checkbox
+    filters:
+      and:
+        - file.tags.contains("정민/다산선생지식경영법")
+        - checkbox == true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 222
+      note.checkbox: 61

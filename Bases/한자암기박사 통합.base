@@ -1,0 +1,35 @@
+filters:
+  and:
+    - source_author == "박원길"
+views:
+  - type: table
+    name: 한자암기박사 1권
+    filters:
+      and:
+        - source_name == "한자암기박사1"
+    order:
+      - file.name
+      - level
+      - checkbox
+      - read
+    columnSize:
+      file.name: 326
+      note.level: 159
+      note.read: 7
+  - type: table
+    name: 한자암기박사 2권
+    filters:
+      and:
+        - source_name == "한자암기박사2"
+    order:
+      - file.name
+      - level
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 377
+      note.level: 202
+      note.read: 7

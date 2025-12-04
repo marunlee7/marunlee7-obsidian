@@ -1,0 +1,4 @@
+.markdown-preview-view h2,
+.markdown-source-view .HyperMD-header-2 {
+  margin-bottom: 2em; /* 한 줄 띄우기(여백 조절 가능) */
+}

@@ -1,0 +1,5 @@
+/* 첫 번째 열의 폭을 200px로 고정 */
+.dataview.table-view-table td:nth-child(2) {
+  min-width: 200px;
+  max-width: 200px;
+}

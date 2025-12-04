@@ -1,0 +1,38 @@
+---
+aliases: 
+created:  2025-02-11 17:21
+type: [[생각노트]]
+tags: [ ]
+---
+/* MOBILE styles for Obsidian */
+@media only screen and (max-width: 768px) {
+  :root {
+    font-size: 18px !important;
+  }
+
+  .cm-line {
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .markdown-preview-view h1 {
+    font-size: 24px !important;
+    font-weight: bold;
+  }
+
+  .markdown-preview-view h2 {
+    font-size: 20px !important;
+    margin-top: 20px;
+  }
+
+  .markdown-preview-view blockquote {
+    border-left: 3px solid #bbb;
+    padding-left: 10px;
+    font-style: italic;
+  }
+
+  .workspace-split {
+    padding: 8px;
+  }
+}

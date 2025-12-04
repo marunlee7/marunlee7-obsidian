@@ -1,0 +1,136 @@
+views:
+  - type: table
+    name: 한자어휘사전_Base
+    filters:
+      and:
+        - file_role == "dictionary"
+        - word_type == "한자어휘"
+    order:
+      - file.name
+      - aliases
+      - meaning
+      - priority
+      - process
+      - word_type
+      - references
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: modified
+        direction: DESC
+    columnSize:
+      file.name: 157
+      note.aliases: 179
+      note.meaning: 215
+      note.priority: 77
+  - type: table
+    name: 배정한자
+    filters:
+      and:
+        - word_type == "배정한자"
+    order:
+      - file.name
+      - aliases
+      - tags
+    sort:
+      - property: tags
+        direction: ASC
+    columnSize:
+      file.name: 103
+  - type: table
+    name: 한자어휘사전_Base 서명
+    filters:
+      and:
+        - file_role == "dictionary"
+        - word_type == "서명"
+    order:
+      - file.name
+      - aliases
+      - meaning
+      - priority
+      - process
+      - word_type
+      - references
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: modified
+        direction: DESC
+    columnSize:
+      file.name: 157
+      note.aliases: 179
+      note.meaning: 215
+      note.priority: 77
+  - type: table
+    name: 한자어휘사전_Base 인물
+    filters:
+      and:
+        - file_role == "dictionary"
+        - word_type == "인물"
+    order:
+      - file.name
+      - aliases
+      - meaning
+      - priority
+      - process
+      - word_type
+      - references
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: modified
+        direction: DESC
+    columnSize:
+      file.name: 157
+      note.aliases: 179
+      note.meaning: 215
+      note.priority: 77
+  - type: table
+    name: 한자어휘사전_Base 다산선생 지식경영법
+    filters:
+      and:
+        - file_role == "dictionary"
+        - word_type == "한자어휘"
+        - source_name == "다산선생 지식경영법"
+    order:
+      - file.name
+      - aliases
+      - meaning
+      - priority
+      - process
+      - word_type
+      - references
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: modified
+        direction: DESC
+    columnSize:
+      file.name: 157
+      note.aliases: 179
+      note.meaning: 215
+      note.priority: 77
+  - type: table
+    name: 한자어휘사전_고사성어
+    filters:
+      and:
+        - file_role == "dictionary"
+        - word_type == "고사성어"
+    order:
+      - file.name
+      - aliases
+      - meaning
+      - priority
+      - process
+      - word_type
+      - references
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: modified
+        direction: DESC
+    columnSize:
+      file.name: 157
+      note.aliases: 179
+      note.meaning: 215
+      note.priority: 77

@@ -1,0 +1,30 @@
+/* 백링크(문서 하단)와 사이드바 백링크 폰트 동일하게 설정 */
+.embedded-backlinks .backlink-pane,
+.mod-right-split .backlink-pane {
+  font-size: 1em; /* 원하는 크기로 조정 */
+  line-height: 1.5;
+  font-weight: normal; /* 필요시 조절 */
+}
+
+.backlink-pane .tree-item-self {
+  color: var(--text-accent);
+  background-color: var(--background-secondary);
+  padding: 6px 8px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}
+
+.backlink-pane .tree-item-inner {
+  background-color: var(--background-primary-alt);
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+.backlink-pane .search-result-file-match {
+  border-bottom: 1px dashed var(--background-modifier-border);
+  padding: 6px 8px;
+}
+
+.backlink-pane .search-result-file-match:last-child {
+  border-bottom: none;
+}

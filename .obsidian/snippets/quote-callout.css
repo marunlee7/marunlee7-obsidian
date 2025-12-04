@@ -1,0 +1,4 @@
+.callout[data-callout="note"] {
+  --callout-icon: quote;
+  --callout-color: var(--color-gray-rgb);
+}

@@ -1,0 +1,8 @@
+{
+  "__VERSION__": 2,
+  "release.previous-version": "4.1.2",
+  "playback.default-volume": 46,
+  "playback.screenshot.format": "image/webp",
+  "link.click-behavior": "split-horizontal",
+  "note.template.timestamp": "{{TIMESTAMP}} "
+}

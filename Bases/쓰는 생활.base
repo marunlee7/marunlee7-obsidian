@@ -1,0 +1,155 @@
+views:
+  - type: table
+    name: 전체
+    filters:
+      and:
+        - file.tags.contains("쓰는생활")
+        - '!file.tags.contains("📚독서")'
+        - '!file.folder.contains("90-settings")'
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.tags
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 444
+      note.read: 79
+      note.checkbox: 99
+  - type: table
+    name: read
+    filters:
+      and:
+        - file.tags.contains("쓰는생활")
+        - '!file.tags.contains("📚독서")'
+        - read != false
+    order:
+      - file.name
+      - aliases
+      - read
+      - checkbox
+    sort: []
+    columnSize:
+      file.name: 307
+      note.checkbox: 61
+  - type: table
+    name: not read
+    filters:
+      and:
+        - file.tags.contains("쓰는생활")
+        - '!file.tags.contains("📚독서")'
+        - read != true
+    order:
+      - file.name
+      - aliases
+      - read
+      - checkbox
+    sort: []
+    columnSize:
+      file.name: 399
+      note.aliases: 151
+      note.checkbox: 61
+  - type: table
+    name: checkbox
+    filters:
+      and:
+        - file.tags.contains("쓰는생활")
+        - checkbox == true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 337
+      note.checkbox: 61
+  - type: table
+    name: 프롤로그
+    filters:
+      and:
+        - file.tags.contains("쓰는생활/프롤로그")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 444
+      note.read: 79
+      note.checkbox: 99
+  - type: table
+    name: 1부
+    filters:
+      and:
+        - file.tags.contains("쓰는생활/1부")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 444
+      note.read: 79
+      note.checkbox: 99
+  - type: table
+    name: 2부
+    filters:
+      and:
+        - file.tags.contains("쓰는생활/2부")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 444
+      note.read: 79
+      note.checkbox: 99
+  - type: table
+    name: 3부
+    filters:
+      and:
+        - file.tags.contains("쓰는생활/3부")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 444
+      note.read: 79
+      note.checkbox: 99
+  - type: table
+    name: 4부
+    filters:
+      and:
+        - file.tags.contains("쓰는생활/4부")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 444
+      note.read: 79
+      note.checkbox: 99

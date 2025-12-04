@@ -1,0 +1,73 @@
+/* 백링크 패널 공통 폰트 크기 및 라인 높이 */
+.embedded-backlinks .backlink-pane,
+.mod-right-split .backlink-pane {
+  font-size: 0.95em;  /* 전체 기본 폰트 크기 */
+  line-height: 1.5;
+}
+/* 백링크 제목(문서명) 스타일 + 배경색 추가 */
+.embedded-backlinks .backlink-pane .tree-item-self,
+.mod-right-split .backlink-pane .tree-item-self {
+  color: #3a4a6b;
+  font-size: 0.95em !important;
+  padding: 4px 4px;
+  border-radius: 4px;
+  margin-bottom: 6px;
+  background-color: #efefef; /* ← 배경색 추가 */
+}
+
+/* 백링크 제목(문서명) 스타일 */
+.embedded-backlinks .backlink-pane .tree-item-self,
+.mod-right-split .backlink-pane .tree-item-self {
+  color: #3a4a6b;
+  font-size: 0.95em !important;
+  padding: 4px 4px;
+  border-radius: 4px;
+  margin-bottom: 6px;
+}
+
+/* 헤드라인(헤딩) 스타일 */
+.embedded-backlinks .backlink-pane .tree-item-inner,
+.mod-right-split .backlink-pane .tree-item-inner {
+  padding: 4px 4px;
+  border-radius: 3px;
+  font-weight: bold;
+  font-size: 0.95em;
+}
+
+/* 본문(본문 텍스트) 폰트 크기 +1단계 (기존 0.9em → 1em) */
+.embedded-backlinks .backlink-pane .search-result-file-matches,
+.mod-right-split .backlink-pane .search-result-file-matches,
+.embedded-backlinks .backlink-pane .tree-item-children,
+.mod-right-split .backlink-pane .tree-item-children {
+  font-size: 0.95em !important;
+}
+
+/* 각 백링크 결과 사이에 점선 구분선 */
+.embedded-backlinks .backlink-pane .search-result-file-match,
+.mod-right-split .backlink-pane .search-result-file-match {
+  border-bottom: 1px dashed #d2d2d2;
+  padding: 4px 4px;
+}
+.embedded-backlinks .backlink-pane .search-result-file-match:last-child,
+.mod-right-split .backlink-pane .search-result-file-match:last-child {
+  border-bottom: none;
+}
+
+/* 링크된 언급(첫 번째 컨테이너) 각 문서별 1~3번째 백링크 결과만 배경색 */
+.embedded-backlinks .backlink-pane .search-result-container:first-of-type .search-result-file-matches .search-result-file-match:nth-of-type(-n+3),
+.mod-right-split .backlink-pane .search-result-container:first-of-type .search-result-file-matches .search-result-file-match:nth-of-type(-n+3) {
+  background-color: #efefef;
+  border-radius: 4px;
+}
+
+/* (기존 코드 생략) */
+
+/* 더보기/접기 버튼 위치 조정 */
+.embedded-backlinks .backlink-pane .more-button,
+.mod-right-split .backlink-pane .more-button,
+.embedded-backlinks .backlink-pane .collapse-button,
+.mod-right-split .backlink-pane .collapse-button {
+  float: right;
+  margin-left: 8px;
+  order: 2;
+}

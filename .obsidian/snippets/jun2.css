@@ -1,0 +1,21 @@
+/*for "Source mode" and "Live Preview"*/
+
+.cm-header-1,
+.cm-header-2,
+.cm-header-3,
+.cm-header-4,
+.cm-header-5{
+  color:#3FB595;
+font-family: "Jalnan";
+}
+
+/*for "Source mode"*/
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5{
+color: #3FB595;
+font-family: "Jalnan";
+}
+

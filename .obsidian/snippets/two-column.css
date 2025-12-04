@@ -1,0 +1,5 @@
+/* 두 단 레이아웃 (two-column) */
+.two-column .markdown-preview-section {
+  column-count: 2;
+  column-gap: 2em; /* 단 사이 간격 조정 */
+}

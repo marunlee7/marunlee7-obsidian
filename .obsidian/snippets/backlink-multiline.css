@@ -1,0 +1,10 @@
+/* 미니멀 테마 백링크 미리보기 텍스트 확장 */
+.backlink-pane .backlink-pane-link,
+.backlink-pane .internal-link {
+  max-height: none !important;
+  overflow: visible !important;
+  white-space: normal !important;
+  display: block !important;
+  -webkit-line-clamp: unset !important;
+  -webkit-box-orient: unset !important;
+}

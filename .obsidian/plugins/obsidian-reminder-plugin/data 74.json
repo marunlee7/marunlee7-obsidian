@@ -1,0 +1,64 @@
+{
+  "scanned": true,
+  "reminders": {
+    "40. PARA/43. Resources/Hanja/어문회 배정한자/어문회 배정 훈음작업.md": [
+      {
+        "title": "특급, 특급2, 1급을 제외하고 우선 작업할 것",
+        "time": "2023-12-04 02:27",
+        "rowNumber": 0
+      }
+    ],
+    "40. PARA/41. Projects/잔향/1000개의 메모 연결 71주차 어느 메모광이 일상에서 메모하는 방식, 한 주 간의 기록(2023.04.06-2023.04.12).md": [
+      {
+        "title": "메모 방식 패턴을 정리 - 나도 같은 방식으로 정리해보자.",
+        "time": "2023-12-05",
+        "rowNumber": 13
+      }
+    ],
+    "40. PARA/41. Projects/작가의방/옵시디언 리마인더 Reminder.md": [
+      {
+        "title": "체크리스트 <- GTD 기반",
+        "time": "2023-12-04 02:27",
+        "rowNumber": 7
+      }
+    ],
+    "30. Journals/생각노트/어문회 한자 정리 - 2차 버전.md": [
+      {
+        "title": "재점검",
+        "time": "2023-12-07",
+        "rowNumber": 9
+      }
+    ],
+    "20. Finder/22. MOC/할일 MOC.md": [
+      {
+        "title": "Logseq 꼬불 한자 정리 ⏫",
+        "time": "2023-12-04 02:27",
+        "rowNumber": 9
+      },
+      {
+        "title": "어문회 2급, 3급 빈출어휘 600개 정리 ![[어문회 2급, 3급 빈출어휘.txt]]",
+        "time": "2023-12-04",
+        "rowNumber": 6
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

@@ -1,0 +1,50 @@
+views:
+  - type: table
+    name: 표-전체
+    filters:
+      and:
+        - file.tags.contains("옵시디언/북트레싱")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 239
+      note.checkbox: 61
+  - type: table
+    name: 표 not read
+    filters:
+      and:
+        - file.tags.contains("옵시디언/북트레싱")
+        - '!file.tags.contains("📚독서")'
+        - read != true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 433
+      note.checkbox: 61
+  - type: table
+    name: 표 checkbox
+    filters:
+      and:
+        - file.tags.contains("옵시디언/북트레싱")
+        - checkbox == true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 222
+      note.checkbox: 61

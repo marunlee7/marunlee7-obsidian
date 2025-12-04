@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "03_Concepts",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "attachmentFolderPath": "09_System/Assets",
+  "readableLineLength": false,
+  "showLineNumber": true
+}

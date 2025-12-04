@@ -1,0 +1,5 @@
+/* 선택한 텍스트의 색상 변경하는 CSS Snippet입니다. */
+::selection {
+  color: white !important;
+  background: #6B9900 !important;
+}

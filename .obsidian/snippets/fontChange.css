@@ -1,0 +1,21 @@
+﻿
+/* 카테고리 폰트 적용 */
+
+body {
+
+    font-family: 'NEXON Lv2 Gothic';
+
+}
+
+﻿
+﻿
+/* 본문 폰트 적용 */
+
+.markdown-rendered, .markdown-source-view, .markdown-preview-view, .cm-s-obsidian, .markdown-source-view.mod-cm6 .cm-scroller {
+
+
+    font-family: 'NEXON Lv2 Gothic';
+
+
+}
+

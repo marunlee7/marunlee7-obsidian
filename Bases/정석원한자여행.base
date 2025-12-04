@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: 표
+    filters:
+      and:
+        - file.tags.contains("한자어휘/정석원한자여행")
+    order:
+      - file.name
+      - han_meaning
+      - aliases
+    columnSize:
+      file.name: 175
+      note.han_meaning: 383

@@ -1,0 +1,82 @@
+views:
+  - type: table
+    name: 북스
+    filters:
+      and:
+        - file.tags.contains("📚독서")
+        - '!file.path.contains("90-Settings/91-tp/")'
+    order:
+      - file.name
+      - author
+      - category
+      - checkbox
+      - status
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+      - property: author
+        direction: ASC
+      - property: status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: checkbox
+        direction: DESC
+    columnSize:
+      file.name: 312
+      note.author: 86
+      note.checkbox: 61
+      note.status: 70
+  - type: table
+    name: 🟪 클리핑
+    filters:
+      and:
+        - file.tags.contains("📚독서")
+        - '!file.path.contains("90-Settings/91-tp/")'
+        - status.contains(link("🟪 클리핑"))
+    order:
+      - file.name
+      - author
+      - category
+      - checkbox
+      - status
+    sort:
+      - property: status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: checkbox
+        direction: DESC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 348
+      note.author: 86
+      note.checkbox: 82
+  - type: table
+    name: 🟧 진행
+    filters:
+      and:
+        - file.tags.contains("📚독서")
+        - '!file.path.contains("90-Settings/91-tp/")'
+        - status.contains(link("🟧 진행"))
+    order:
+      - file.name
+      - author
+      - category
+      - checkbox
+      - status
+    sort:
+      - property: status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: checkbox
+        direction: DESC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 348
+      note.author: 86
+      note.checkbox: 61

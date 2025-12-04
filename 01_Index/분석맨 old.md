@@ -1,0 +1,330 @@
+---
+cover_url: https://publish-01.obsidian.md/access/d9bda6d5cb7bb0e1283b6b240105c280/Rereferencess/Attachments/Publish_Image/analysisman_for_MSN.jpg
+publisher:
+category: 앱스
+title: 분석맨 old
+published: 2024-01-18
+level: T02
+file_role: article_atom
+status: planned # 최종 확정: planned. Task 관리 기본값.
+priority: medium
+process: "" # T01은 process 필드 사용 안 함 (빈 값 유지)
+source_name: 분석맨
+source_author: "[[분석맨 old]]"
+source_type: "book"
+references:
+  - https://secondbrain.analysisman.com/start
+  - https://secondbrain.analysisman.com/moc-dailynote
+  - https://docs.google.com/spreadsheets/d/1zEslHqiOanAlTn0FsBcjXOemB0y6M_uZx6Zv0w8TtAA/edit?usp=sharing
+tags: [출처/외부_정보/도서_단행본]
+---
+# 분석맨
+```table-of-contents
+style: nestedList
+minLevel: 0
+maxLevel: 0
+includeLinks: true 
+debugInConsole: false
+```
+## 📕 작업노트
+```dataview
+TABLE WITHOUT ID
+  link(file.path, substring(file.name, 4, 10)) AS "제목",
+  작업노트
+FROM ""
+WHERE 작업노트 != null
+  AND contains(file.tags, "옵시디언/분석맨/1_DailyNote")
+SORT file.mtime DESC
+```
+
+## 📕 사색
+```dataview
+TABLE WITHOUT ID
+  link(file.path, substring(file.name, 4, 10)) AS "제목",
+  사색
+FROM ""
+WHERE 사색 != null 
+  AND contains(file.tags, "옵시디언/분석맨")
+SORT file.mtime DESC
+```
+
+## 📕 MOC_Alchemist
+```dataview
+table without id
+	link(file.path, substring(file.name, 0, 30)) as "제목",
+	choice(checkbox, "❗", "") AS "❗",
+	choice(read, "✓", "") AS "✓",
+	dateformat(created, "yy-MM-dd") as "시작일",
+	dateformat(modified, "yy-MM-dd") as "종료일"
+FROM "" 
+WHERE contains(file.tags, "옵시디언/분석맨/Alchemist")
+	AND !contains(file.folder, "90-Settings")
+	AND !contains(file.folder, "40-아카이브")
+	AND !contains(file.tags, "moc") 
+	AND !contains(file.tags, "📚독서, 출처/도서/서명")
+SORT file.mtime desc
+//SORT file.name desc
+//SORT file.name asc
+```
+
+## 📕 MOC
+```dataview
+table without id
+	link(file.path, substring(file.name, 4, 30)) as "제목",
+	choice(checkbox, "❗", "") AS "❗",
+	choice(read, "✓", "") AS "✓",
+	dateformat(created, "yy-MM-dd") as "시작일",
+	dateformat(modified, "yy-MM-dd") as "종료일"
+FROM "" 
+WHERE contains(file.tags, "옵시디언/분석맨/1_DailyNote")
+	AND !contains(file.folder, "90-Settings")
+	AND !contains(file.folder, "40-아카이브")
+	AND !contains(file.tags, "moc") 
+	AND !contains(file.tags, "📚독서, 출처/도서/서명")
+SORT file.mtime desc
+//SORT file.name desc
+//SORT file.name asc
+```
+
+## 📕 소개
+
+안녕하세요! 창조하는 분석맨의 두 번째 뇌(Second Brain) 입니다.
+두 번째 뇌를 만들어 노트를 연결하고 지성을 확장합니다.
+
+아름다운 디지털 정원(Digital Garden)을 가꾸기 위한 씨앗을 뿌립니다.
+앞으로 풍성한 열매를 맺어 많은 분께 나누어 드리고 싶습니다.
+
+많은 분이 들러서 좋은 열매를 얻어 가시기 바랍니다.
+
+- 🅖 [google sheet ↗]()
+	- 2025-01-15 분석맨 템플릿 적용함
+		- 내생각, 요약, 레퍼런스, 링스, 착표
+	- 2025-01-17 백업 및 수정작업
+	- 2025-01-19 북표지 → 프라퍼티 적용시도
+	- 다음작업은 빈공간에
+- [x] 분석맨의 다음 클리핑 ✅ 2025-11-01
+- 대략 15개 아티클 : https://secondbrain.analysisman.com/Atlas/1_WRITE/1_2ndBrain/_MOC_1_2ndBrain
+- 다산선생 관련 8개 https://secondbrain.analysisman.com/_moc_1_book
+- 브레인 1개 https://secondbrain.analysisman.com/Atlas/1_WRITE/1_Brain/_MOC_1_Brain
+- 제텔카스텐 https://secondbrain.analysisman.com/Atlas/1_WRITE/1_Zettelkasten/_MOC_1_Zettelkasten
+- 로보틱스https://secondbrain.analysisman.com/Atlas/2_HACK/2_AI-Robotics/_MOC_2_AI-Robotics
+- 영어공부 https://secondbrain.analysisman.com/_moc_2_english
+- 슬립박스 ㄱ : 간단한 글+하우투 엿볼수 있고 템플릿 노트 참조할 것 https://secondbrain.analysisman.com/_moc_2_english
+
+### 프로젝트 진행상태 수작업
+- https://secondbrain.analysisman.com/obsidian-progressbar
+- ![100](https://geps.dev/progress/25/?title=지연)
+
+> [!warning]+
+> 분석맨의 아티클은 내 플로우에 맞추지 않는다.
+> 분석맨의 [내생각-요약-레퍼런스(참고한글)-링스(본인 작성한 moc)] 템플릿 유지<br>
+> 중간에 나의 코멘트(노트), 할일(투두)만 추가하는 것으로 재정리합니다. [[2025-10-31]]
+
+## 📕 목차 [91]
+
+- [[분석맨 Day 01_1일 1노트 챌린지에 도전하다]]
+- [[분석맨 Day 02_약물 없이 도파민을 만들자]]
+- [[분석맨 Day 03_N잡 시대의 필수 스킬, 글쓰기의 핵심 비법]]
+- [[분석맨 Day 04_덜어내야 보석을 발견할 수 있다]]
+- [[분석맨 Day 05_기억력을 향상시키고 똑똑하게 만드는 독서법]] ★
+- [[분석맨 Day 06_고민의 순서를 바꾸세요]]
+- [[분석맨 Day 07_변화는 일상의 축적을 통해서]]
+- [[분석맨 Day 08_102세 김형석 교수가 말하는 '돈 보다 소중 한 것']]
+- [[분석맨 Day 09_워런 버핏이 지금의 자리에 오를 수 있었던 6가지 전략]]
+- [[분석맨 Day 10_자기 해설 공부법과 두 번째 뇌 만들기]]
+- [[분석맨 Day 11_안철수만의 비법]]
+- [[분석맨 Day 12_1일 1노트 챌린지 회고]]
+- [[분석맨 Day 13_백만장자들의 15가지 습관]]
+- [[분석맨 Day 14_글을 꾸준히 계속 쓰려면 나를 알아야 한다]]
+- [[분석맨 Day 15_게으름의 대부분은 사실 '두려움'이다]]
+- [[분석맨 Day 16_누구도 피할 수 없는 인생의 '세 가지 진실']]
+- [[분석맨 Day 17_메이크 타임_구글 천재들의 혁신적 시간 관리법]]
+- [[분석맨 Day 18_최악의 고민에서 벗어나는 3단계]]
+- [[분석맨 Day 19_단순함과 인생, 글쓰기의 깊은 상관관계]]
+- [[분석맨 Day 20_책을 정리하는 방법]]
+
+- [[분석맨 Day 21_단 1분 만에 나의 미래를 바꾸는 방법]]
+- [[분석맨 Day 22_주인공이 아니어도 괜찮아]]
+- [[분석맨 Day 23_80-20 법칙]]
+- [[분석맨 Day 24_돈 잘 버는 작가 되는 법]] ★
+- [[분석맨 Day 25_스토리를 만들 때, 프로와 아마추어의 차이]] ★
+- [[분석맨 Day 26_이슬아 작가 - 글쓰기는 부지런한 사랑이다]]★★
+- [[분석맨 Day 27_너 자신이 돼라]]
+- [[분석맨 Day 28_이강룡 작가 - 글을 잘 쓰고 싶으면, 잘살아야 한다]]
+- [[분석맨 Day 29_영어를 어떻게 하면 잘하겠는가]]
+- [[분석맨 Day 30_늙지 않는 비밀]]
+- [[분석맨 Day 31_글쓰기의 쾌감, 중독되면 끊을 수 없어]]
+- [[분석맨 Day 32_제프 베조스의 '후회 최소화 프레임워크']] ★
+- [[분석맨 Day 33_무기력한 나에게]]
+- [[분석맨 Day 34_선메모 후생각]]
+- [[분석맨 Day 35_서울대생 공부법]]
+- [[분석맨 Day 36_쓰레기 수거회사 CEO]]
+- [[분석맨 Day 37_상상력은 작가를 위대하게 만든다]]
+- [[분석맨 Day 38_생각을 아웃풋하라]]
+- [[분석맨 Day 39_뇌를 알고 영어 공부하기]]
+- [[분석맨 Day 40_오바마 대통령의 시간 관리 비법]] ★
+- [[분석맨 Day 41_정말 AI가 이 글을 썼단 말인가?]]
+- [[분석맨 Day 42_이중언어로 뇌를 활성화하라]]
+- [[분석맨 Day 43_조셉캠밸의 책 읽는 법]] ★
+- [[분석맨 Day 44_영어 10가지만 지켜라]]
+- [[분석맨 Day 45_시간은 생각이 만들어낸 허상일 뿐]]
+- [[분석맨 Day 46_글쓰기를 습관으로 만드는 방법]]
+- [[분석맨 Day 47_PKM과 대화하기]]
+- [[분석맨 Day 48_미루는 습관을 극복하는 11가지 방법]] ★
+- [[분석맨 Day 49_호흡만 잘해도 체중이 감소한다]]
+- [[분석맨 Day 50_1일 1노트 챌린지 50일 회고]]
+
+- [[분석맨 Day 51_요약이 최고의 글쓰기 연습]] ★
+- [[분석맨 Day 52_창의성의 핵심은 좋은 질문이다]]
+- [[분석맨 Day 53_창조의 기쁨]]
+- [[분석맨 Day 54_창조성의 비밀 - 점이 아니라 선이다]]
+- [[분석맨 Day 55_신아영 - 미국 안 가고도 영어 잘 하는 법]]
+- [[분석맨 Day 56_글쓰기를 메모처럼 쉽게 하기]]
+- [[분석맨 Day 57_영어로 생각하기]]
+- [[분석맨 Day 58_인생은 게임과 같다]]
+- [[분석맨 Day 59_1일 1노트 챌린지 59일 회고_1차 끝]]
+- [[분석맨 Day 60_실행력은 습관이다]]
+- [[분석맨 Day 61_재능 고민하지 말고 해야 할 일 먼저]]
+- [[분석맨 Day 62_타일러가 알려주는 영어 마스터 비법]]
+- [[분석맨 Day 63_관조하기]]
+- [[분석맨 Day 64_인플루언서가 되는 방법]]
+- [[분석맨 Day 65_습관 형성에 걸리는 시간]]
+- [[분석맨 Day 66_글쓰기에서 얻는 효과는 과정에서 얻어진다]]
+- [[분석맨 Day 67_애덤 그랜트 교수의 생산성 높이는 비결]]
+- [[분석맨 Day 68_상상력이 챔피언을 만든다]]
+- [[분석맨 Day 69_근대 초기 영국인들의 독서법]]
+- [[분석맨 Day 70_더 많은 힘과 능력을 얻는 방법]]
+
+- [[분석맨 Day 71_즐겁게 글을 쓸 수 있는 3가지 방법]]
+- [[분석맨 Day 72_상황이 아무리 나빠져도]]
+- [[분석맨 Day 73_글쓰기 마인드셋]]
+- [[분석맨 Day 74_두 번째 뇌를 만드는 것은 습관이 아니라 철학의 변화다]]
+- [[분석맨 Day 75_의사결정의 에너지를 줄여라]]
+- [[분석맨 Day 76_상술(Elaboration) 학습법]]
+- [[분석맨 Day 77_기록만 해도 변화가 일어난다]]
+- [[분석맨 Day 78_내가 기분 좋게 암시를 걸자]]
+- [[분석맨 Day 79_고독의 힘]]
+- [[분석맨 Day 80_새로운 시각]]
+- [[분석맨 Day 81_제텔카스텐 메모는 간결하다]]
+- [[분석맨 Day 82_정수만 뽑아내자]]
+- [[분석맨 Day 83_반대로 생각하라]]
+- [[분석맨 Day 84_버핏과 멍거의 성공 원인 - 기본적인 가치에 대한 존중]]
+- [[분석맨 Day 85_추상화는 아이디어를 결합하는 열쇠다]]
+- [[분석맨 Day 86_살아있다는 건 죽음을 생각하는 것]]
+- [[분석맨 Day 87_자아고갈은 믿음이다]]
+- [[분석맨 Day 88_우리 뇌는 항상 만족하지 못한다]]
+- [[분석맨 Day 89_시간 관리는 선택이다]]
+- [[분석맨 Day 90_제텔카스텐 메모와 글쓰기]]
+- [[분석맨 Day 91_우울증이 세대 간에 대물림된다]] / end.
+
+
+## 📕 분석맨의 두 번째 뇌 목차 MOC_1_DailyNote
+
+[Day 1_1일 1노트 챌린지에 도전하다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+1_1%EC%9D%BC+1%EB%85%B8%ED%8A%B8+%EC%B1%8C%EB%A6%B0%EC%A7%80%EC%97%90+%EB%8F%84%EC%A0%84%ED%95%98%EB%8B%A4)  
+[Day 2_약물 없이 도파민을 만들자](https://secondbrain.analysisman.com/dopamine-write)  
+[Day 3_N잡 시대의 필수 스킬, 글쓰기의 핵심 비법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+3_N%EC%9E%A1+%EC%8B%9C%EB%8C%80%EC%9D%98+%ED%95%84%EC%88%98+%EC%8A%A4%ED%82%AC%2C+%EA%B8%80%EC%93%B0%EA%B8%B0%EC%9D%98+%ED%95%B5%EC%8B%AC+%EB%B9%84%EB%B2%95)  
+[Day 4_덜어내야 보석을 발견할 수 있다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+4_%EB%8D%9C%EC%96%B4%EB%82%B4%EC%95%BC+%EB%B3%B4%EC%84%9D%EC%9D%84+%EB%B0%9C%EA%B2%AC%ED%95%A0+%EC%88%98+%EC%9E%88%EB%8B%A4)  
+[Day 5_기억력을 향상시키고 똑똑하게 만드는 독서법](https://secondbrain.analysisman.com/reading-memory-smarter)  
+[Day 6_고민의 순서를 바꾸세요](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+6_%EA%B3%A0%EB%AF%BC%EC%9D%98+%EC%88%9C%EC%84%9C%EB%A5%BC+%EB%B0%94%EA%BE%B8%EC%84%B8%EC%9A%94)  
+[Day 7_변화는 일상의 축적을 통해서](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+7_%EB%B3%80%ED%99%94%EB%8A%94+%EC%9D%BC%EC%83%81%EC%9D%98+%EC%B6%95%EC%A0%81%EC%9D%84+%ED%86%B5%ED%95%B4%EC%84%9C)  
+[Day 8_102세 김형석 교수가 말하는 '돈 보다 소중 한 것'](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+8_102%EC%84%B8+%EA%B9%80%ED%98%95%EC%84%9D+%EA%B5%90%EC%88%98%EA%B0%80+%EB%A7%90%ED%95%98%EB%8A%94+'%EB%8F%88+%EB%B3%B4%EB%8B%A4+%EC%86%8C%EC%A4%91+%ED%95%9C+%EA%B2%83')  
+[Day 9_워런 버핏이 지금의 자리에 오를 수 있었던 6가지 전략](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+9_%EC%9B%8C%EB%9F%B0+%EB%B2%84%ED%95%8F%EC%9D%B4+%EC%A7%80%EA%B8%88%EC%9D%98+%EC%9E%90%EB%A6%AC%EC%97%90+%EC%98%A4%EB%A5%BC+%EC%88%98+%EC%9E%88%EC%97%88%EB%8D%98+6%EA%B0%80%EC%A7%80+%EC%A0%84%EB%9E%B5)  
+[Day 10_자기 해설 공부법과 두 번째 뇌 만들기](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+10_%EC%9E%90%EA%B8%B0+%ED%95%B4%EC%84%A4+%EA%B3%B5%EB%B6%80%EB%B2%95%EA%B3%BC+%EB%91%90+%EB%B2%88%EC%A7%B8+%EB%87%8C+%EB%A7%8C%EB%93%A4%EA%B8%B0)  
+[Day 11_안철수만의 비법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+11_%EC%95%88%EC%B2%A0%EC%88%98%EB%A7%8C%EC%9D%98+%EB%B9%84%EB%B2%95)  
+[Day 12_1일 1노트 챌린지 회고](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+12_1%EC%9D%BC+1%EB%85%B8%ED%8A%B8+%EC%B1%8C%EB%A6%B0%EC%A7%80+%ED%9A%8C%EA%B3%A0)  
+[Day 13_백만장자들의 15가지 습관](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+13_%EB%B0%B1%EB%A7%8C%EC%9E%A5%EC%9E%90%EB%93%A4%EC%9D%98+15%EA%B0%80%EC%A7%80+%EC%8A%B5%EA%B4%80)  
+[Day 14_글을 꾸준히 계속 쓰려면 나를 알아야 한다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+14_%EA%B8%80%EC%9D%84+%EA%BE%B8%EC%A4%80%ED%9E%88+%EA%B3%84%EC%86%8D+%EC%93%B0%EB%A0%A4%EB%A9%B4+%EB%82%98%EB%A5%BC+%EC%95%8C%EC%95%84%EC%95%BC+%ED%95%9C%EB%8B%A4)  
+[Day 15_게으름의 대부분은 사실 '두려움'이다](https://secondbrain.analysisman.com/procrastinate-fear)  
+[Day 16_누구도 피할 수 없는 인생의 '세 가지 진실'](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+16_%EB%88%84%EA%B5%AC%EB%8F%84+%ED%94%BC%ED%95%A0+%EC%88%98+%EC%97%86%EB%8A%94+%EC%9D%B8%EC%83%9D%EC%9D%98+'%EC%84%B8+%EA%B0%80%EC%A7%80+%EC%A7%84%EC%8B%A4')  
+[Day 17_메이크 타임_구글 천재들의 혁신적 시간 관리법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+17_%EB%A9%94%EC%9D%B4%ED%81%AC+%ED%83%80%EC%9E%84_%EA%B5%AC%EA%B8%80+%EC%B2%9C%EC%9E%AC%EB%93%A4%EC%9D%98+%ED%98%81%EC%8B%A0%EC%A0%81+%EC%8B%9C%EA%B0%84+%EA%B4%80%EB%A6%AC%EB%B2%95)  
+[Day 18_최악의 고민에서 벗어나는 3단계](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+18_%EC%B5%9C%EC%95%85%EC%9D%98+%EA%B3%A0%EB%AF%BC%EC%97%90%EC%84%9C+%EB%B2%97%EC%96%B4%EB%82%98%EB%8A%94+3%EB%8B%A8%EA%B3%84)  
+[Day 19_단순함과 인생, 글쓰기의 깊은 상관관계](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+19_%EB%8B%A8%EC%88%9C%ED%95%A8%EA%B3%BC+%EC%9D%B8%EC%83%9D%2C+%EA%B8%80%EC%93%B0%EA%B8%B0%EC%9D%98+%EA%B9%8A%EC%9D%80+%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84)  
+[Day 20_책을 정리하는 방법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+20_%EC%B1%85%EC%9D%84+%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94+%EB%B0%A9%EB%B2%95)  
+[Day 21_단 1분 만에 나의 미래를 바꾸는 방법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+21_%EB%8B%A8+1%EB%B6%84+%EB%A7%8C%EC%97%90+%EB%82%98%EC%9D%98+%EB%AF%B8%EB%9E%98%EB%A5%BC+%EB%B0%94%EA%BE%B8%EB%8A%94+%EB%B0%A9%EB%B2%95)  
+[Day 22_주인공이 아니어도 괜찮아](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+22_%EC%A3%BC%EC%9D%B8%EA%B3%B5%EC%9D%B4+%EC%95%84%EB%8B%88%EC%96%B4%EB%8F%84+%EA%B4%9C%EC%B0%AE%EC%95%84)  
+[Day 23_80-20 법칙](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+23_80-20+%EB%B2%95%EC%B9%99)  
+[Day 24_돈 잘 버는 작가 되는 법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+24_%EB%8F%88+%EC%9E%98+%EB%B2%84%EB%8A%94+%EC%9E%91%EA%B0%80+%EB%90%98%EB%8A%94+%EB%B2%95)  
+[Day 25_스토리를 만들 때, 프로와 아마추어의 차이](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+25_%EC%8A%A4%ED%86%A0%EB%A6%AC%EB%A5%BC+%EB%A7%8C%EB%93%A4+%EB%95%8C%2C+%ED%94%84%EB%A1%9C%EC%99%80+%EC%95%84%EB%A7%88%EC%B6%94%EC%96%B4%EC%9D%98+%EC%B0%A8%EC%9D%B4)  
+[Day 26_이슬아 작가 - 글쓰기는 부지런한 사랑이다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+26_%EC%9D%B4%EC%8A%AC%EC%95%84+%EC%9E%91%EA%B0%80+-+%EA%B8%80%EC%93%B0%EA%B8%B0%EB%8A%94+%EB%B6%80%EC%A7%80%EB%9F%B0%ED%95%9C+%EC%82%AC%EB%9E%91%EC%9D%B4%EB%8B%A4)  
+[Day 27_너 자신이 돼라](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+27_%EB%84%88+%EC%9E%90%EC%8B%A0%EC%9D%B4+%EB%8F%BC%EB%9D%BC)  
+[Day 28_이강룡 작가 - 글을 잘 쓰고 싶으면, 잘살아야 한다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+28_%EC%9D%B4%EA%B0%95%EB%A3%A1+%EC%9E%91%EA%B0%80+-+%EA%B8%80%EC%9D%84+%EC%9E%98+%EC%93%B0%EA%B3%A0+%EC%8B%B6%EC%9C%BC%EB%A9%B4%2C+%EC%9E%98%EC%82%B4%EC%95%84%EC%95%BC+%ED%95%9C%EB%8B%A4)  
+[Day 29_영어를 어떻게 하면 잘하겠는가](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+29_%EC%98%81%EC%96%B4%EB%A5%BC+%EC%96%B4%EB%96%BB%EA%B2%8C+%ED%95%98%EB%A9%B4+%EC%9E%98%ED%95%98%EA%B2%A0%EB%8A%94%EA%B0%80)  
+[Day 30_늙지 않는 비밀](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+30_%EB%8A%99%EC%A7%80+%EC%95%8A%EB%8A%94+%EB%B9%84%EB%B0%80)  
+[Day 31_글쓰기의 쾌감, 중독되면 끊을 수 없어](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+31_%EA%B8%80%EC%93%B0%EA%B8%B0%EC%9D%98+%EC%BE%8C%EA%B0%90%2C+%EC%A4%91%EB%8F%85%EB%90%98%EB%A9%B4+%EB%81%8A%EC%9D%84+%EC%88%98+%EC%97%86%EC%96%B4)  
+[Day 32_제프 베조스의 '후회 최소화 프레임워크'](https://secondbrain.analysisman.com/jeffbezos-framework)  
+[Day 33_무기력한 나에게](https://secondbrain.analysisman.com/dailynote-day33-lethargic)  
+[Day 34_선메모 후생각](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+34_%EC%84%A0%EB%A9%94%EB%AA%A8+%ED%9B%84%EC%83%9D%EA%B0%81)  
+[Day 35_서울대생 공부법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+35_%EC%84%9C%EC%9A%B8%EB%8C%80%EC%83%9D+%EA%B3%B5%EB%B6%80%EB%B2%95)  
+[Day 36_쓰레기 수거회사 CEO](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+36_%EC%93%B0%EB%A0%88%EA%B8%B0+%EC%88%98%EA%B1%B0%ED%9A%8C%EC%82%AC+CEO)  
+[Day 37_상상력은 작가를 위대하게 만든다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+37_%EC%83%81%EC%83%81%EB%A0%A5%EC%9D%80+%EC%9E%91%EA%B0%80%EB%A5%BC+%EC%9C%84%EB%8C%80%ED%95%98%EA%B2%8C+%EB%A7%8C%EB%93%A0%EB%8B%A4)  
+[Day 38_생각을 아웃풋하라](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+38_%EC%83%9D%EA%B0%81%EC%9D%84+%EC%95%84%EC%9B%83%ED%92%8B%ED%95%98%EB%9D%BC)  
+[Day 39_뇌를 알고 영어 공부하기](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+39_%EB%87%8C%EB%A5%BC+%EC%95%8C%EA%B3%A0+%EC%98%81%EC%96%B4+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0)  
+[Day 40_오바마 대통령의 시간 관리 비법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+40_%EC%98%A4%EB%B0%94%EB%A7%88+%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9D%98+%EC%8B%9C%EA%B0%84+%EA%B4%80%EB%A6%AC+%EB%B9%84%EB%B2%95)  
+[Day 41_정말 AI가 이 글을 썼단 말인가?](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+41_%EC%A0%95%EB%A7%90+AI%EA%B0%80+%EC%9D%B4+%EA%B8%80%EC%9D%84+%EC%8D%BC%EB%8B%A8+%EB%A7%90%EC%9D%B8%EA%B0%80%3F)  
+[Day 42_이중언어로 뇌를 활성화하라](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+42_%EC%9D%B4%EC%A4%91%EC%96%B8%EC%96%B4%EB%A1%9C+%EB%87%8C%EB%A5%BC+%ED%99%9C%EC%84%B1%ED%99%94%ED%95%98%EB%9D%BC)  
+[Day 43_조셉캠밸의 책 읽는 법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+43_%EC%A1%B0%EC%85%89%EC%BA%A0%EB%B0%B8%EC%9D%98+%EC%B1%85+%EC%9D%BD%EB%8A%94+%EB%B2%95)  
+[Day 44_영어 10가지만 지켜라](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+44_%EC%98%81%EC%96%B4+10%EA%B0%80%EC%A7%80%EB%A7%8C+%EC%A7%80%EC%BC%9C%EB%9D%BC)  
+[Day 45_시간은 생각이 만들어낸 허상일 뿐](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+45_%EC%8B%9C%EA%B0%84%EC%9D%80+%EC%83%9D%EA%B0%81%EC%9D%B4+%EB%A7%8C%EB%93%A4%EC%96%B4%EB%82%B8+%ED%97%88%EC%83%81%EC%9D%BC+%EB%BF%90)  
+[Day 46_글쓰기를 습관으로 만드는 방법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+46_%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC+%EC%8A%B5%EA%B4%80%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EB%B0%A9%EB%B2%95)  
+[Day 47_PKM과 대화하기](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+47_PKM%EA%B3%BC+%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0)  
+[Day 48_미루는 습관을 극복하는 11가지 방법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+48_%EB%AF%B8%EB%A3%A8%EB%8A%94+%EC%8A%B5%EA%B4%80%EC%9D%84+%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94+11%EA%B0%80%EC%A7%80+%EB%B0%A9%EB%B2%95)  
+[Day 49_호흡만 잘해도 체중이 감소한다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+49_%ED%98%B8%ED%9D%A1%EB%A7%8C+%EC%9E%98%ED%95%B4%EB%8F%84+%EC%B2%B4%EC%A4%91%EC%9D%B4+%EA%B0%90%EC%86%8C%ED%95%9C%EB%8B%A4)  
+[Day 50_1일 1노트 챌린지 50일 회고](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+50_1%EC%9D%BC+1%EB%85%B8%ED%8A%B8+%EC%B1%8C%EB%A6%B0%EC%A7%80+50%EC%9D%BC+%ED%9A%8C%EA%B3%A0)  
+[Day 51_요약이 최고의 글쓰기 연습](https://secondbrain.analysisman.com/write-abstract)  
+[Day 52_창의성의 핵심은 좋은 질문이다](https://secondbrain.analysisman.com/creativity-question)  
+[Day 53_창조의 기쁨](https://secondbrain.analysisman.com/joy-of-creation)  
+[Day 54_창조성의 비밀 - 점이 아니라 선이다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+54_%EC%B0%BD%EC%A1%B0%EC%84%B1%EC%9D%98+%EB%B9%84%EB%B0%80+-+%EC%A0%90%EC%9D%B4+%EC%95%84%EB%8B%88%EB%9D%BC+%EC%84%A0%EC%9D%B4%EB%8B%A4)  
+[Day 55_신아영 - 미국 안 가고도 영어 잘 하는 법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+55_%EC%8B%A0%EC%95%84%EC%98%81+-+%EB%AF%B8%EA%B5%AD+%EC%95%88+%EA%B0%80%EA%B3%A0%EB%8F%84+%EC%98%81%EC%96%B4+%EC%9E%98+%ED%95%98%EB%8A%94+%EB%B2%95)  
+[Day 56_글쓰기를 메모처럼 쉽게 하기](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+56_%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC+%EB%A9%94%EB%AA%A8%EC%B2%98%EB%9F%BC+%EC%89%BD%EA%B2%8C+%ED%95%98%EA%B8%B0)  
+[Day 57_영어로 생각하기](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+57_%EC%98%81%EC%96%B4%EB%A1%9C+%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0)  
+[Day 58_인생은 게임과 같다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+58_%EC%9D%B8%EC%83%9D%EC%9D%80+%EA%B2%8C%EC%9E%84%EA%B3%BC+%EA%B0%99%EB%8B%A4)  
+[Day 59_1일 1노트 챌린지 59일 회고_1차 끝](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+59_1%EC%9D%BC+1%EB%85%B8%ED%8A%B8+%EC%B1%8C%EB%A6%B0%EC%A7%80+59%EC%9D%BC+%ED%9A%8C%EA%B3%A0_1%EC%B0%A8+%EB%81%9D)  
+[Day 60_실행력은 습관이다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+60_%EC%8B%A4%ED%96%89%EB%A0%A5%EC%9D%80+%EC%8A%B5%EA%B4%80%EC%9D%B4%EB%8B%A4)  
+[Day 61_재능 고민하지 말고 해야 할 일 먼저](https://secondbrain.analysisman.com/minjinlee-workfirst)  
+[Day 62_타일러가 알려주는 영어 마스터 비법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+62_%ED%83%80%EC%9D%BC%EB%9F%AC%EA%B0%80+%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94+%EC%98%81%EC%96%B4+%EB%A7%88%EC%8A%A4%ED%84%B0+%EB%B9%84%EB%B2%95)  
+[Day 63_관조하기](https://secondbrain.analysisman.com/watching-contemplation)  
+[Day 64_인플루언서가 되는 방법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+64_%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C%EA%B0%80+%EB%90%98%EB%8A%94+%EB%B0%A9%EB%B2%95)  
+[Day 65_습관 형성에 걸리는 시간](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+65_%EC%8A%B5%EA%B4%80+%ED%98%95%EC%84%B1%EC%97%90+%EA%B1%B8%EB%A6%AC%EB%8A%94+%EC%8B%9C%EA%B0%84)  
+[Day 66_글쓰기에서 얻는 효과는 과정에서 얻어진다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+66_%EA%B8%80%EC%93%B0%EA%B8%B0%EC%97%90%EC%84%9C+%EC%96%BB%EB%8A%94+%ED%9A%A8%EA%B3%BC%EB%8A%94+%EA%B3%BC%EC%A0%95%EC%97%90%EC%84%9C+%EC%96%BB%EC%96%B4%EC%A7%84%EB%8B%A4)  
+[Day 67_애덤 그랜트 교수의 생산성 높이는 비결](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+67_%EC%95%A0%EB%8D%A4+%EA%B7%B8%EB%9E%9C%ED%8A%B8+%EA%B5%90%EC%88%98%EC%9D%98+%EC%83%9D%EC%82%B0%EC%84%B1+%EB%86%92%EC%9D%B4%EB%8A%94+%EB%B9%84%EA%B2%B0)  
+[Day 68_상상력이 챔피언을 만든다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+68_%EC%83%81%EC%83%81%EB%A0%A5%EC%9D%B4+%EC%B1%94%ED%94%BC%EC%96%B8%EC%9D%84+%EB%A7%8C%EB%93%A0%EB%8B%A4)  
+[Day 69_근대 초기 영국인들의 독서법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+69_%EA%B7%BC%EB%8C%80+%EC%B4%88%EA%B8%B0+%EC%98%81%EA%B5%AD%EC%9D%B8%EB%93%A4%EC%9D%98+%EB%8F%85%EC%84%9C%EB%B2%95)  
+[Day 70_더 많은 힘과 능력을 얻는 방법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+70_%EB%8D%94+%EB%A7%8E%EC%9D%80+%ED%9E%98%EA%B3%BC+%EB%8A%A5%EB%A0%A5%EC%9D%84+%EC%96%BB%EB%8A%94+%EB%B0%A9%EB%B2%95)  
+[Day 71_즐겁게 글을 쓸 수 있는 3가지 방법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+71_%EC%A6%90%EA%B2%81%EA%B2%8C+%EA%B8%80%EC%9D%84+%EC%93%B8+%EC%88%98+%EC%9E%88%EB%8A%94+3%EA%B0%80%EC%A7%80+%EB%B0%A9%EB%B2%95)  
+[Day 72_상황이 아무리 나빠져도](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+72_%EC%83%81%ED%99%A9%EC%9D%B4+%EC%95%84%EB%AC%B4%EB%A6%AC+%EB%82%98%EB%B9%A0%EC%A0%B8%EB%8F%84)  
+[Day 73_글쓰기 마인드셋](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+73_%EA%B8%80%EC%93%B0%EA%B8%B0+%EB%A7%88%EC%9D%B8%EB%93%9C%EC%85%8B)  
+[Day 74_두 번째 뇌를 만드는 것은 습관이 아니라 철학의 변화다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+74_%EB%91%90+%EB%B2%88%EC%A7%B8+%EB%87%8C%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B2%83%EC%9D%80+%EC%8A%B5%EA%B4%80%EC%9D%B4+%EC%95%84%EB%8B%88%EB%9D%BC+%EC%B2%A0%ED%95%99%EC%9D%98+%EB%B3%80%ED%99%94%EB%8B%A4)  
+[Day 75_의사결정의 에너지를 줄여라](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+75_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EC%9D%98+%EC%97%90%EB%84%88%EC%A7%80%EB%A5%BC+%EC%A4%84%EC%97%AC%EB%9D%BC)  
+[Day 76_상술(Elaboration) 학습법](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+76_%EC%83%81%EC%88%A0\(Elaboration\)+%ED%95%99%EC%8A%B5%EB%B2%95)  
+[Day 77_기록만 해도 변화가 일어난다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+77_%EA%B8%B0%EB%A1%9D%EB%A7%8C+%ED%95%B4%EB%8F%84+%EB%B3%80%ED%99%94%EA%B0%80+%EC%9D%BC%EC%96%B4%EB%82%9C%EB%8B%A4)  
+[Day 78_내가 기분 좋게 암시를 걸자](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+78_%EB%82%B4%EA%B0%80+%EA%B8%B0%EB%B6%84+%EC%A2%8B%EA%B2%8C+%EC%95%94%EC%8B%9C%EB%A5%BC+%EA%B1%B8%EC%9E%90)  
+[Day 79_고독의 힘](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+79_%EA%B3%A0%EB%8F%85%EC%9D%98+%ED%9E%98)  
+[Day 80_새로운 시각](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+80_%EC%83%88%EB%A1%9C%EC%9A%B4+%EC%8B%9C%EA%B0%81)  
+[Day 81_제텔카스텐 메모는 간결하다](https://secondbrain.analysisman.com/zettelkasten-memo-simple)  
+[Day 82_정수만 뽑아내자](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+82_%EC%A0%95%EC%88%98%EB%A7%8C+%EB%BD%91%EC%95%84%EB%82%B4%EC%9E%90)  
+[Day 83_반대로 생각하라](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+83_%EB%B0%98%EB%8C%80%EB%A1%9C+%EC%83%9D%EA%B0%81%ED%95%98%EB%9D%BC)  
+[Day 84_버핏과 멍거의 성공 원인 - 기본적인 가치에 대한 존중](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+84_%EB%B2%84%ED%95%8F%EA%B3%BC+%EB%A9%8D%EA%B1%B0%EC%9D%98+%EC%84%B1%EA%B3%B5+%EC%9B%90%EC%9D%B8+-+%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8+%EA%B0%80%EC%B9%98%EC%97%90+%EB%8C%80%ED%95%9C+%EC%A1%B4%EC%A4%91)  
+[Day 85_추상화는 아이디어를 결합하는 열쇠다](https://secondbrain.analysisman.com/zettelkasten-abstraction)  
+[Day 86_살아있다는 건 죽음을 생각하는 것](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+86_%EC%82%B4%EC%95%84%EC%9E%88%EB%8B%A4%EB%8A%94+%EA%B1%B4+%EC%A3%BD%EC%9D%8C%EC%9D%84+%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94+%EA%B2%83)  
+[Day 87_자아고갈은 믿음이다](https://secondbrain.analysisman.com/willpower-faith)  
+[Day 88_우리 뇌는 항상 만족하지 못한다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+88_%EC%9A%B0%EB%A6%AC+%EB%87%8C%EB%8A%94+%ED%95%AD%EC%83%81+%EB%A7%8C%EC%A1%B1%ED%95%98%EC%A7%80+%EB%AA%BB%ED%95%9C%EB%8B%A4)  
+[Day 89_시간 관리는 선택이다](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+89_%EC%8B%9C%EA%B0%84+%EA%B4%80%EB%A6%AC%EB%8A%94+%EC%84%A0%ED%83%9D%EC%9D%B4%EB%8B%A4)  
+[Day 90_제텔카스텐 메모와 글쓰기](https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+90_%EC%A0%9C%ED%85%94%EC%B9%B4%EC%8A%A4%ED%85%90+%EB%A9%94%EB%AA%A8%EC%99%80+%EA%B8%80%EC%93%B0%EA%B8%B0)  
+[Day 91_우울증이 세대 간에 대물림된다](https://secondbrain.analysisman.com/depression-family)
+
+Links to this page
+
+[Day 2_약물 없이 도파민을 만들자](https://secondbrain.analysisman.com/dopamine-write)
+[Day 5_기억력을 향상시키고 똑똑하게 만드는 독서법](https://secondbrain.analysisman.com/reading-memory-smarter)
+[Day 15_게으름의 대부분은 사실 '두려움'이다](https://secondbrain.analysisman.com/procrastinate-fear)
+[Day 32_제프 베조스의 '후회 최소화 프레임워크'](https://secondbrain.analysisman.com/jeffbezos-framework)
+[Day 33_무기력한 나에게](https://secondbrain.analysisman.com/dailynote-day33-lethargic)
+[Day 51_요약이 최고의 글쓰기 연습](https://secondbrain.analysisman.com/write-abstract)
+[Day 52_창의성의 핵심은 좋은 질문이다](https://secondbrain.analysisman.com/creativity-question)
+[Day 53_창조의 기쁨](https://secondbrain.analysisman.com/joy-of-creation)
+[Day 61_재능 고민하지 말고 해야 할 일 먼저](https://secondbrain.analysisman.com/minjinlee-workfirst)
+[Day 63_관조하기](https://secondbrain.analysisman.com/watching-contemplation)
+[Day 81_제텔카스텐 메모는 간결하다](https://secondbrain.analysisman.com/zettelkasten-memo-simple)
+[Day 87_자아고갈은 믿음이다](https://secondbrain.analysisman.com/willpower-faith)
+[Day 91_우울증이 세대 간에 대물림된다](https://secondbrain.analysisman.com/depression-family)
+[MOCs (Map of Contents)](https://secondbrain.analysisman.com/mocs)

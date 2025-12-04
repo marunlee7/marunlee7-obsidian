@@ -1,0 +1,145 @@
+views:
+  - type: table
+    name: 📕 진행
+    filters:
+      and:
+        - status.contains(link("📕 진행"))
+        - '!file.folder.contains("90-Settings")'
+    order:
+      - file.name
+      - status
+      - author
+      - file.folder
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 230
+      note.read: 78
+      note.checkbox: 71
+  - type: table
+    name: 📙 예정
+    filters:
+      and:
+        - status.contains(link("📙 예정"))
+        - '!file.folder.contains("90-Settings")'
+        - '!file.tags.contains("moc")'
+    order:
+      - file.name
+      - status
+      - author
+      - file.folder
+      - read
+      - checkbox
+    sort:
+      - property: author
+        direction: DESC
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 321
+      note.author: 147
+      note.read: 78
+      note.checkbox: 71
+  - type: table
+    name: 📗 연기
+    filters:
+      and:
+        - status.contains(link("📗 연기"))
+        - '!file.folder.contains("90-Settings")'
+    order:
+      - file.name
+      - status
+      - author
+      - file.folder
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 230
+      note.read: 78
+      note.checkbox: 71
+  - type: table
+    name: 📘 완료
+    filters:
+      and:
+        - status.contains(link("📘 완료"))
+        - '!file.folder.contains("90-Settings")'
+    order:
+      - file.name
+      - status
+      - author
+      - file.folder
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 230
+      note.read: 78
+      note.checkbox: 71
+  - type: table
+    name: 📓 클리핑
+    filters:
+      and:
+        - status.contains(link("📓 클리핑"))
+        - '!file.folder.contains("90-Settings")'
+    order:
+      - file.name
+      - status
+      - author
+      - file.folder
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 309
+      note.author: 67
+      note.read: 78
+      note.checkbox: 71
+  - type: table
+    name: moc
+    filters:
+      and:
+        - file.tags.contains("moc")
+        - '!file.folder.contains("90-Settings")'
+    order:
+      - file.name
+      - status
+      - author
+      - file.folder
+      - checkbox
+      - read
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 194
+      note.author: 67
+      note.checkbox: 71
+      note.read: 78
+  - type: table
+    name: toc
+    filters:
+      and:
+        - file.tags.contains("toc")
+        - '!file.folder.contains("90-Settings")'
+    order:
+      - file.name
+      - status
+      - author
+      - file.folder
+      - checkbox
+      - read
+    columnSize:
+      file.name: 194
+      note.author: 67
+      note.checkbox: 71
+      note.read: 78

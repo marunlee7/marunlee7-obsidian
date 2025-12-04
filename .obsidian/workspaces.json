@@ -1,0 +1,1363 @@
+{
+  "workspaces": {
+    "김병기": {
+      "main": {
+        "id": "74c147f1b51cc2f0",
+        "type": "split",
+        "children": [
+          {
+            "id": "fd4e37b91dba2691",
+            "type": "tabs",
+            "dimension": 46.10075914423741,
+            "children": [
+              {
+                "id": "c88cfa74eea42b9f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01_Index/김병기의 알쏭어 달쏭사.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "김병기의 알쏭어 달쏭사"
+                }
+              },
+              {
+                "id": "54b378cda9de3393",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01_Index/김병기의 알쏭어 달쏭사.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "김병기의 알쏭어 달쏭사"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "c134074433ed1135",
+            "type": "tabs",
+            "dimension": 53.8992408557626,
+            "children": [
+              {
+                "id": "5440a6439175a149",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 129 일도이부삼빽(一逃二否三back).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "알쏭어 달쏭사 129 일도이부삼빽(一逃二否三back)"
+                }
+              },
+              {
+                "id": "2e23bb8fd928e70b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설"
+                }
+              },
+              {
+                "id": "26ec68d838d2c572",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "09_System/가이드라인/Status, Priority, Process 진행 상태 필드.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Status, Priority, Process 진행 상태 필드"
+                }
+              },
+              {
+                "id": "838a3cb3aeaf5fb1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 129 일도이부삼빽(一逃二否三back).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "알쏭어 달쏭사 129 일도이부삼빽(一逃二否三back)"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e866ff31c8953db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "b29733264d1bd56c",
+            "type": "tabs",
+            "dimension": 72.28381374722838,
+            "children": [
+              {
+                "id": "39a38bf215a3c9e0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "503fdad2231ead49",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "[process: com",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f2a0b13a76ea1b29",
+            "type": "tabs",
+            "dimension": 27.716186252771617,
+            "children": [
+              {
+                "id": "9cbe7794aa0aeb15",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 312.5
+      },
+      "right": {
+        "id": "02b10f3212415f63",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d01f2cea4231c2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f235aaee19c69e52",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "620722dbbb03ebc5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설 의 개요"
+                }
+              },
+              {
+                "id": "578e168af0ea114c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설 의 백링크"
+                }
+              },
+              {
+                "id": "e11b79222cc2b3b9",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "4309a4e068beeb4e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "switcher:빠른 전환기 열기": false,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": false,
+          "templates:템플릿 삽입": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "bases:새 베이스 생성하기": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "translate:Open translation view": false,
+          "obsidian-kanban:새 보드 만들기": false,
+          "smart-composer:Open smart composer": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "2e23bb8fd928e70b",
+      "mtime": "2025-11-25T02:33:49+09:00"
+    },
+    "옵시디언 히스토리": {
+      "main": {
+        "id": "74c147f1b51cc2f0",
+        "type": "split",
+        "children": [
+          {
+            "id": "fd4e37b91dba2691",
+            "type": "tabs",
+            "dimension": 47.42621825669184,
+            "children": [
+              {
+                "id": "ef9ee1c319fb5ac4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "07_Journal/Daily/2024-03-22.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2024-03-22"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c134074433ed1135",
+            "type": "tabs",
+            "dimension": 52.57378174330816,
+            "children": [
+              {
+                "id": "0c8168ed7b060ed1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "07_Journal/Daily/2025-11-25.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11-25"
+                }
+              },
+              {
+                "id": "f2df7448cd8856dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04_Analysis/옵시디언 히스토리.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "옵시디언 히스토리"
+                }
+              },
+              {
+                "id": "01c15bb6a4b4335e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "07_Journal/Daily/2025-11-26.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-11-26"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e866ff31c8953db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "b29733264d1bd56c",
+            "type": "tabs",
+            "dimension": 68.15561959654178,
+            "children": [
+              {
+                "id": "39a38bf215a3c9e0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "503fdad2231ead49",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#영역",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f2a0b13a76ea1b29",
+            "type": "tabs",
+            "dimension": 31.84438040345821,
+            "children": [
+              {
+                "id": "9cbe7794aa0aeb15",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 312.5
+      },
+      "right": {
+        "id": "02b10f3212415f63",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d01f2cea4231c2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f235aaee19c69e52",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "620722dbbb03ebc5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 456 유야무야(有耶無耶).md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "알쏭어 달쏭사 456 유야무야(有耶無耶) 의 개요"
+                }
+              },
+              {
+                "id": "578e168af0ea114c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설 의 백링크"
+                }
+              },
+              {
+                "id": "e11b79222cc2b3b9",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "4309a4e068beeb4e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "switcher:빠른 전환기 열기": false,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": false,
+          "templates:템플릿 삽입": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "bases:새 베이스 생성하기": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "translate:Open translation view": false,
+          "obsidian-kanban:새 보드 만들기": false,
+          "smart-composer:Open smart composer": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "01c15bb6a4b4335e",
+      "mtime": "2025-11-26T01:42:23+09:00"
+    },
+    "시스템": {
+      "main": {
+        "id": "74c147f1b51cc2f0",
+        "type": "split",
+        "children": [
+          {
+            "id": "5761fb80c5efb457",
+            "type": "split",
+            "children": [
+              {
+                "id": "fd4e37b91dba2691",
+                "type": "tabs",
+                "dimension": 48.86013555144794,
+                "children": [
+                  {
+                    "id": "ef9ee1c319fb5ac4",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01_Index/작업노트_2025.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "작업노트_2025"
+                    }
+                  },
+                  {
+                    "id": "308719b810faea3b",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01_Index/노트 템플릿.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "노트 템플릿"
+                    }
+                  },
+                  {
+                    "id": "5710bf05a1580e60",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01_Index/한자어휘 템플릿.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "한자어휘 템플릿"
+                    }
+                  },
+                  {
+                    "id": "67cc09eed4331b04",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "08_MOCs/T08_All_T01_Series_Index.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "T08_All_T01_Series_Index"
+                    }
+                  }
+                ],
+                "currentTab": 3
+              },
+              {
+                "id": "cf2f4efe2257debb",
+                "type": "tabs",
+                "dimension": 51.13986444855206,
+                "children": [
+                  {
+                    "id": "12665d8821ee56ce",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01_Index/고사성어 일촌맺기.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "고사성어 일촌맺기"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e866ff31c8953db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "b29733264d1bd56c",
+            "type": "tabs",
+            "dimension": 81.42352347299344,
+            "children": [
+              {
+                "id": "39a38bf215a3c9e0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "503fdad2231ead49",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#주제/노트_템플릿",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f2a0b13a76ea1b29",
+            "type": "tabs",
+            "dimension": 18.576476527006562,
+            "children": [
+              {
+                "id": "9cbe7794aa0aeb15",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 297.5
+      },
+      "right": {
+        "id": "02b10f3212415f63",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d01f2cea4231c2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f235aaee19c69e52",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "620722dbbb03ebc5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "08_MOCs/T08_All_T01_Series_Index.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "T08_All_T01_Series_Index 의 개요"
+                }
+              },
+              {
+                "id": "578e168af0ea114c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설 의 백링크"
+                }
+              },
+              {
+                "id": "e11b79222cc2b3b9",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "4309a4e068beeb4e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "calendar"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "5755bb59587dbe5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "407ffdc602d6f55b",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 329.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "translate:Open translation view": false,
+          "obsidian-kanban:새 보드 만들기": false,
+          "smart-composer:Open smart composer": false,
+          "templater-obsidian:Templater": false,
+          "obsidian42-brat:BRAT": false,
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "switcher:빠른 전환기 열기": false,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "bases:새 베이스 생성하기": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "67cc09eed4331b04",
+      "mtime": "2025-12-04T21:31:04+09:00"
+    },
+    "시스템2": {
+      "main": {
+        "id": "74c147f1b51cc2f0",
+        "type": "split",
+        "children": [
+          {
+            "id": "5761fb80c5efb457",
+            "type": "split",
+            "children": [
+              {
+                "id": "fd4e37b91dba2691",
+                "type": "tabs",
+                "dimension": 45.298094652735095,
+                "children": [
+                  {
+                    "id": "ef9ee1c319fb5ac4",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "09_System/09_T-System_Master_Manual.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "09_T-System_Master_Manual"
+                    }
+                  },
+                  {
+                    "id": "0c8168ed7b060ed1",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "09_System/tp/01/tp1_series_master.md",
+                        "mode": "source",
+                        "source": true,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "tp1_series_master"
+                    }
+                  },
+                  {
+                    "id": "389abb3b5e7180f3",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01_Index/00_Inbox.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "00_Inbox"
+                    }
+                  },
+                  {
+                    "id": "424e050d924f62fa",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "09_System/tp/01/tp2_article_atom.md",
+                        "mode": "source",
+                        "source": true,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "tp2_article_atom"
+                    }
+                  },
+                  {
+                    "id": "2968b4409a7b02a1",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01_Index/Templater 기초부터 중급까지.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "pinned": true,
+                      "icon": "lucide-file",
+                      "title": "Templater 기초부터 중급까지"
+                    }
+                  }
+                ],
+                "currentTab": 4
+              },
+              {
+                "id": "cf2f4efe2257debb",
+                "type": "tabs",
+                "dimension": 54.7019053472649,
+                "children": [
+                  {
+                    "id": "a95d68b583ebba48",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "01_Index/7번 읽기 공부 실천법 - 야마구치 마유.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": true,
+                        "backlinkOpts": {
+                          "collapseAll": false,
+                          "extraContext": false,
+                          "sortOrder": "alphabetical",
+                          "showSearch": false,
+                          "searchQuery": "",
+                          "backlinkCollapsed": false,
+                          "unlinkedCollapsed": true
+                        }
+                      },
+                      "icon": "lucide-file",
+                      "title": "7번 읽기 공부 실천법 - 야마구치 마유"
+                    }
+                  },
+                  {
+                    "id": "12665d8821ee56ce",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "새 탭"
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e866ff31c8953db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "b29733264d1bd56c",
+            "type": "tabs",
+            "dimension": 81.42352347299344,
+            "children": [
+              {
+                "id": "39a38bf215a3c9e0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "503fdad2231ead49",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#주제/노트_템플릿",
+                    "matchingCase": false,
+                    "explainSearch": true,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "f2a0b13a76ea1b29",
+            "type": "tabs",
+            "dimension": 18.576476527006562,
+            "children": [
+              {
+                "id": "9cbe7794aa0aeb15",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 346.5
+      },
+      "right": {
+        "id": "02b10f3212415f63",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d01f2cea4231c2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f235aaee19c69e52",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "620722dbbb03ebc5",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "api 테슽.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "api 테슽 의 개요"
+                }
+              },
+              {
+                "id": "578e168af0ea114c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "02_Sources/김병기의 알쏭어 달쏭사/알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "알쏭어 달쏭사 305 낙선재본(樂善齋本) 한글소설 의 백링크"
+                }
+              },
+              {
+                "id": "e11b79222cc2b3b9",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "모든 속성"
+                }
+              },
+              {
+                "id": "4309a4e068beeb4e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5755bb59587dbe5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "407ffdc602d6f55b",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 263.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:작업 공간 레이아웃 관리": false,
+          "switcher:빠른 전환기 열기": false,
+          "graph:그래프 뷰 열기": false,
+          "canvas:새 캔버스 만들기": false,
+          "daily-notes:오늘의 일일 노트 열기": false,
+          "templates:템플릿 삽입": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "bases:새 베이스 생성하기": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "translate:Open translation view": false,
+          "obsidian-kanban:새 보드 만들기": false,
+          "smart-composer:Open smart composer": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "12665d8821ee56ce",
+      "mtime": "2025-11-27T07:44:54+09:00"
+    }
+  },
+  "active": "시스템"
+}

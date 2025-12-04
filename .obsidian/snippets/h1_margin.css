@@ -1,0 +1,17 @@
+/* H1 아래 4줄 여백 추가 (편집 및 읽기 모드) */
+
+/* 읽기 모드 (Reading View) */
+.markdown-preview-view h1 {
+    margin-bottom: 4em !important; 
+}
+
+/* 편집 모드 (Live Preview & Source Mode) */
+/* .cm-header-1 는 H1 제목에 해당하는 코드미러 클래스입니다. */
+.cm-header-1 {
+    margin-bottom: 4em !important;
+}
+
+/* 추가: 라이브 프리뷰에서 빈 줄이 너무 가까워 보일 경우를 대비 */
+.cm-h1 {
+    padding-bottom: 4em !important;
+}

@@ -1,0 +1,19 @@
+{
+  "snippets_file": "우 : →\n좌 : ←\n양 : ↔\n헤 : ## 📘\n삼 : ###\n청 : ## 📓 청상",
+  "snippets": [
+    "우 : →",
+    "좌 : ←",
+    "양 : ↔",
+    "헤 : ## 📘",
+    "삼 : ###",
+    "청 : ## 📓 청상"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

@@ -1,0 +1,139 @@
+views:
+  - type: table
+    name: 김병기 필향만리
+    filters:
+      and:
+        - source_author == "김병기"
+    order:
+      - file.name
+      - read
+      - checkbox
+      - published
+      - file.mtime
+    sort:
+      - property: published
+        direction: DESC
+      - property: read
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: file.mtime
+        direction: ASC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 368
+      note.read: 79
+      note.checkbox: 66
+  - type: table
+    name: read
+    filters:
+      and:
+        - file.tags.contains("한자어휘/김병기/필향만리")
+        - '!file.tags.contains("📚독서")'
+        - read == true
+    order:
+      - file.name
+      - aliases
+      - read
+      - checkbox
+    sort: []
+    columnSize:
+      file.name: 307
+      note.aliases: 247
+      note.read: 79
+      note.checkbox: 61
+  - type: table
+    name: not read
+    filters:
+      and:
+        - file.tags.contains("한자어휘/김병기/필향만리")
+        - '!file.tags.contains("📚독서")'
+        - read != true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort: []
+    columnSize:
+      file.name: 567
+      note.read: 79
+      note.checkbox: 61
+  - type: table
+    name: checkbox
+    filters:
+      and:
+        - file.tags.contains("한자어휘/김병기/필향만리")
+        - checkbox == true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 337
+      note.checkbox: 61
+  - type: table
+    name: 김병기-알쏭어달쏭사
+    filters:
+      and:
+        - file.tags.contains("출처/서명/도서/김병기-알쏭어달쏭사")
+        - '!file.tags.contains("📚독서")'
+        - '!file.folder.contains("90-settings")'
+    order:
+      - file.name
+      - aliases
+      - read
+      - checkbox
+      - published
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: read
+        direction: DESC
+      - property: file.tags
+        direction: ASC
+    columnSize:
+      file.name: 299
+      note.aliases: 131
+      note.read: 79
+      note.checkbox: 53
+  - type: table
+    name: read2
+    filters:
+      and:
+        - file.tags.contains("출처/서명/도서/김병기-알쏭어달쏭사")
+        - '!file.tags.contains("📚독서")'
+        - read == true
+    order:
+      - file.name
+      - aliases
+      - read
+      - checkbox
+      - modified
+    sort:
+      - property: modified
+        direction: DESC
+    columnSize:
+      file.name: 307
+      note.aliases: 62
+      note.read: 79
+      note.checkbox: 61
+  - type: table
+    name: not read 2
+    filters:
+      and:
+        - file.tags.contains("출처/서명/도서/김병기-알쏭어달쏭사")
+        - '!file.tags.contains("📚독서")'
+        - read != true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort: []
+    columnSize:
+      file.name: 383
+      note.read: 79
+      note.checkbox: 61

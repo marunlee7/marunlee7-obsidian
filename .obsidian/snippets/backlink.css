@@ -1,0 +1,14 @@
+.tasks-backlink {
+  color: #e74c3c !important;        /* 글자색 */
+  background: #fff3e0;              /* 배경색 */
+  border-radius: 6px;
+  padding: 2px 6px;
+  border: 1px solid #e0e0e0;
+  font-weight: bold;
+  box-shadow: 1px 1px 4px #eee;
+  transition: background 0.2s, color 0.2s;
+}
+.tasks-backlink:hover {
+  background: #ffe0e0;
+  color: #c0392b !important;
+}

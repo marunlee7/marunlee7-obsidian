@@ -1,0 +1,89 @@
+views:
+  - type: table
+    name: 표-전체
+    filters:
+      and:
+        - file.tags.contains("생각줍기")
+        - '!file.tags.contains("📚독서")'
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 222
+      note.checkbox: 61
+  - type: table
+    name: 표 not read
+    filters:
+      and:
+        - file.tags.contains("생각줍기")
+        - '!file.tags.contains("📚독서")'
+        - read != true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 484
+      note.checkbox: 61
+  - type: table
+    name: 표 checkbox
+    filters:
+      and:
+        - file.tags.contains("생각줍기")
+        - checkbox == true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: DESC
+    columnSize:
+      file.name: 222
+      note.checkbox: 61
+  - type: table
+    name: 표-주제-현실
+    filters:
+      and:
+        - file.tags.contains("생각줍기")
+        - '!file.tags.contains("📚독서")'
+        - file.fullname.contains("현실")
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: read
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 358
+      note.checkbox: 61
+  - type: table
+    name: 표-주제-생각
+    filters:
+      and:
+        - file.tags.contains("생각줍기")
+        - '!file.tags.contains("📚독서")'
+        - file.fullname.contains("생각")
+        - read != true
+    order:
+      - file.name
+      - read
+      - checkbox
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: read
+        direction: ASC
+    columnSize:
+      file.name: 405
+      note.checkbox: 61

@@ -1,0 +1,24 @@
+{
+  "allowSingleClickOpenFolder": false,
+  "allowSingleClickOpenFolderAction": "disabled",
+  "alwaysHideNoteHeaders": false,
+  "defaultSortOrder": "alphabetical",
+  "disableWarnings": false,
+  "enableScrollIntoView": true,
+  "enableSmoothScroll": true,
+  "enableTypewriterScroll": true,
+  "excludedNames": [],
+  "extraFileTypes": [],
+  "includeBlockLinks": false,
+  "includeEmbeddedFiles": false,
+  "includedFileTypes": [
+    "markdown"
+  ],
+  "indexFilesAtTop": true,
+  "maximumItemsToOpen": "0",
+  "navigateInPlace": false,
+  "onlyShowFileName": false,
+  "tabGroupIds": [
+    "e388e627f8f5e4fb_038ff1660e5ebb58_@0"
+  ]
+}

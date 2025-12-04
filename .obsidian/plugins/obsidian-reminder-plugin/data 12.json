@@ -1,0 +1,55 @@
+{
+  "scanned": true,
+  "reminders": {
+    "30. Journals/Daily/2023-11-27.md": [
+      {
+        "title": "'작가의방' 정리 → Property, MOC 없이 해보자",
+        "time": "2023-11-28",
+        "rowNumber": 14
+      },
+      {
+        "title": "세상 모든 업무를 3단계로",
+        "time": "2023-11-28",
+        "rowNumber": 15
+      }
+    ],
+    "40. PARA/41. Projects/작가의방/옵시디언 리마인더 Reminder.md": [
+      {
+        "title": "체크리스트 <- GTD 기반",
+        "time": "2023-11-28",
+        "rowNumber": 6
+      }
+    ],
+    "10. 생각노트/할일 관리 2023.md": [
+      {
+        "title": "맥북 구매",
+        "time": "2023-12-15",
+        "rowNumber": 5
+      },
+      {
+        "title": "맥북 세팅",
+        "time": "2023-12-15",
+        "rowNumber": 6
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": true,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": true,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

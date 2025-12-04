@@ -1,0 +1,21 @@
+/* 이미지 링크에 구분자를 넣어서 이미지 정렬하는 CSS snippet입니다. */
+.markdown-preview-view .image-embed[src*="#center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.markdown-preview-view .image-embed[src*="#left"] {
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    width: 50%;
+}
+
+.markdown-preview-view .image-embed[src*="#right"] {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 50%;
+}

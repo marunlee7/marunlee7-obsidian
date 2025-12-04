@@ -1,0 +1,193 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#어문회배정한자/1급",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "1st_read": {
+                "hide": true
+              },
+              "2nd_read": {
+                "hide": true
+              },
+              "檢索": {
+                "hide": true
+              },
+              "略字": {
+                "hide": true
+              },
+              "訓音": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "anki": {
+                "hide": true
+              },
+              "checkbox": {
+                "hide": true
+              },
+              "description": {
+                "hide": true
+              },
+              "finish_read": {
+                "hide": true
+              },
+              "theme": {
+                "hide": true
+              },
+              "tags": {
+                "width": 314
+              },
+              "漢字": {
+                "hide": true
+              },
+              "解說": {
+                "hide": true
+              },
+              "finish_read_date": {
+                "hide": true
+              },
+              "related_notes": {
+                "hide": false
+              },
+              "name": {
+                "width": 270
+              },
+              "finish_date": {
+                "hide": true
+              },
+              "類語": {
+                "hide": true
+              },
+              "topics": {
+                "width": 332
+              }
+            },
+            "orderFields": [
+              "name",
+              "tags",
+              "topics"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8affc42d-0498-4c5e-b6b7-ce2f9a27439d",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "d507fae5-294c-420a-8f09-b69f19098c3d",
+      "name": "Hword1"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "30-리소스/Dict/Hword1",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "63d48da4-4ed8-4a22-a7c1-777bde67ec19",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e0988362-a59b-4267-8bc5-793d008ea0b5",
+      "name": "Hword1"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "#어문회배정한자/4급2",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "891b5a67-00fa-4e21-9a16-dc90a4b24745",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e23f6c5b-99fc-46d1-ae25-d7de7d1531f9",
+      "name": "hword1_42"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1500,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
