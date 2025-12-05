@@ -1,7 +1,14 @@
 ---
-published: "2023-03-31T05:04:56.800Z"
+title: 황석희의 영화 같은 하루 115 My life was black-and-white
 aliases: []
+published: "2023-03-31T05:04:56.800Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 115 My life was black-and-white
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/04/01/VJOWNF32O5DWNAGJ7RVPCSDNRY/"
 ---
 # 황석희의 영화 같은 하루 115 My Life Was Black-and-white

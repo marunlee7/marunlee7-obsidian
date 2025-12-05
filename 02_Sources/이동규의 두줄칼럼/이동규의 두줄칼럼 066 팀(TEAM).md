@@ -1,7 +1,14 @@
 ---
-published: "2022-12-01T05:53:59.023Z"
+title: 이동규의 두줄칼럼 066 팀(TEAM)
 aliases: []
+published: "2022-12-01T05:53:59.023Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 066 팀(TEAM)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/12/02/SRYHUFD3SBAHRE4RABASBGNPH4/"
 ---
 # 이동규의 두줄칼럼 066 팀(TEAM)

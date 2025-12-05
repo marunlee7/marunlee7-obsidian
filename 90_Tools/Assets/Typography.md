@@ -1,3 +1,12 @@
+---
+title: Typography
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
 # Heading 1 - d7d649
 ## Heading 2 - b296f8
 ### Heading 3 - 67c1e9

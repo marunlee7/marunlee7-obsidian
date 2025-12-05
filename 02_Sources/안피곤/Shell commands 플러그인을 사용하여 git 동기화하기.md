@@ -1,7 +1,14 @@
 ---
-published: 2022-03-13T23:58:45+09:00
+title: Shell commands 플러그인을 사용하여 git 동기화하기
 aliases: []
+published: 2022-03-13T23:58:45+09:00
+status: planned
+priority: medium
+process: raw
 source_name: Shell commands 플러그인을 사용하여 git 동기화하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/159
 ---
 # Shell Commands 플러그인을 사용하여 Git 동기화하기

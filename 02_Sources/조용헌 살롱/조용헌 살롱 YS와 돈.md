@@ -1,7 +1,14 @@
 ---
-published: 2020-08-04T14:57:40.596Z
+title: 조용헌 살롱 YS와 돈
 aliases: []
+published: 2020-08-04T14:57:40.596Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 YS와 돈
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.chosun.com/site/data/html_dir/2008/10/02/2008100201641.html
 links: 

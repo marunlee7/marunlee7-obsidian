@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian YouTube Video Note Template (FREE)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian YouTube Video Note Template (FREE)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/063e38fd90
 ---
 # Obsidian YouTube Video Note Template (FREE)

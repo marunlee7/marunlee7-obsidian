@@ -1,10 +1,14 @@
 ---
 title: 메모 분류법(노트 관리) - 폴더, 태그, 메타데이터, MOC
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: 메모 분류법(노트 관리) - 폴더, 태그, 메타데이터, MOC
-source_type: " youtube"
 source_author: "북트레싱"
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://booktracing.com/%eb%a9%94%eb%aa%a8-%eb%b6%84%eb%a5%98%eb%b2%95-%eb%85%b8%ed%8a%b8-%ea%b4%80%eb%a6%ac/
 links: 

@@ -1,7 +1,14 @@
 ---
-published: "2022-12-09T06:03:32.135Z"
+title: 황석희의 영화 같은 하루 099 of the winners, for the winners, by the winners
 aliases: []
+published: "2022-12-09T06:03:32.135Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 099 of the winners, for the winners, by the winners
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/12/10/ZIXMRDIRG5DKNKY4LW7N254NUQ/"
 ---
 # 황석희의 영화 같은 하루 099 of the Winners, for the Winners, by the Winners

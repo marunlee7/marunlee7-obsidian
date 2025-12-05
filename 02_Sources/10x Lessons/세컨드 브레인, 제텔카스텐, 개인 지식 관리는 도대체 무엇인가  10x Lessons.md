@@ -1,7 +1,7 @@
 ---
-published: 2022-07-16
 title: 세컨드 브레인, 제텔카스텐, 개인 지식 관리는 도대체 무엇인가  10x Lessons
 aliases: []
+published: 2022-07-16
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 세컨드 브레인, 제텔카스텐, 개인 지식 관리는 도대체 무엇인가  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2022/07/what-is-second-brain/"
 tags: [출처/외부_정보/아티클_웹]
 ---

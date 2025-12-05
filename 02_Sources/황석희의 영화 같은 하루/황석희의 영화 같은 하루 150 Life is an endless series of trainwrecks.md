@@ -1,7 +1,14 @@
 ---
-published: "2023-11-29T04:52:00.664Z"
+title: 황석희의 영화 같은 하루 150 Life is an endless series of trainwrecks
 aliases: []
+published: "2023-11-29T04:52:00.664Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 150 Life is an endless series of trainwrecks
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/11/30/WMLPCBT6B5BR3LWYW4XHFDYIPQ/"
 ---
 # 황석희의 영화 같은 하루 150 Life is an Endless Series of Trainwrecks

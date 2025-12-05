@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 06_고민의 순서를 바꾸세요
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+6_%EA%B3%A0%EB%AF%BC%EC%9D%98+%EC%88%9C%EC%84%9C%EB%A5%BC+%EB%B0%94%EA%BE%B8%EC%84%B8%EC%9A%94
 tags: [출처/외부_정보/아티클_웹]

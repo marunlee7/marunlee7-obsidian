@@ -1,8 +1,18 @@
-### 타임라인
+---
+title: inst5 timeline, article, script
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Inst5 Timeline, Article, Script
+## 타임라인
 <!-- 시간표시, ai가 스크립트를 단문 요약한 것, 단문요약 도움 -->
-### 아티클
+## 아티클
 <!-- 전체 영상을 문단 요약, 전체 파악 도움 -->
-### 스크립트
+## 스크립트
 <!-- 복사버튼 누르지 말고,  드래그 카피, 시간표시됨, 저자 음성 시간 순으로, 오타많지만 음성강의 보완할 때 -->
 
 

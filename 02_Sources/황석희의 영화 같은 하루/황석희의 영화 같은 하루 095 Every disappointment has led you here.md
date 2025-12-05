@@ -1,7 +1,14 @@
 ---
-published: "2022-11-11T06:16:38.268Z"
+title: 황석희의 영화 같은 하루 095 Every disappointment has led you here
 aliases: []
+published: "2022-11-11T06:16:38.268Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 095 Every disappointment has led you here
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/11/12/NE4QKFEK7BEVXBCI6GRSKDQORU/"
 ---
 # 황석희의 영화 같은 하루 095 Every Disappointment Has Led You here

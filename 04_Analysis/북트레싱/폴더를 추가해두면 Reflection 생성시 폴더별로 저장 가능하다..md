@@ -7,10 +7,13 @@ status: planned
 priority: medium
 process: raw
 source_name: 폴더를 추가해두면 Reflection 생성시 폴더별로 저장 가능하다.
-source_type: reflection
 source_author: self
+source_type: reflection
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: ""
-tags:
+tags: []
 ---
 # 📝 폴더를 추가해두면 Reflection 생성시 폴더별로 저장 가능하다.
 

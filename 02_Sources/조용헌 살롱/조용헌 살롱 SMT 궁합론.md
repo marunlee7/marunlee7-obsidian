@@ -1,7 +1,14 @@
 ---
-published: 2020-08-12T13:34:23.931Z
+title: 조용헌 살롱 SMT 궁합론
 aliases: []
+published: 2020-08-12T13:34:23.931Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 SMT 궁합론
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2005/03/23/2005032370376.html
 links: 
 ---

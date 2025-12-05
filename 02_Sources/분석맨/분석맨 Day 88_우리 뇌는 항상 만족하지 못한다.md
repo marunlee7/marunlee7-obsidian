@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 88_우리 뇌는 항상 만족하지 못한다
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 tags: [출처/외부_정보/아티클_웹]
 ---

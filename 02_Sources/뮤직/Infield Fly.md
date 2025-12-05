@@ -1,6 +1,13 @@
 ---
+title: Infield Fly
+status: planned
+priority: medium
+process: raw
 source_name: Infield Fly
 source_author: 달빛요정
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # Infield Fly

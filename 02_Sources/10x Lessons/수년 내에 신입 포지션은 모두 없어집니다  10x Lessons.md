@@ -1,7 +1,7 @@
 ---
-published: 2025-05-07
 title: 수년 내에 신입 포지션은 모두 없어집니다  10x Lessons
 aliases: []
+published: 2025-05-07
 level: T02
 file_role: article_atom
 parent: 10x Lessons
@@ -12,10 +12,11 @@ process: raw
 source_name: 수년 내에 신입 포지션은 모두 없어집니다  10x Lessons
 source_author: 김태현
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://tkim.co/2025/05/no-fresh-men-job-positions/
-tags:
-  - 출처/외부_정보/아티클_웹
-  - 주제/스타트업
+tags: [출처/외부_정보/아티클_웹, 주제/스타트업]
 ---
 # 수년 내에 신입 포지션은 모두 없어집니다 10x Lessons
 

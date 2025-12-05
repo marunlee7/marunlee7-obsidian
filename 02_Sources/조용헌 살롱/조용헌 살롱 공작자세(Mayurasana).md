@@ -1,7 +1,14 @@
 ---
-published: 2020-08-12T09:37:51.372Z
+title: 조용헌 살롱 공작자세(Mayurasana)
 aliases: []
+published: 2020-08-12T09:37:51.372Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 공작자세(Mayurasana)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2005/08/19/2005081970277.html
 links: 
 ---

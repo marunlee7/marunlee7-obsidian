@@ -1,0 +1,12 @@
+Step 1) Install Community Plugins Meta Bind and Media Extended v4 (recommended) https://mx.pkmer.net/docs/v4/commands
+
+Step 2) Add this file to your "06 Toolkit/MetaBindEmbeds/" folder
+
+Step 3) Then call it in any note using syntax below
+
+```meta-bind-embed
+[[Metabind Extended Media Player Buttons]]
+```
+
+BONUS:
+Add a Templater Snippet and call it with a Slash command in any note.

@@ -1,7 +1,14 @@
 ---
-published: "2023-09-20T05:50:35.365Z"
+title: 황석희의 영화 같은 하루 140 Nobody Knows what they’re doing anymore than the rest of us
 aliases: []
+published: "2023-09-20T05:50:35.365Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 140 Nobody Knows what they’re doing anymore than the rest of us
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/09/21/ZBIZ3ONU7NAXFM6B36EDLJAID4/"
 ---
 # 황석희의 영화 같은 하루 140 Nobody Knows what they’re Doing Anymore than the Rest of Us

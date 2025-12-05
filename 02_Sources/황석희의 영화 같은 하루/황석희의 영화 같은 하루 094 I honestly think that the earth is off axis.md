@@ -1,7 +1,14 @@
 ---
-published: "2022-11-04T05:48:57.461Z"
+title: 황석희의 영화 같은 하루 094 I honestly think that the earth is off axis
 aliases: []
+published: "2022-11-04T05:48:57.461Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 094 I honestly think that the earth is off axis
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/11/05/3BQCOTWZMNC27CHNOHCZOS5TIE/"
 ---
 # 황석희의 영화 같은 하루 094 I Honestly Think that the Earth is off Axis

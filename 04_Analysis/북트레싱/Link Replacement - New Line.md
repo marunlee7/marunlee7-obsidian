@@ -7,8 +7,11 @@ status: planned
 priority: medium
 process: raw
 source_name: Link Replacement - New Line
-source_type: reflection
 source_author: self
+source_type: reflection
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: ""
 tags: [""]
 ---

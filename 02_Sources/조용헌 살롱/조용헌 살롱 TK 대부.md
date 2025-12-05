@@ -1,7 +1,14 @@
 ---
-published: 2020-08-05T10:51:41.547Z
+title: 조용헌 살롱 TK 대부
 aliases: []
+published: 2020-08-05T10:51:41.547Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 TK 대부
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2007/04/27/2007042700873.html
 links: 
 ---

@@ -1,10 +1,14 @@
 ---
 title: 매크로 자동화를 통한 생산성 증가, QuickAdd 플러그인
-priority: high
+status: planned
+priority: medium
 process: raw
 source_name: 매크로 자동화를 통한 생산성 증가, QuickAdd 플러그인
-source_type: " youtube"
 source_author: 북트레싱
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/watch?v=svk2lxXuf5I&list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl&index=23
 links:

@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Bookshelf Book Templates FREE
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Bookshelf Book Templates FREE
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/7fb58f9041
 ---
 # Obsidian Bookshelf Book Templates FREE

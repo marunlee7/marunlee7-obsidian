@@ -1,7 +1,14 @@
 ---
-published: "2022-03-04T03:42:42.282Z"
+title: 황석희의 영화 같은 하루 060 You only have to forgive once
 aliases: []
+published: "2022-03-04T03:42:42.282Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 060 You only have to forgive once
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/03/05/YVOIT7W7CZBQFA5BF3QLKQJC3M/"
 ---
 # 황석희의 영화 같은 하루 060 You only Have to Forgive once

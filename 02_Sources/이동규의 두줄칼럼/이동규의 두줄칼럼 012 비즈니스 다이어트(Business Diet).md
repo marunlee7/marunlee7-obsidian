@@ -1,7 +1,14 @@
 ---
-published: "2021-11-18T00:54:25.593Z"
+title: 이동규의 두줄칼럼 012 비즈니스 다이어트(Business Diet)
 aliases: []
+published: "2021-11-18T00:54:25.593Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 012 비즈니스 다이어트(Business Diet)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/11/19/I2J3RCL7CVEY7HP4GB5OMYTTSQ/"
 ---
 # 이동규의 두줄칼럼 012 비즈니스 다이어트(Business Diet)

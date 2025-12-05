@@ -1,7 +1,14 @@
 ---
-published: "2024-01-17T05:59:09.806Z"
+title: 황석희의 영화 같은 하루 157 As for me, I like the stock
 aliases: []
+published: "2024-01-17T05:59:09.806Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 157 As for me, I like the stock
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/01/18/DEFI6NEGLFHKZGWSX3XXCGKI3Y/"
 ---
 # 황석희의 영화 같은 하루 157 As for Me, I like the Stock

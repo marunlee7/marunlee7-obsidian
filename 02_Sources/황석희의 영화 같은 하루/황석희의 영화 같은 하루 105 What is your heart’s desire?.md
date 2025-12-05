@@ -1,7 +1,14 @@
 ---
-published: "2023-01-20T06:16:19.162Z"
+title: 황석희의 영화 같은 하루 105 What is your heart’s desire?
 aliases: []
+published: "2023-01-20T06:16:19.162Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 105 What is your heart’s desire?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/01/21/P4LOMKA7FZDXPPQYMDRUJDCOGQ/"
 ---
 # 황석희의 영화 같은 하루 105 What is Your heart’s Desire?

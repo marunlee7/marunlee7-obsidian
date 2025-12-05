@@ -1,6 +1,13 @@
 ---
+title: 스몰 브랜드의 SNS 활용법
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 스몰 브랜드의 SNS 활용법
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 스몰 브랜드의 SNS 활용법
 

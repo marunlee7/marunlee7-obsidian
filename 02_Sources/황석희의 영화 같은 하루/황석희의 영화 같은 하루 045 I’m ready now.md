@@ -1,7 +1,14 @@
 ---
-published: "2021-11-19T06:36:25.169Z"
+title: 황석희의 영화 같은 하루 045 I’m ready now
 aliases: []
+published: "2021-11-19T06:36:25.169Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 045 I’m ready now
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/11/20/2TVDX5DEV5BUXHAK7CNRILOHEI/"
 ---
 # 황석희의 영화 같은 하루 045 I’m Ready now

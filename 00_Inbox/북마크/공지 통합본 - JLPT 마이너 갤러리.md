@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: 공지 통합본 - JLPT 마이너 갤러리
+aliases: []
 level: T02
 file_role: article_atom
 parent: "북마크"
@@ -11,6 +11,9 @@ process: raw
 source_name: 공지 통합본 - JLPT 마이너 갤러리
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://gall.dcinside.com/mgallery/board/view/?id=jlpt&no=27094&page=1
 tags: [출처/외부_수집/북마크]
 ---

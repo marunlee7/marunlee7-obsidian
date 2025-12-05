@@ -1,10 +1,15 @@
 ---
-title: "VS Code 학습 완전 MOC"
+title: T08_VSCode_Full_MOC
 level: T08
 file_role: MOC
 parent: ""
-tags:
-  - 앱/VSCode
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: [앱/VSCode]
 ---
 # 📚 VS Code 학습 완전 MOC
 

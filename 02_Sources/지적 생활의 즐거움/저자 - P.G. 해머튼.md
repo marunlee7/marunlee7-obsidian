@@ -1,7 +1,14 @@
 ---
 chapter: "003"
+title: 저자 - P.G. 해머튼
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 저자 - P.G. 해머튼
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 저자 - P.G. 해머튼
 

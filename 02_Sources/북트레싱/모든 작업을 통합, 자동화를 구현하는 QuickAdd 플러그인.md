@@ -1,9 +1,14 @@
 ---
+title: 모든 작업을 통합, 자동화를 구현하는 QuickAdd 플러그인
+status: planned
 priority: medium
 process: raw
 source_name: 모든 작업을 통합, 자동화를 구현하는 QuickAdd 플러그인
-source_type: web
 source_author: 다다
+source_type: web
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://kaminik.tistory.com/entry/%EB%AA%A8%EB%93%A0-%EC%9E%91%EC%97%85%EC%9D%84-%ED%86%B5%ED%95%A9-%EC%9E%90%EB%8F%99%ED%99%94%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-QuickAdd-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8
 links:
 ---

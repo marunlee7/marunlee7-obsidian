@@ -1,7 +1,14 @@
 ---
-published: "2022-03-27T04:39:03.189Z"
+title: 강헌의 히스토리 인 팝스 105 현대(Hyundai) 그리고 혼다(Honda)
 aliases: []
+published: "2022-03-27T04:39:03.189Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 105 현대(Hyundai) 그리고 혼다(Honda)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/03/28/OZS7GFEOVRH2DJWWEM4RETFT3U/"
 ---
 # 강헌의 히스토리 인 팝스 105 현대(Hyundai) 그리고 혼다(Honda)

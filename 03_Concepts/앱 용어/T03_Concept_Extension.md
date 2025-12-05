@@ -1,5 +1,5 @@
 ---
-title: Snippet
+title: T03_Concept_Extension
 level: T03
 file_role: concept_dictionary
 parent: T02_VSCode_Core_Categories
@@ -14,9 +14,9 @@ action_required: link_to_t04
 difficulty: good
 satisfaction: 4
 references: []
-tags:
-  - 앱/VSCode
+tags: [앱/VSCode]
 ---
+# T03_Concept_Extension
 ## 🧩 Extension
 
 - **정의:** VS Code 기능을 확장하는 플러그인

@@ -1,6 +1,13 @@
 ---
+title: 2022 최고의 플러그인 할 일(Task, To do) 관리 자동화
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 2022 최고의 플러그인 할 일(Task, To do) 관리 자동화
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=KH_P3GKtS1k&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=13
 links:
   - "[[옵시디언 Tasks 플러그인-할 일 관리하기, 투두리스트, GTD]]"

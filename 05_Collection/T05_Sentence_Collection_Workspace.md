@@ -3,13 +3,14 @@ title: T05_Sentence_Collection_Workspace
 level: T05
 file_role: sentence_collection
 parent: T02_VSCode_Core_Categories
+status: planned
 priority: medium
+process: raw
 action_required: link_to_t04
-difficulty: good
+difficulty:	good
+satisfaction: 3
 references: []
-tags:
-  - 활용/학습_성장
-  - 앱/VSCode
+tags: [활용/학습_성장, 앱/VSCode]
 ---
 # 💬 Workspace 관련 문장/코드 수집
 

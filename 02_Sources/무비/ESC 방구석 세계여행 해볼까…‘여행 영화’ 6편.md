@@ -1,5 +1,12 @@
 ---
+title: ESC 방구석 세계여행 해볼까…‘여행 영화’ 6편
+status: planned
+priority: medium
+process: raw
 source_name: ESC 방구석 세계여행 해볼까…‘여행 영화’ 6편
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.hani.co.kr/arti/specialsection/esc_section/927467.html
 ---
 # [ESC] 방구석 세계여행 해볼까…‘여행 영화’ 6편

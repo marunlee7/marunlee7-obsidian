@@ -1,7 +1,14 @@
 ---
-published: "2022-11-18T05:49:16.187Z"
+title: 황석희의 영화 같은 하루 096 Don’t be afraid to live
 aliases: []
+published: "2022-11-18T05:49:16.187Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 096 Don’t be afraid to live
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/11/19/NO6B3MQ7EJFJRMG6GVRZKSCKO4/"
 ---
 # 황석희의 영화 같은 하루 096 Don’t Be Afraid to Live

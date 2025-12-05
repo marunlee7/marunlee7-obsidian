@@ -1,7 +1,14 @@
 ---
-published: "2020-07-15T07:58:01.777Z"
+title: 강헌의 히스토리 인 팝스 002 싱 싱 싱(Sing, Sing, Sing)
 aliases: []
+published: "2020-07-15T07:58:01.777Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 002 싱 싱 싱(Sing, Sing, Sing)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2020/03/15/2020031501377.html"
 ---
 # 강헌의 히스토리 인 팝스 002 싱 싱 싱(Sing, Sing, Sing)

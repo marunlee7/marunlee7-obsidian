@@ -1,7 +1,14 @@
 ---
-published: "2021-12-24T05:02:31.194Z"
+title: 황석희의 영화 같은 하루 050 My angel, flung out of space
 aliases: []
+published: "2021-12-24T05:02:31.194Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 050 My angel, flung out of space
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/12/25/BELZVEDWOZH5ZGMVBKS2G432OI/"
 ---
 # 황석희의 영화 같은 하루 050 My Angel, Flung out of Space

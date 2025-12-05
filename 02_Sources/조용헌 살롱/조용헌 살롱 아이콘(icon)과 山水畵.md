@@ -1,7 +1,14 @@
 ---
-published: 2020-08-05T11:04:33.642Z
+title: 조용헌 살롱 아이콘(icon)과 山水畵
 aliases: []
+published: 2020-08-05T11:04:33.642Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 아이콘(icon)과 山水畵
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2007/04/20/2007042000726.html
 links: 
 ---

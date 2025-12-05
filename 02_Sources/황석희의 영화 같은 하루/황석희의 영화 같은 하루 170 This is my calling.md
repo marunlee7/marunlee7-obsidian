@@ -1,7 +1,14 @@
 ---
-published: "2024-04-17T04:48:48.595Z"
+title: 황석희의 영화 같은 하루 170 This is my calling
 aliases: []
+published: "2024-04-17T04:48:48.595Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 170 This is my calling
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/04/18/DVYKAVWXYNA6NBDJUF2YSHAF5Y/"
 ---
 # 황석희의 영화 같은 하루 170 This is My Calling

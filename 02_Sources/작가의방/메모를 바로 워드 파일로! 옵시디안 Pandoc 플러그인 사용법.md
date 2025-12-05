@@ -1,6 +1,13 @@
 ---
+title: 메모를 바로 워드 파일로! 옵시디안 Pandoc 플러그인 사용법
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 메모를 바로 워드 파일로! 옵시디안 Pandoc 플러그인 사용법
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=B8L70fNOmyM&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=9
 links: 
 ---

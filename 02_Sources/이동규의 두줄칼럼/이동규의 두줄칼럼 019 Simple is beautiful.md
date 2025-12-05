@@ -1,7 +1,14 @@
 ---
-published: 2022-01-06T05:28:21.471Z
+title: 이동규의 두줄칼럼 019 Simple is beautiful
 aliases: []
+published: 2022-01-06T05:28:21.471Z
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 019 Simple is beautiful
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/opinion/specialist_column/2022/01/07/JABXZDRJLVC2VJX5BP3IWFUHAM/
 ---
 # 이동규의 두줄칼럼 019 Simple is Beautiful

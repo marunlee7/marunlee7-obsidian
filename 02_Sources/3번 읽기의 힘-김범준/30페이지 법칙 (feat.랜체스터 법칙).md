@@ -1,5 +1,12 @@
 ---
+title: 30페이지 법칙 (feat.랜체스터 법칙)
+status: planned
+priority: medium
+process: raw
 source_name: 30페이지 법칙 (feat.랜체스터 법칙)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 30페이지 법 (feat.랜체스터 법칙)
 

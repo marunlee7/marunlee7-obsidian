@@ -1,7 +1,14 @@
 ---
-published: "2023-06-02T05:39:50.221Z"
+title: 황석희의 영화 같은 하루 124 Where is the groomzilla?
 aliases: []
+published: "2023-06-02T05:39:50.221Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 124 Where is the groomzilla?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/06/03/LL2XZ6H46VBGNANSEZEBBYABUM/"
 ---
 # 황석희의 영화 같은 하루 124 Where is the Groomzilla?

@@ -1,7 +1,14 @@
 ---
-published: 2020-08-04T23:38:58.644Z
+title: 조용헌 살롱 아이언 버드(iron bird·鐵鳥)
 aliases: []
+published: 2020-08-04T23:38:58.644Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 아이언 버드(iron bird·鐵鳥)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2008/03/21/2008032101550.html
 links: 
 ---

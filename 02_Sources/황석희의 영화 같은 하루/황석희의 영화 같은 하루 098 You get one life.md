@@ -1,7 +1,14 @@
 ---
-published: "2022-12-02T03:58:34.959Z"
+title: 황석희의 영화 같은 하루 098 You get one life
 aliases: []
+published: "2022-12-02T03:58:34.959Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 098 You get one life
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/12/03/TLVQ6ST2UVD5JOVMUAJK6MZC24/"
 ---
 # 황석희의 영화 같은 하루 098 You Get One Life

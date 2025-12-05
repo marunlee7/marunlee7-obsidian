@@ -1,6 +1,13 @@
 ---
+title: The Last Thing on My Mind
+status: planned
+priority: medium
+process: raw
 source_name: The Last Thing on My Mind
 source_author: "[[Tom Paxton]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # The Last Thing on My Mind

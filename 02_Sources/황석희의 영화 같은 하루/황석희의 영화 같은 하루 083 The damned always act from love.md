@@ -1,7 +1,14 @@
 ---
-published: "2022-08-12T06:54:08.106Z"
+title: 황석희의 영화 같은 하루 083 The damned always act from love
 aliases: []
+published: "2022-08-12T06:54:08.106Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 083 The damned always act from love
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/08/13/ROHY55JFFNHL3NEGL4M65QBNVA/"
 ---
 # 황석희의 영화 같은 하루 083 The Damned Always Act from Love

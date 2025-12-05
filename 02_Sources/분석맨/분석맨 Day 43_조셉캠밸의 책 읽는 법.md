@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 43_조셉캠밸의 책 읽는 법
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+43_%EC%A1%B0%EC%85%89%EC%BA%A0%EB%B0%B8%EC%9D%98+%EC%B1%85+%EC%9D%BD%EB%8A%94+%EB%B2%95
   - http://www.bhgoo.com/2011/share2/115517

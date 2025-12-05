@@ -1,7 +1,14 @@
 ---
-published: "2023-04-28T03:45:18.905Z"
+title: 황석희의 영화 같은 하루 119 Movies are dreams that you never forget
 aliases: []
+published: "2023-04-28T03:45:18.905Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 119 Movies are dreams that you never forget
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/04/29/U5IYP3IXGVH2JI4237H5E4EV64/"
 ---
 # 황석희의 영화 같은 하루 119 Movies Are Dreams that You Never Forget

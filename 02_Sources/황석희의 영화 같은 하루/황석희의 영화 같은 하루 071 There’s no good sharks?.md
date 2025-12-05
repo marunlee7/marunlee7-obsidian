@@ -1,7 +1,14 @@
 ---
-published: "2022-05-20T04:22:15.709Z"
+title: 황석희의 영화 같은 하루 071 There’s no good sharks?
 aliases: []
+published: "2022-05-20T04:22:15.709Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 071 There’s no good sharks?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/05/21/5VNHUB2RIBHJJANF4OVEJI6YLY/"
 ---
 # 황석희의 영화 같은 하루 071 There’s no Good Sharks?

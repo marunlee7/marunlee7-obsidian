@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: 아이패드 미니 떡상 🌋 iPadOS 26으로 완전 부활한 이유
+aliases: []
 level: T02
 file_role: article_atom
 parent: "북마크"
@@ -11,6 +11,9 @@ process: raw
 source_name: 아이패드 미니 떡상 🌋 iPadOS 26으로 완전 부활한 이유
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=h1AcBYyK7Xg
 tags: [출처/외부_수집/북마크]
 ---

@@ -1,3 +1,12 @@
+---
+title: T03_Concept_Generator_Templater
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
 <%*
 // 템플릿 플러그인을 사용하여 사용자 입력 받기
 const userInput = await tp.system.prompt("T03 개념 단어 입력");

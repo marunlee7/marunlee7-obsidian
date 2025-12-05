@@ -1,6 +1,13 @@
 ---
+title: 옵시디언에서 MOC(Master of Control) 자동 생성
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언에서 MOC(Master of Control) 자동 생성
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/454
 ---
 # MOC(Master Of Control) 자동 생성 및 폴더 노트 활용 가이드

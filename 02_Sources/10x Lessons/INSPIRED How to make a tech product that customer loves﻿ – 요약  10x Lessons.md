@@ -1,7 +1,7 @@
 ---
-published: 2018-09-26
 title: INSPIRED How to make a tech product that customer loves﻿ – 요약  10x Lessons
 aliases: []
+published: 2018-09-26
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: INSPIRED How to make a tech product that customer loves﻿ – 요약  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2018/09/inspired-how-to-make-a-tech-product-that-customer-loves%ef%bb%bf-%ec%9a%94%ec%95%bd/"
 tags: [출처/외부_정보/아티클_웹]
 ---

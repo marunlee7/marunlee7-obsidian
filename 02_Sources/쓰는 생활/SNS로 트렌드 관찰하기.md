@@ -1,6 +1,13 @@
 ---
+title: SNS로 트렌드 관찰하기
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: SNS로 트렌드 관찰하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # SNS로 트렌드 관찰하기
 

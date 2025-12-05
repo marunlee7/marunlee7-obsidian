@@ -1,7 +1,14 @@
 ---
-published: "2023-03-24T05:39:26.049Z"
+title: 황석희의 영화 같은 하루 114 They’re my passengers, they’re my responsibility
 aliases: []
+published: "2023-03-24T05:39:26.049Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 114 They’re my passengers, they’re my responsibility
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/03/25/WCDCV4KP2JH5RADNGCRSERN52E/"
 ---
 # 황석희의 영화 같은 하루 114 They’re My Passengers, they’re My Responsibility

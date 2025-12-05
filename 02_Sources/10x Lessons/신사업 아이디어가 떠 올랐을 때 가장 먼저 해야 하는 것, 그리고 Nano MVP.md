@@ -1,7 +1,7 @@
 ---
-published: 2022-03-06
 title: 신사업 아이디어가 떠 올랐을 때 가장 먼저 해야 하는 것, 그리고 Nano MVP
 aliases: []
+published: 2022-03-06
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 신사업 아이디어가 떠 올랐을 때 가장 먼저 해야 하는 것, 그리고 Nano MVP
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2022/03/%ec%8b%a0%ec%82%ac%ec%97%85-%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4%eb%a5%bc-%ea%b0%80%ec%a7%80%ea%b3%a0-%ea%b0%80%ec%9e%a5-%eb%a8%bc%ec%a0%80-%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94-%ea%b2%83/"
 tags: [출처/외부_정보/아티클_웹]
 ---

@@ -1,7 +1,14 @@
 ---
-published: 2024-01-19T10:21:30+09:00
+title: 옵시디언 사용자 필독! Google Tasks 플러그인으로 생산성을 두 배로!
 aliases: []
+published: 2024-01-19T10:21:30+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언 사용자 필독! Google Tasks 플러그인으로 생산성을 두 배로!
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/446
 ---
 # 옵시디언 사용자 필독! Google Tasks 플러그인으로 생산성을 두 배로!

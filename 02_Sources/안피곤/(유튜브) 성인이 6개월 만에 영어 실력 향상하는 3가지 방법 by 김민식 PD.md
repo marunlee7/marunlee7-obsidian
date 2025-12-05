@@ -1,7 +1,14 @@
 ---
-published: 2023-04-08T12:57:11+09:00
+title: (유튜브) 성인이 6개월 만에 영어 실력 향상하는 3가지 방법 by 김민식 PD
 aliases: []
+published: 2023-04-08T12:57:11+09:00
+status: planned
+priority: medium
+process: raw
 source_name: (유튜브) 성인이 6개월 만에 영어 실력 향상하는 3가지 방법 by 김민식 PD
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/377
 ---
 # (유튜브) 성인이 6개월 만에 영어 실력 향상하는 3가지 방법 by 김민식 PD

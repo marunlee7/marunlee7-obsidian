@@ -1,7 +1,14 @@
 ---
-published: "2023-03-03T05:09:38.754Z"
+title: 황석희의 영화 같은 하루 111 Start rippin’ up the recipe
 aliases: []
+published: "2023-03-03T05:09:38.754Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 111 Start rippin’ up the recipe
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/03/04/2ZNDX37GSZE4BBQMCNMZ4F5FPY/"
 ---
 # 황석희의 영화 같은 하루 111 Start rippin’ up the Recipe

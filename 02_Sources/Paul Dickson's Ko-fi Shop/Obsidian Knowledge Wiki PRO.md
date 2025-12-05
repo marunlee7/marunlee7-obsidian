@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Knowledge Wiki PRO
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Knowledge Wiki PRO
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/d18e5729a1
 ---
 # Obsidian Knowledge Wiki PRO

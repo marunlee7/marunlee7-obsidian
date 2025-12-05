@@ -1,7 +1,14 @@
 ---
-published: "2022-09-02T05:53:04.844Z"
+title: 황석희의 영화 같은 하루 086 Just trying to save myself
 aliases: []
+published: "2022-09-02T05:53:04.844Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 086 Just trying to save myself
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/09/03/JKAJ67BNUBCDNMYYGXN2XXOWRY/"
 ---
 # 황석희의 영화 같은 하루 086 Just Trying to save Myself

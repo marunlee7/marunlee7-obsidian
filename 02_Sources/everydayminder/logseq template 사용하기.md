@@ -1,5 +1,12 @@
 ---
+title: logseq template 사용하기
+status: planned
+priority: medium
+process: raw
 source_name: logseq template 사용하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 [%article%](https://luran.me/437)
 

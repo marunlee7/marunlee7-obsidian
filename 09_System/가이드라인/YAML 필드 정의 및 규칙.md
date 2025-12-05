@@ -2,7 +2,14 @@
 title: YAML 필드 정의 및 규칙
 level: T09
 file_role: system_config
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
+# YAML 필드 정의 및 규칙
 
 ## 1. ⚙️ YAML 필드 정의 및 규칙
 
@@ -33,4 +40,3 @@ t1 - t2- t3- t4- t5
 | `satisfaction`    | 내용에 대한 개인 만족도 (1~5)    | `1` - `5`                                                                                                                    |                     |
 | `references`      | 외부 참조 링크/파일            |                                                                                                                              |                     |
 | `tags`            | 분류 태그 (3단 구조 원칙)       | 3단 구조<br>`출처/1단/2단`, <br>`영역/1단/2단`, <br>`개념/1단/2단` )                                                                        |                     |
-

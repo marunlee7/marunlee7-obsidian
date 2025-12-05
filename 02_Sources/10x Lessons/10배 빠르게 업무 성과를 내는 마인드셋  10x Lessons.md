@@ -1,7 +1,7 @@
 ---
-published: 2021-04-11
 title: 10배 빠르게 업무 성과를 내는 마인드셋  10x Lessons
 aliases: []
+published: 2021-04-11
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 10배 빠르게 업무 성과를 내는 마인드셋  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2021/04/%eb%b0%9c%ea%b2%ac%ec%9d%98-%eb%a7%88%ec%9d%b8%eb%93%9c%ec%85%8b-10%eb%b0%b0-%eb%82%98%ec%9d%80-%ec%97%85%eb%ac%b4-%eb%b0%a9%eb%b2%95%ec%9d%84-%ec%b0%be%ec%95%84%eb%82%b4%eb%8a%94-%eb%a7%88%ec%9d%b8/"
 tags: [출처/외부_정보/아티클_웹]
 ---

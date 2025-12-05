@@ -1,7 +1,14 @@
 ---
-published: "2023-02-10T07:00:17.266Z"
+title: 황석희의 영화 같은 하루 108 The only thing harder than finding the truth
 aliases: []
+published: "2023-02-10T07:00:17.266Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 108 The only thing harder than finding the truth
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/02/11/BLG5V3Q4ANBZDBHBYZG2VJAIMQ/"
 ---
 # 황석희의 영화 같은 하루 108 The only Thing Harder than Finding the Truth

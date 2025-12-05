@@ -3,14 +3,14 @@ title: vs code 설치후 초기 설정(필수)
 level: T02
 file_role: article_atom
 parent: 작업노트_2024
-status: in-progress
+status: planned
 priority: medium
-process: draft
+process: raw
 source_name: 
 source_author: self
 source_type: worknote
 action_required: link_to_t04
-difficulty: good
+difficulty:	good
 satisfaction: 3
 references: ""
 tags: [출처/내부_활동/아이디어]

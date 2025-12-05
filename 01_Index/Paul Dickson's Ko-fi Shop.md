@@ -6,12 +6,15 @@ title: "Paul Dickson's Ko-fi Shop"
 published:
 level: T02
 file_role: article_atom
-status: planned # 최종 확정: planned. Task 관리 기본값.
+status: planned
 priority: medium
-process: "" # T01은 process 필드 사용 안 함 (빈 값 유지)
+process: raw
 source_name: Paul Dickson's Ko-fi Shop
 source_author: "[[폴 딕슨]]"
 source_type: "book"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/channel/UCkIzFxrhWbf2Crr-BBYtdgw
   - https://obsidianaitools.com/

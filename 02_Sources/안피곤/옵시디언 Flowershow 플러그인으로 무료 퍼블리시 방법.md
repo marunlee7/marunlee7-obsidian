@@ -1,7 +1,14 @@
 ---
-published: 2024-01-27T23:33:29+09:00
+title: 옵시디언 Flowershow 플러그인으로 무료 퍼블리시 방법
 aliases: []
+published: 2024-01-27T23:33:29+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언 Flowershow 플러그인으로 무료 퍼블리시 방법
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/448
 ---
 # 옵시디언 Flowershow 플러그인으로 무료 퍼블리시 방법

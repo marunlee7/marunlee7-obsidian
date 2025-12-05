@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 74_두 번째 뇌를 만드는 것은 습관이 아니라 철학의 변화다
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 tags: [출처/외부_정보/아티클_웹]
 ---

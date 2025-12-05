@@ -1,7 +1,7 @@
 ---
+title: Yes or No - The Guide to Better Decisions 핵심 요약
 aliases:
   - "한국어판 제목: 선택"
-title: Yes or No - The Guide to Better Decisions 핵심 요약
 level: T02
 file_role: article_atom
 parent: 노트 템플릿
@@ -12,9 +12,10 @@ process: raw
 source_name: Yes or no, 스펜스 존슨
 source_author: self
 source_type: article
-tags:
-  - 영역/지식관리
-  - 출처/외부_정보/아티클_웹
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: [출처/외부_정보/아티클_웹, 영역/지식관리]
 ---
 # Yes or No - The Guide to Better Decisions 핵심 요약
 

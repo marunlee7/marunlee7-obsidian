@@ -1,7 +1,14 @@
 ---
-published: "2022-02-11T06:14:14.083Z"
+title: 황석희의 영화 같은 하루 057 I don’t want to survive. I want to live.
 aliases: []
+published: "2022-02-11T06:14:14.083Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 057 I don’t want to survive. I want to live.
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/02/12/AUMW2JO2JNBZLLMRRWV2ODMPEI/"
 ---
 # 황석희의 영화 같은 하루 057 I don’t want to Survive. I want to Live.

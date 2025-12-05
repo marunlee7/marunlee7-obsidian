@@ -1,6 +1,13 @@
 ---
+title: Sondia - 어른 (Grown Ups)
+status: planned
+priority: medium
+process: raw
 source_name: Sondia - 어른 (Grown Ups)
 source_author: "[[손디아]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=5a-tqIQc8RM&list=RDm3DZsBw5bnE&index=7
 ---
 # Sondia - 어른 (Grown Ups)

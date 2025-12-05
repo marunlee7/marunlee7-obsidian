@@ -1,7 +1,14 @@
 ---
-published: "2024-03-20T06:14:40.261Z"
+title: 황석희의 영화 같은 하루 166 War is barbaric
 aliases: []
+published: "2024-03-20T06:14:40.261Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 166 War is barbaric
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/03/21/WNFP4ZHQVNDFLA7XULOZKXNGKA/"
 ---
 # 황석희의 영화 같은 하루 166 War is Barbaric

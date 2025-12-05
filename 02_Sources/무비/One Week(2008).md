@@ -3,7 +3,14 @@ cover_url: https://postfiles.pstatic.net/MjAyMjA2MTdfMTYy/MDAxNjU1NDc2NTk1OTk5.5
 년도: "2008"
 배우:
 감독: Michael McGowan
+title: One Week(2008)
+status: planned
+priority: medium
+process: raw
 source_name: One Week(2008)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # One Week(2008)
 

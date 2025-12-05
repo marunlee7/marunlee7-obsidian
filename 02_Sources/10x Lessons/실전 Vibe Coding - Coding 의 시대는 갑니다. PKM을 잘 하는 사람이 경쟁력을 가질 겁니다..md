@@ -1,7 +1,7 @@
 ---
-published: 2025-09-23
 title: 실전 Vibe Coding - Coding 의 시대는 갑니다. PKM을 잘 하는 사람이 경쟁력을 가질 겁니다.
 aliases: []
+published: 2025-09-23
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 실전 Vibe Coding - Coding 의 시대는 갑니다. PKM을 잘 하는 사람이 경쟁력을 가질 겁니다.
 source_author: 김태현
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=kDdPf4cVHTs
 links:
 tags: [출처/외부_정보/아티클_웹]

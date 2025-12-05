@@ -1,15 +1,18 @@
 ---
-title: T08_Vault_Dashboard
+title: T08_Vault_Dashboard_old
 level: T08_MOC_Index
 file_role: system_index
 parent: ""
+status: planned
+priority: medium
+process: raw
 source_name: System Dashboard
 source_author: self
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: []
-status: completed
-priority: high
-process: final
-tags:
+tags: []
 ---
 # 📈 Vault 종합 관리 대시보드
 

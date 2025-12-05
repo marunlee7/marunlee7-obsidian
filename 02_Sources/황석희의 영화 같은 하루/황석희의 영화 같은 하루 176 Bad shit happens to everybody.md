@@ -1,7 +1,14 @@
 ---
-published: "2024-06-26T05:09:15.856Z"
+title: 황석희의 영화 같은 하루 176 Bad shit happens to everybody
 aliases: []
+published: "2024-06-26T05:09:15.856Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 176 Bad shit happens to everybody
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/06/26/ACP2FMD6IJFVDJSTKVAZ3USOGE/"
 ---
 # 황석희의 영화 같은 하루 176 Bad Shit Happens to Everybody

@@ -1,7 +1,14 @@
 ---
-published: "2024-06-12T06:59:52.868Z"
+title: 황석희의 영화 같은 하루 175 Is that so terrible to be useful?
 aliases: []
+published: "2024-06-12T06:59:52.868Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 175 Is that so terrible to be useful?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/06/12/V5GLTCAHTRGC5DH7SND4M2X57Q/"
 ---
 # 황석희의 영화 같은 하루 175 Is that so Terrible to Be Useful?

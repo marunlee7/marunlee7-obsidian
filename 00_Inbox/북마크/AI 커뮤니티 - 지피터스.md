@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: AI 커뮤니티 - 지피터스
+aliases: []
 published:
 level: T02
 file_role: article_atom
@@ -12,6 +12,9 @@ process: raw
 source_name: AI 커뮤니티 - 지피터스
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.gpters.org/welcome
 tags: [출처/외부_수집/북마크]
 ---

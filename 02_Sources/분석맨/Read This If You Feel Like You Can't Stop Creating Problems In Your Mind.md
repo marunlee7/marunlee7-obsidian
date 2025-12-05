@@ -1,7 +1,7 @@
 ---
-published:
 title: "Read This If You Feel Like You Can't Stop Creating Problems In Your Mind"
 aliases: []
+published:
 level: T02
 file_role: article_atom
 parent: "분석맨"
@@ -12,6 +12,9 @@ process: raw
 source_name: "Read This If You Feel Like You Can't Stop Creating Problems In Your Mind"
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://secondbrain.analysisman.com/we-were-born2create
 tags: [출처/외부_정보/아티클_웹]
 ---

@@ -3,21 +3,20 @@ title: VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진�
 level: T02
 file_role: original_source
 parent: 작업노트_2025
-status: completed
-priority: high
-process: draft
+status: planned
+priority: medium
+process: raw
 source_name: ""
 source_author: self
 source_type: worknote
 action_required: link_to_t04
-difficulty: good
+difficulty:	good
 satisfaction: 3
 references:
   - https://chatgpt.com/s/t_6932832ec8d08191b3858012b4853a84
-tags:
-  - task
-  - 출처/내부_활동/아이디어
+tags: [task, 출처/내부_활동/아이디어]
 ---
+# VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리
 ## 📚 VS Code GUI에서 **스테이징 → 커밋 → 푸시**를 깔끔하게 진행하는 순서를 단계별로 정리
 
 

@@ -1,7 +1,14 @@
 ---
-published: "2022-01-21T06:23:41.891Z"
+title: 황석희의 영화 같은 하루 054 Thing of it is, We really did have everything
 aliases: []
+published: "2022-01-21T06:23:41.891Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 054 Thing of it is, We really did have everything
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/01/22/Y4KZAA4WL5G2PE65OT6PYON5HY/"
 ---
 # 황석희의 영화 같은 하루 054 Thing of it Is, We Really Did Have Everything

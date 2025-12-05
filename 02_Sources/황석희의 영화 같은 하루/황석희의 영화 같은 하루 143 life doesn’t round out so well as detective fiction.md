@@ -1,7 +1,14 @@
 ---
-published: "2023-10-11T04:53:00.551Z"
+title: 황석희의 영화 같은 하루 143 life doesn’t round out so well as detective fiction
 aliases: []
+published: "2023-10-11T04:53:00.551Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 143 life doesn’t round out so well as detective fiction
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/10/12/CXG7NCGLVVFZLLXUS3FIKSVXEM/"
 ---
 # 황석희의 영화 같은 하루 143 Life doesn’t round out so well as Detective Fiction

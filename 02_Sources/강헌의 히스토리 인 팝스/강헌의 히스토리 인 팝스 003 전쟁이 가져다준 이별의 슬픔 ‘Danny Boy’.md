@@ -1,7 +1,14 @@
 ---
-published: "2020-08-08T01:44:29.550Z"
+title: 강헌의 히스토리 인 팝스 003 전쟁이 가져다준 이별의 슬픔 ‘Danny Boy’
 aliases: []
+published: "2020-08-08T01:44:29.550Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 003 전쟁이 가져다준 이별의 슬픔 ‘Danny Boy’
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2020/03/23/2020032300034.html"
 ---
 # 강헌의 히스토리 인 팝스 003 전쟁이 가져다준 이별의 슬픔 ‘Danny Boy’

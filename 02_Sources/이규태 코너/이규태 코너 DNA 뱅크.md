@@ -1,7 +1,14 @@
 ---
-published: "2001-07-03"
+title: 이규태 코너 DNA 뱅크
 aliases: []
+published: "2001-07-03"
+status: planned
+priority: medium
+process: raw
 source_name: 이규태 코너 DNA 뱅크
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2001/07/03/2001070370336.html"
 ---
 # 이규태 코너 DNA 뱅크

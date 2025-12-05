@@ -1,6 +1,13 @@
 ---
+title: 참다운 이름 Vrai Nom
+status: planned
+priority: medium
+process: raw
 source_name: 참다운 이름 Vrai Nom
 source_author: 이브 본느프와
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 참다운 이름 Vrai Nom
 

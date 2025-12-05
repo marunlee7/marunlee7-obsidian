@@ -1,6 +1,13 @@
 ---
+title: 마크다운 때문에 어렵다는 핑계는 그만! 옵시디안 WYSWYG 기능 추가
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 마크다운 때문에 어렵다는 핑계는 그만! 옵시디안 WYSWYG 기능 추가
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=mUYLE8M5o0I&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=20
 links: 
 ---

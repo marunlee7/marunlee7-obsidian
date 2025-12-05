@@ -1,7 +1,14 @@
 ---
-published: "2021-01-14T08:27:42.832Z"
+title: 황석희의 영화 같은 하루 002 Not All the Time
 aliases: []
+published: "2021-01-14T08:27:42.832Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 002 Not All the Time
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/01/16/5QCAXR67RRE3XJ55BQWMLZ32WU/"
 ---
 # 황석희의 영화 같은 하루 002 Not All the Time

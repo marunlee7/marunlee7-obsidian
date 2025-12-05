@@ -1,11 +1,18 @@
 ---
-tags:
-  - Obsidian
-references:
-  - https://youtu.be/rjTk4VcGR3I
 created: 2025-10-17
 modified: 2025-11-02
+title: Obsidian Interface Menu - Cheat Sheet
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+references:
+  - https://youtu.be/rjTk4VcGR3I
+tags: [Obsidian]
 ---
+# Obsidian Interface Menu - Cheat Sheet
 ## Obsidian Interface Menu
 ![[Obsidian-Interface-Menu-SS.png]]
  

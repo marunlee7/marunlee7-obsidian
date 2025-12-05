@@ -11,6 +11,9 @@ process: raw
 source_name: "분석맨 Day 32_제프 베조스의 '후회 최소화 프레임워크'"
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 tags: [출처/외부_정보/아티클_웹]
 ---

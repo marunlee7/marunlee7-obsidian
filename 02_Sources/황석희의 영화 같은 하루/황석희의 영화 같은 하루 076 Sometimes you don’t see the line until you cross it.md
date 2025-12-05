@@ -1,7 +1,14 @@
 ---
-published: "2022-06-24T04:54:32.612Z"
+title: 황석희의 영화 같은 하루 076 Sometimes you don’t see the line until you cross it
 aliases: []
+published: "2022-06-24T04:54:32.612Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 076 Sometimes you don’t see the line until you cross it
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/06/25/LVOQBU3CGVDL7MPEMLE7Q3SINA/"
 ---
 # 황석희의 영화 같은 하루 076 Sometimes You don’t See the line until You Cross it

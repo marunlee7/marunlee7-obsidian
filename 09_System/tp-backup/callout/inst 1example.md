@@ -1,3 +1,13 @@
+---
+title: inst 1example
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Inst 1example
 > [!example]+
 > 핵심 개념 
 > 어휘

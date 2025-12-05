@@ -1,7 +1,14 @@
 ---
-published: "2022-03-11T05:24:37.233Z"
+title: 황석희의 영화 같은 하루 061 Hate never solved nothing
 aliases: []
+published: "2022-03-11T05:24:37.233Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 061 Hate never solved nothing
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/03/12/APXEDR7EUZF3JNENR6SFKRMVCI/"
 ---
 # 황석희의 영화 같은 하루 061 Hate Never Solved Nothing

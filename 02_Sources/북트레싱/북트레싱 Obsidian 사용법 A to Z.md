@@ -1,10 +1,14 @@
 ---
 title: 북트레싱 Obsidian 사용법 A to Z
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: 북트레싱 Obsidian 사용법 A to Z
-source_type: " youtube"
 source_author: "북트레싱"
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 

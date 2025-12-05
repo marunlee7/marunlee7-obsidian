@@ -1,10 +1,16 @@
 ---
-title: Status, Priority, Process 필드 최종 매뉴얼
+title: finalized, critical
 level: T09
 file_role: system_config
 parent: "[[09_System/가이드라인/09_T-System_Master_Manual]]"
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
-# finalized, critical
+# Finalized, Critical
 
 T-시스템은 T01~T05를 지식 작업 및 콘텐츠 관리를 위한 표준으로 사용하며, 
 T09는 시스템 자체의 설정 및 표준을 관리하기 때문입니다.

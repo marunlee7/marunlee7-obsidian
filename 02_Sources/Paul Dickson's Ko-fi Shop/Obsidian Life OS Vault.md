@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Life OS Vault
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Life OS Vault
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/ada1cb7720
 ---
 # Obsidian Life OS Vault

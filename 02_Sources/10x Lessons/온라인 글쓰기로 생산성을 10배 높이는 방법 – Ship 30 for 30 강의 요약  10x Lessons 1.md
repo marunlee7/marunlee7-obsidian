@@ -1,7 +1,7 @@
 ---
-published: 2022-09-07
-title: 온라인 글쓰기로 생산성을 10배 높이는 방법 – Ship 30 for 30 강의 요약  10x Lessons
+title: 온라인 글쓰기로 생산성을 10배 높이는 방법 – Ship 30 for 30 강의 요약  10x Lessons 1
 aliases: []
+published: 2022-09-07
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 온라인 글쓰기로 생산성을 10배 높이는 방법 – Ship 30 for 30 강의 요약  10x Lessons
 source_author: "김태현"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://tkim.co/2022/09/%ec%98%a8%eb%9d%bc%ec%9d%b8-%ea%b8%80%ec%93%b0%ea%b8%b0%eb%a1%9c-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%84-10%eb%b0%b0-%eb%86%92%ec%9d%b4%eb%8a%94-%eb%b0%a9%eb%b2%95-ship-30-for-30-%ea%b0%95%ec%9d%98/
 tags: [출처/외부_정보/아티클_웹]
 ---

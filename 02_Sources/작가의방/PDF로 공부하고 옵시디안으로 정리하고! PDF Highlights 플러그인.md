@@ -1,6 +1,13 @@
 ---
+title: PDF로 공부하고 옵시디안으로 정리하고! PDF Highlights 플러그인
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: PDF로 공부하고 옵시디안으로 정리하고! PDF Highlights 플러그인
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=jHfxtpavll0&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=19
 links: 
 ---

@@ -1,7 +1,14 @@
 ---
-published: "2022-10-07T05:27:56.303Z"
+title: 황석희의 영화 같은 하루 090 I don’t know you, but I want you
 aliases: []
+published: "2022-10-07T05:27:56.303Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 090 I don’t know you, but I want you
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/10/08/SQPCSHHZ6RCWDO2CXQBGBLMGE4/"
 ---
 # 황석희의 영화 같은 하루 090 I don’t Know You, but I want You

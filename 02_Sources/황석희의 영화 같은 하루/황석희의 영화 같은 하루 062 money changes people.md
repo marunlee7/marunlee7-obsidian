@@ -1,7 +1,14 @@
 ---
-published: "2022-03-18T05:27:32.045Z"
+title: 황석희의 영화 같은 하루 062 money changes people
 aliases: []
+published: "2022-03-18T05:27:32.045Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 062 money changes people
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/03/19/AAYSTPMFDRGDLPEUURUPCE2CH4/"
 ---
 # 황석희의 영화 같은 하루 062 Money Changes People

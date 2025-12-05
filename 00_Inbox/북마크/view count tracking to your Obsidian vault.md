@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: view count tracking to your Obsidian vault
+aliases: []
 level: T02
 file_role: article_atom
 parent: "북마크"
@@ -11,6 +11,9 @@ process: raw
 source_name: view count tracking to your Obsidian vault
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://github.com/decaf-dev/obsidian-view-count?tab=readme-ov-file#sync-view-count-to-frontmatter
 tags: [출처/외부_수집/북마크]
 ---

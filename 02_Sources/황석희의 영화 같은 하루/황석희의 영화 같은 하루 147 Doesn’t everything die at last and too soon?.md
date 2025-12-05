@@ -1,7 +1,14 @@
 ---
-published: "2023-11-08T04:32:07.791Z"
+title: 황석희의 영화 같은 하루 147 Doesn’t everything die at last and too soon?
 aliases: []
+published: "2023-11-08T04:32:07.791Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 147 Doesn’t everything die at last and too soon?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/11/09/4WESQCYTZ5HZTFUGLQB355QNVY/"
 ---
 # 황석희의 영화 같은 하루 147 Doesn’t Everything Die at Last and Too Soon?

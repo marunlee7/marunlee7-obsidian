@@ -1,7 +1,14 @@
 ---
-published: 2022-08-26T00:42:44+09:00
+title: 네이버 책 검색 API를 사용하여 독서노트 생성하기
 aliases: []
+published: 2022-08-26T00:42:44+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 네이버 책 검색 API를 사용하여 독서노트 생성하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/177
 ---
 # 네이버 책 검색 API를 사용하여 독서노트 생성하기

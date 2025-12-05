@@ -1,7 +1,14 @@
 ---
-published: "2023-11-01T05:17:38.461Z"
+title: 황석희의 영화 같은 하루 146 I still get a bit nervous every time
 aliases: []
+published: "2023-11-01T05:17:38.461Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 146 I still get a bit nervous every time
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/11/02/LYLJVDQKMBDOFK3PDC2MN5EAJQ/"
 ---
 # 황석희의 영화 같은 하루 146 I Still Get a Bit Nervous Every time

@@ -1,7 +1,14 @@
 ---
-published: "2023-08-04T00:37:46.986Z"
+title: 황석희의 영화 같은 하루 133 There’s a reason the heart is the organ given to love
 aliases: []
+published: "2023-08-04T00:37:46.986Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 133 There’s a reason the heart is the organ given to love
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/08/05/H4BRIXIA7BDY5KS2STB64SITCQ/"
 ---
 # 황석희의 영화 같은 하루 133 There’s a Reason the Heart is the Organ given to Love

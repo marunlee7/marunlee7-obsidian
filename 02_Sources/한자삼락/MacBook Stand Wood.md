@@ -1,8 +1,15 @@
 ---
-published:
+title: MacBook Stand Wood
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: MacBook Stand Wood
 source_author: "[[B-한자삼락]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.yohann.com/en-kr/products/macbook-stand-wood?tw_source=google&tw_adid=&tw_campaign=23177665378&tw_kwdid=&gad_source=2&gad_campaignid=23173366718
 links:
 ---

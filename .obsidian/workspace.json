@@ -91,12 +91,13 @@
                 }
               },
               {
-                "id": "b729b8e0bc1ba7b4",
+                "id": "a488270f2338e96f",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02_Sources/T02_VSCode_Core_Categories.md",
+                    "file": "01_Index/T01_VSCode_Index.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -110,8 +111,9 @@
                       "unlinkedCollapsed": true
                     }
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "T02_VSCode_Core_Categories"
+                  "title": "T01_VSCode_Index"
                 }
               }
             ],
@@ -147,8 +149,33 @@
                   "icon": "lucide-file",
                   "title": "09_T-System_Master_Manual"
                 }
+              },
+              {
+                "id": "d9006be2f490ed78",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "VS Code GUI(버튼) 작업"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -184,7 +211,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[priority: high",
+                "query": "[priority: critical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,8 +222,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f2a0b13a76ea1b29",
@@ -217,7 +243,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 310.5
   },
   "right": {
     "id": "02b10f3212415f63",
@@ -248,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09_System/09_T-System_Master_Manual.md",
+                "file": "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "09_T-System_Master_Manual 의 개요"
+              "title": "VS Code GUI(버튼) 작업 의 개요"
             }
           },
           {
@@ -341,35 +367,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "503fdad2231ead49",
+  "active": "d9006be2f490ed78",
   "lastOpenFiles": [
+    "01_Index/작업노트_2025.md",
+    "02_Sources/T02_VSCode_Core_Categories.md",
+    "03_Concepts/앱 용어/T03_Concept_Settings Sync.md",
+    "01_Index/T01_VSCode_Index.md",
+    "09_System/09_T-System_Master_Manual.md",
+    "02_Sources/3번 읽기의 힘-김범준/독서의 생산성을 높이는 방법, ‘밑줄’.md",
+    "02_Sources/3번 읽기의 힘-김범준/네오필리아 스타일의 독서법을 추구함.md",
+    "02_Sources/3번 읽기의 힘-김범준/내 인생의 클래스 찾아내는 법.md",
+    "02_Sources/3번 읽기의 힘-김범준/끝까지 해내는 힘.md",
+    "02_Sources/000_context/분석맨 소개 및 목차.md",
+    "00_Inbox/북마크/손정 작가 방법론을 따르는 것이 최적인 이유.md",
+    "01_Index/미묘한 메모의 묘미.md",
+    "01_Index/내 일을 위한 기록.md",
+    "02_Sources/전광진의 하루한자/전광진의 하루한자와 격언 1899 株式(주식).md",
+    "01_Index/옵시디언.md",
+    "01_Index/노트 템플릿.md",
+    "02_Sources/하루 한자 공부/하루 한자 공부 1112 能.md",
     "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md",
     "02_Sources/작업노트_2025/VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리.md",
     "02_Sources/작업노트_2025/T-시스템 구조 변경 작업 리스트.md",
-    "01_Index/작업노트_2025.md",
-    "02_Sources/T02_VSCode_Core_Categories.md",
-    "01_Index/T01_VSCode_Index.md",
-    "09_System/09_T-System_Master_Manual.md",
     "09_System/VS Code GUI(버튼) 작업.md",
     "09_System/가이드라인/action_required, difficulty, satisfaction.md",
     "09_System/노트의 생애 주기 (Life Cycle).md",
     "09_System/가이드라인/Status, Priority, Process.md",
     "01_Index/한자어휘 템플릿.md",
     "02_Sources/한자어휘 템플릿/노트의 생애 주기(Life Cycle).md",
-    "09_System/09_T-System_Master_Manual - 구버전.md",
-    "02_Sources/작업노트_2024/T01 템플릿의 process 필드 값 및 Dataview FROM 절 최적화 검토.md",
-    "01_Index/작업노트_2024.md",
-    "02_Sources/작업노트_2024/Hword1 yaml 변경.md",
-    "02_Sources/작업노트_2024/T01, T02- 전광진의 하루한자와 격언 H1 삭제.md",
-    "02_Sources/작업노트_2024/T01, T02- 한자암기박사1,2 지난 자료 가져오기.md",
-    "02_Sources/작업노트_2024/T03 개념어 사전의 정보 완결성 기반 템플릿 최종 확정.md",
-    "02_Sources/작업노트_2024/T03 템플릿의 YAML 필드 변화 및 태그 구조 개선 확인.md",
-    "02_Sources/작업노트_2024/프로세스 → final 목표로 진행.md",
-    "01_Index/노트 템플릿.md",
     "02_Sources/작업노트_2025",
-    "09_System/가이드라인/finalized, critical.md",
-    "09_System/tp/01/T01_Series_Index_Template.md",
-    "01_Index/김정운의 감언이설.md",
     "03_Concepts/앱 용어",
     "02_Sources/vs code 최적화",
     "20JUNI.code-workspace",

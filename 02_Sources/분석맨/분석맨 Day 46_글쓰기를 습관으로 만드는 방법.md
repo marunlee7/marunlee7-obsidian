@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 46_글쓰기를 습관으로 만드는 방법
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+46_%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC+%EC%8A%B5%EA%B4%80%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EB%B0%A9%EB%B2%95
   - https://brunch.co.kr/@futurewave/1329

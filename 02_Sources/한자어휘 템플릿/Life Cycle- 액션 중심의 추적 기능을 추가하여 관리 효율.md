@@ -1,25 +1,21 @@
 ---
-title: 액션 중심의 추적 기능을 추가하여 관리 효율
+title: Life Cycle- 액션 중심의 추적 기능을 추가하여 관리 효율
 published: 2025-12-03
 level: T02
 file_role: article_atom
 parent: 한자어휘 템플릿
-status: completed
-priority: high
+status: planned
+priority: medium
 process: raw
 source_author: self
 source_type: worknote
 action_required: link_to_t04
-difficulty: good
-satisfaction: 5
+difficulty:	good
+satisfaction: 3
 references: "[[노트의 생애 주기(Life Cycle)]]"
-tags:
-  - 출처/외부_수집/템플릿
-  - 출처/내부_활동/아이디어
-  - 개념/옵시디언/템플릿
-  - 영역/옵시디언
+tags: [출처/외부_수집/템플릿, 출처/내부_활동/아이디어, 영역/옵시디언, 개념/옵시디언/템플릿]
 ---
-# 📖 T02. 액션 중심의 추적 기능을 추가하여 관리 효율 
+# 📖 T02. 액션 중심의 추적 기능을 추가하여 관리 효율
 
 
 사용자님께서 시스템에 **액션 중심의 추적 기능**을 추가하여 관리 효율을 높이려는 의도는 매우 바람직합니다.

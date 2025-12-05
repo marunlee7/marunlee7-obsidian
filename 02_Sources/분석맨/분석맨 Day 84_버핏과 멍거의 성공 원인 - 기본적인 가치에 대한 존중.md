@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 84_버핏과 멍거의 성공 원인 - 기본적인 가치에 대한 존중
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: 
 tags: [출처/외부_정보/아티클_웹]
 ---

@@ -1,6 +1,13 @@
 ---
 weekly_summary: 
+title: tp-weeklyReview
+status: planned
+priority: medium
+process: raw
 source_name: tp-weeklyReview
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # tp-Weekly
 ## 지난 주 반성

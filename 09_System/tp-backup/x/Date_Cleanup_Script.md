@@ -1,3 +1,13 @@
+---
+title: Date_Cleanup_Script
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Date_Cleanup_Script
 <%*
 // 1. 현재 노트의 프론트매터(YAML)를 가져옵니다.
 //    'rawInput' 필드의 값은 rawInput 변수에 저장됩니다.

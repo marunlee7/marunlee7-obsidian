@@ -1,6 +1,13 @@
 ---
+title: SNS 팔로워, 어떻게 늘릴 수 있나요
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: SNS 팔로워, 어떻게 늘릴 수 있나요
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # SNS 팔로워, 어떻게 늘릴 수 있나요
 

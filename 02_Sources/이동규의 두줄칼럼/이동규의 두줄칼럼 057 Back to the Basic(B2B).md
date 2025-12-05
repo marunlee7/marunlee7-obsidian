@@ -1,7 +1,14 @@
 ---
-published: "2022-09-29T05:47:11.425Z"
+title: 이동규의 두줄칼럼 057 Back to the Basic(B2B)
 aliases: []
+published: "2022-09-29T05:47:11.425Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 057 Back to the Basic(B2B)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/09/30/ALXPKMIHMJGJTAGU6NYMRU5HXE/"
 ---
 # 이동규의 두줄칼럼 057 Back to the Basic(B2B)

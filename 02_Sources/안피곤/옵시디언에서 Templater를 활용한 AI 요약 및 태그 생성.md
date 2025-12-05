@@ -1,6 +1,13 @@
 ---
+title: 옵시디언에서 Templater를 활용한 AI 요약 및 태그 생성
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언에서 Templater를 활용한 AI 요약 및 태그 생성
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://anpigon.tistory.com/484#comment20072093
 ---

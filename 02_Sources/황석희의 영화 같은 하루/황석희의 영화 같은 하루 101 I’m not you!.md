@@ -1,7 +1,14 @@
 ---
-published: "2022-12-23T05:09:04.517Z"
+title: 황석희의 영화 같은 하루 101 I’m not you!
 aliases: []
+published: "2022-12-23T05:09:04.517Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 101 I’m not you!
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/12/24/IM7ES6M7QRAJ7HSSWWZ7QO7M54/"
 ---
 # 황석희의 영화 같은 하루 101 I’m not You!

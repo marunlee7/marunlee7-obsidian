@@ -1,5 +1,12 @@
 ---
+title: logseq 쿼리로 데이터 검색하기
+status: planned
+priority: medium
+process: raw
 source_name: logseq 쿼리로 데이터 검색하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 [%article%](https://luran.me/594)
 

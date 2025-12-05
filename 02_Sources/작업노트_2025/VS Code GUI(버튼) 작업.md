@@ -1,24 +1,64 @@
 ---
-title: T-시스템 구조 변경 작업 리스트
+title: VS Code GUI(버튼) 작업
 level: T02
 file_role: original_source
 parent: 작업노트_2025
-status: completed
-priority: high
-process: draft
+status: planned
+priority: medium
+process: raw
 source_name: ""
 source_author: self
 source_type: worknote
 action_required: link_to_t04
-difficulty: good
+difficulty:	good
 satisfaction: 3
 references:
   - "[[VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리]]"
-tags:
-  - task
-  - 출처/내부_활동/아이디어
+tags: [task, 출처/내부_활동/아이디어]
 ---
+# VS Code GUI(버튼) 작업
 ## 📚 VS Code GUI(버튼) 작업
+
+
+
+## 터미널 작업
+
+git status
+git add .
+git commit -m "커밋 메시지"
+git push
+git push --set-upstream origin main
+
+```
+# 1. 변경사항 확인
+git status
+
+# 2. 변경된 모든 파일 스테이징
+git add .
+
+# 3. 커밋 생성 (원하는 메시지 입력)
+git commit -m "커밋 메시지"
+
+# 4. 원격 브랜치가 설정되어 있으면 그냥 푸시
+git push || git push --set-upstream origin main
+
+```
+
+```
+
+git status && git add . && git commit -m "커밋 메시지" && git push --set-upstream origin main
+
+```
+
+```
+git status && git add . && git commit -m "VS Code GUI 수정 완료" && git push --set-upstream origin main
+```
+
+
+```
+git status && git add . && git commit -m "또 다른 변경사항 커밋" && git push
+```
+
 
 
 말씀하신 상황을 기준으로 정리하면:

@@ -11,10 +11,12 @@ process: raw
 source_name: Templater 기초부터 중급까지
 source_author: ChatGPT
 source_type: " article"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - ""
-tags:
-  - 출처/외부_정보/아티클_웹
+tags: [출처/외부_정보/아티클_웹]
 ---
 # 📖 T02. Obsidian Plugin Templater 사용법
 

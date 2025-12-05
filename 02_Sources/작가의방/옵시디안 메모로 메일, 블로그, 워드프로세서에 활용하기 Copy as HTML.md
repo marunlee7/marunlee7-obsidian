@@ -1,6 +1,13 @@
 ---
+title: 옵시디안 메모로 메일, 블로그, 워드프로세서에 활용하기 Copy as HTML
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디안 메모로 메일, 블로그, 워드프로세서에 활용하기 Copy as HTML
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=CI17UN4IzGo&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=11
 links: 
 ---

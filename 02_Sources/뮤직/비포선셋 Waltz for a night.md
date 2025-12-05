@@ -1,7 +1,14 @@
 ---
+title: 비포선셋 Waltz for a night
+status: planned
+priority: medium
+process: raw
 source_name: 비포선셋 Waltz for a night
 source_author:
   - 비포선셋
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # 비포선셋 Waltz for a Night

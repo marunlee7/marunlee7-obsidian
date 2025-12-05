@@ -1,6 +1,13 @@
 ---
+title: Let It Be
+status: planned
+priority: medium
+process: raw
 source_name: Let It Be
 source_author: "[[Music Travel]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # Let It Be

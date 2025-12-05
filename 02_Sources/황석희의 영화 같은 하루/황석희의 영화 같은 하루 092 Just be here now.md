@@ -1,7 +1,14 @@
 ---
-published: "2022-10-21T05:20:10.783Z"
+title: 황석희의 영화 같은 하루 092 Just be here now
 aliases: []
+published: "2022-10-21T05:20:10.783Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 092 Just be here now
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/10/22/5CHDTNNLYNG3XFC4GZXVVVA6W4/"
 ---
 # 황석희의 영화 같은 하루 092 Just Be here now

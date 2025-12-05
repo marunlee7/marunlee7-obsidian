@@ -1,6 +1,13 @@
 ---
+title: 다른 사람과 함께 PARA 사용하기
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 다른 사람과 함께 PARA 사용하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 다른 사람과 함께 PARA 사용하기
 ***

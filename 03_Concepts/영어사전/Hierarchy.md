@@ -1,12 +1,17 @@
 ---
+title: Hierarchy
 aliases:
   - 하이어라키(Hierarchy)
 word_type: 영어
+status: planned
 priority: medium
 process: raw
 source_name: Hierarchy
-source_type: dictionary_entry
 source_author: self
+source_type: dictionary_entry
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 하이어라키(Hierarchy)
 

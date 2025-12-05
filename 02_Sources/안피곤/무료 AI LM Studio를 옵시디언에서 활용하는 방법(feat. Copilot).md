@@ -1,7 +1,14 @@
 ---
-published: 2024-01-14T23:40:45+09:00
+title: 무료 AI LM Studio를 옵시디언에서 활용하는 방법(feat. Copilot)
 aliases: []
+published: 2024-01-14T23:40:45+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 무료 AI LM Studio를 옵시디언에서 활용하는 방법(feat. Copilot)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/442
 ---
 # 무료 AI LM Studio를 옵시디언에서 활용하는 방법(feat. Copilot)

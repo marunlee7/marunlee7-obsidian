@@ -1,7 +1,14 @@
 ---
-published: "2023-05-26T05:44:00.134Z"
+title: 황석희의 영화 같은 하루 123 No good deed goes unpunished
 aliases: []
+published: "2023-05-26T05:44:00.134Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 123 No good deed goes unpunished
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/05/27/QAG3ZZKFCRCAJBT5JGZRWAAAHU/"
 ---
 # 황석희의 영화 같은 하루 123 No Good Deed Goes Unpunished

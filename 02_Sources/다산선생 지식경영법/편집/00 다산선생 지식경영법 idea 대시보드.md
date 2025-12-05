@@ -1,6 +1,13 @@
 ---
+title: 00 다산선생 지식경영법 idea 대시보드
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 00 다산선생 지식경영법 idea 대시보드
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 links:
 tags: [출처/외부_정보/도서_단행본]
 ---

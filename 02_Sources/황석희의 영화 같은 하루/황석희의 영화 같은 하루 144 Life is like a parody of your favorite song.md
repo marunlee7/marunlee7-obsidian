@@ -1,7 +1,14 @@
 ---
-published: "2023-10-18T05:11:28.471Z"
+title: 황석희의 영화 같은 하루 144 Life is like a parody of your favorite song
 aliases: []
+published: "2023-10-18T05:11:28.471Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 144 Life is like a parody of your favorite song
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/10/19/LEY4PIVLTJGALFQN6E5HOHZAGM/"
 ---
 # 황석희의 영화 같은 하루 144 Life is like a Parody of Your Favorite Song

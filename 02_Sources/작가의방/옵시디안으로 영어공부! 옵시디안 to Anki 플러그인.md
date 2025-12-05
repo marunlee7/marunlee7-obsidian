@@ -1,6 +1,13 @@
 ---
+title: 옵시디안으로 영어공부! 옵시디안 to Anki 플러그인
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디안으로 영어공부! 옵시디안 to Anki 플러그인
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=tTTXsY_edDU&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=30
 links: 
 ---

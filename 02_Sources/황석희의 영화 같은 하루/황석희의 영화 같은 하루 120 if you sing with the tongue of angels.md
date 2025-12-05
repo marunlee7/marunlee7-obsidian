@@ -1,7 +1,14 @@
 ---
-published: "2023-05-05T06:10:53.082Z"
+title: 황석희의 영화 같은 하루 120 if you sing with the tongue of angels
 aliases: []
+published: "2023-05-05T06:10:53.082Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 120 if you sing with the tongue of angels
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/05/06/7RXVIKDOARAX7AVE6VQFMO3CHY/"
 ---
 # 황석희의 영화 같은 하루 120 if You Sing with the Tongue of Angels

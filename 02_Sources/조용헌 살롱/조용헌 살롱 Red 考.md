@@ -1,7 +1,14 @@
 ---
-published: 2020-08-06T01:00:16.459Z
+title: 조용헌 살롱 Red 考
 aliases: []
+published: 2020-08-06T01:00:16.459Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 Red 考
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2006/06/09/2006060970587.html
 links: 
 ---

@@ -1,7 +1,14 @@
 ---
-published: "2022-05-12T06:06:19.589Z"
+title: 이동규의 두줄칼럼 037 시대정신(Zeitgeist)
 aliases: []
+published: "2022-05-12T06:06:19.589Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 037 시대정신(Zeitgeist)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/05/13/LFFSWJNCEFE53KCXYJGKGRQGPY/"
 ---
 # 이동규의 두줄칼럼 037 시대정신(Zeitgeist)

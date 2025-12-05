@@ -1,7 +1,14 @@
 ---
-published: "2025-04-23T04:59:40.319Z"
+title: 황석희의 영화 같은 하루 197 So does that make it more tragic
 aliases: []
+published: "2025-04-23T04:59:40.319Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 197 So does that make it more tragic
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2025/04/24/IRDUUP2JVJE6BJDOUVOHLA5WPQ/"
 ---
 # 황석희의 영화 같은 하루 197 So Does that Make it More Tragic

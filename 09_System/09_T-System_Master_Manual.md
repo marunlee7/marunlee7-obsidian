@@ -64,3 +64,12 @@ T-시스템은 지식의 **계층(`level`)**과 **기능(`file_role`)**을 분�
 | **`action_required`** |     다음에 취할 구체적인 행동     |   3가지 행동    | `none`, `link_to_t04`, `refine_definition`     |
 |   **`difficulty`**    |   노트 작성/분석의 **난이도**    |   3가지 난이도   | `easy`, `good`, `hard`                         |
 |  **`satisfaction`**   | 작성 결과에 대한 **주관적인 만족도** |   1~5점 척도   | 1, 3, 5 (숫자만 사용)                               |
+
+| **필드명**           | **Master Manual SSoT 디폴트 값** |
+| ----------------- | ---------------------------- |
+| `status`          | `planned`                    |
+| `priority`        | `medium`                     |
+| `process`         | `raw`                        |
+| `action_required` | `link_to_t04`                |
+| `difficulty`      | `good`                       |
+| `satisfaction`    | 3                            |

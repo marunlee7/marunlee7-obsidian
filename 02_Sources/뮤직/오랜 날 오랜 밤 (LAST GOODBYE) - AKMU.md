@@ -1,6 +1,13 @@
 ---
+title: 오랜 날 오랜 밤 (LAST GOODBYE) - AKMU
+status: planned
+priority: medium
+process: raw
 source_name: 오랜 날 오랜 밤 (LAST GOODBYE) - AKMU
 source_author: "[[AKMU]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=wEQpfil0IYA&list=RDm3DZsBw5bnE&index=6
 ---
 # 오랜 날 오랜 밤 (LAST GOODBYE) - AKMU

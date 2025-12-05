@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: 음성有) 일본어 울트라안키덱 배포 (N1~N5 통합본) - JLPT 마이너 갤러리
+aliases: []
 published: 2025-05-10
 level: T02
 file_role: article_atom
@@ -12,6 +12,9 @@ process: raw
 source_name: 음성有) 일본어 울트라안키덱 배포 (N1~N5 통합본) - JLPT 마이너 갤러리
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://gall.dcinside.com/mgallery/board/view/?id=jlpt&no=118255
 tags: [출처/외부_수집/북마크]
 ---

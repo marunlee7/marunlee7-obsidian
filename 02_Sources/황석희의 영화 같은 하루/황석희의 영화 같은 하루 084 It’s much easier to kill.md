@@ -1,7 +1,14 @@
 ---
-published: "2022-08-19T05:07:47.181Z"
+title: 황석희의 영화 같은 하루 084 It’s much easier to kill
 aliases: []
+published: "2022-08-19T05:07:47.181Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 084 It’s much easier to kill
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/08/20/DP4E6P2KXBF4ROQC42L3PNSLT4/"
 ---
 # 황석희의 영화 같은 하루 084 It’s much Easier to Kill

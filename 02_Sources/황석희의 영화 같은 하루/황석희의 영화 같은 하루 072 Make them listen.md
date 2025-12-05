@@ -1,7 +1,14 @@
 ---
-published: "2022-05-27T04:31:16.057Z"
+title: 황석희의 영화 같은 하루 072 Make them listen
 aliases: []
+published: "2022-05-27T04:31:16.057Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 072 Make them listen
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/05/28/P6OCUWCAXFDQHO6UN5MR6J2Q3I/"
 ---
 # 황석희의 영화 같은 하루 072 Make Them Listen

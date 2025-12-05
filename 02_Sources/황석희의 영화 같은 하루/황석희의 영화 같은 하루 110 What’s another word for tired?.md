@@ -1,7 +1,14 @@
 ---
-published: "2023-02-24T02:00:07.246Z"
+title: 황석희의 영화 같은 하루 110 What’s another word for tired?
 aliases: []
+published: "2023-02-24T02:00:07.246Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 110 What’s another word for tired?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/02/25/GP2U6VWKHFBRPNDGEUO5BXJ2QQ/"
 ---
 # 황석희의 영화 같은 하루 110 What’s Another Word for Tired?

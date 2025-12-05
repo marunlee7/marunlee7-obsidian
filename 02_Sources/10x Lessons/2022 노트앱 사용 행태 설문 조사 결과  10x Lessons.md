@@ -1,7 +1,7 @@
 ---
-published: 2022-03-22
 title: 2022 노트앱 사용 행태 설문 조사 결과  10x Lessons
 aliases: []
+published: 2022-03-22
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 2022 노트앱 사용 행태 설문 조사 결과  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2022/03/2020-note-taking-behavior/"
 tags: [출처/외부_정보/아티클_웹]
 ---

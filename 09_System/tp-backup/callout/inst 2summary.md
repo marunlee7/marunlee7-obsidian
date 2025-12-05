@@ -1,3 +1,13 @@
+---
+title: inst 2summary
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Inst 2summary
 > [!summary]- [섹션 제목] 요약 및 핵심 결론
 > 
 > 긴 글의 내용을 압축하여 기록하는 곳입니다. 각 장(章)이나 목(目)을 관통하는 **가장 중요한 결론** 한두 문장만 남깁니다.

@@ -1,3 +1,13 @@
+---
+title: md-m markmap
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Md-m Markmap
 ## 📘 Markmap
 ```markmap:
   screenshotTextColor: #28F48D

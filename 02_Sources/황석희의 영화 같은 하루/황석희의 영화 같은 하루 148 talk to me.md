@@ -1,7 +1,14 @@
 ---
-published: "2023-11-15T04:44:45.486Z"
+title: 황석희의 영화 같은 하루 148 talk to me
 aliases: []
+published: "2023-11-15T04:44:45.486Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 148 talk to me
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/11/16/U2CRRQGIWJABXM7JJTFMHJOB4Y/"
 ---
 # 황석희의 영화 같은 하루 148 Talk to Me

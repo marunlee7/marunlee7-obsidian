@@ -1,3 +1,12 @@
+---
+title: tp_extract_t03_search
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
 <%*
 // ============================================================
 // 1. 설정 (여기에 Gemini API KEY를 입력하세요)
@@ -30,13 +39,13 @@ const promptText = `
 당신은 Obsidian 노트 전문가입니다.
 아래 제공된 [문서 내용]에서 **'${concept}'** 개념을 분석하고, **Google Search를 활용하여 정보를 보강**한 후, Obsidian T03 개념 노트 형식에 맞게 아래 JSON 형식으로 데이터를 생성하세요.
 
-## 추출 조건
+# 추출 조건
 1. **[문서 내용]**과 **검색 결과**를 기반으로 '${concept}'을 정의하고 설명해야 합니다.
 2. word_type은 '한자어휘', '순우리말', '영어', '개념', '인물', '서명' 중 하나를 선택하여 지정하세요.
 3. 태그는 **3단계 계층 구조**('영역/주제/상세', '개념/기능/상세')를 포함하여 2개 이상 생성해야 합니다.
 4. references 필드에 **검색을 통해 확보한 출처**를 포함하세요.
 
-## 출력 JSON 형식
+# 출력 JSON 형식
 반드시 JSON 객체만 출력하고 마크다운 코드블록(\`\`\`json)이나 설명은 생략하세요.
 
 {
@@ -48,7 +57,7 @@ const promptText = `
   "detail": "문서 내용과 검색 결과를 기반으로 한 상세 요약 (2-3문장)"
 }
 
-## 문서 내용
+# 문서 내용
 ---
 ${fileContent}
 ---

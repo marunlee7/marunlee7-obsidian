@@ -1,7 +1,7 @@
 ---
-published: 2019-04-18
 title: Rework – 열심히 한다고 해서 좋은 결과가 꼭 있지는 않더라구요  10x Lessons
 aliases: []
+published: 2019-04-18
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: Rework – 열심히 한다고 해서 좋은 결과가 꼭 있지는 않더라구요  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://tkim.co/2019/04/rework-%ec%97%b4%ec%8b%ac%ed%9e%88-%ed%95%9c%eb%8b%a4%ea%b3%a0-%ed%95%b4%ec%84%9c-%ec%a2%8b%ec%9d%80-%ea%b2%b0%ea%b3%bc%ea%b0%80-%ea%bc%ad-%ec%9e%88%ec%a7%80%eb%8a%94-%ec%95%8a%eb%8d%94%eb%9d%bc/
 tags: [출처/외부_정보/아티클_웹]
 ---

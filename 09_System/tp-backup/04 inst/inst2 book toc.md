@@ -1,3 +1,13 @@
+---
+title: inst2 book toc
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Inst2 Book Toc
 ```table-of-contents
 style: nestedList
 minLevel: 0

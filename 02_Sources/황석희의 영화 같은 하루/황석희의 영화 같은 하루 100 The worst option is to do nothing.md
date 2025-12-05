@@ -1,7 +1,14 @@
 ---
-published: "2022-12-16T06:27:25.636Z"
+title: 황석희의 영화 같은 하루 100 The worst option is to do nothing
 aliases: []
+published: "2022-12-16T06:27:25.636Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 100 The worst option is to do nothing
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/12/17/43VCEVXSINHITFANRHWIK2KRHI/"
 ---
 # 황석희의 영화 같은 하루 100 The Worst Option is to Do Nothing

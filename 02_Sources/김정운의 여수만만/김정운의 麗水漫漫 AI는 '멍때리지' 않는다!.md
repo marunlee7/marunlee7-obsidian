@@ -1,9 +1,15 @@
 ---
-published: 2018-02-28
-title: 김정운의 麗水漫漫 AI는 '멍때리지' 않는다!
+title: "김정운의 麗水漫漫 AI는 '멍때리지' 않는다!"
 aliases: []
+published: 2018-02-28
+status: planned
+priority: medium
+process: raw
 source_name: 김정운의 麗水漫漫 AI는 '멍때리지' 않는다!
 source_author: "[[김정운]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2018/02/27/2018022703016.html
 ---
 # 김정운의 麗水漫漫 AI는 '멍때리지' 않는다

@@ -1,7 +1,14 @@
 ---
-published: 2024-01-12T21:46:25+09:00
+title: 무료 AI 올라마를 옵시디언에서 효과적으로 활용하는 방법(feat. Text Generator, BMO Chatbot)
 aliases: []
+published: 2024-01-12T21:46:25+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 무료 AI 올라마를 옵시디언에서 효과적으로 활용하는 방법(feat. Text Generator, BMO Chatbot)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/441
 ---
 # 무료 AI 올라마를 옵시디언에서 효과적으로 활용하는 방법(feat. Text Generator, BMO Chatbot)

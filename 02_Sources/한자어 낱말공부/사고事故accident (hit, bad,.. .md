@@ -1,6 +1,13 @@
 ---
+title: "사고事故accident (hit, bad,.. "
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: "사고事故accident (hit, bad,.. "
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://blog.naver.com/adongsu/222982498580
 ---
 # 사고/事故/accident (hit, Bad,.. : 네이버블로그

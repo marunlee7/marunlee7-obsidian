@@ -1,7 +1,7 @@
 ---
-published: 2020-10-20
 title: 노코드 UI 사람들은 왜 노션으로 웹페이지를 만들까?  10x Lessons
 aliases: []
+published: 2020-10-20
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 노코드 UI 사람들은 왜 노션으로 웹페이지를 만들까?  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2020/10/notion-ui/"
 tags: [출처/외부_정보/아티클_웹]
 ---

@@ -3,13 +3,17 @@ title: Quicadd 자동화 시스템 재점검 요청과 T03, T05 관련 상세 �
 level: T09
 file_role: system_config
 parent: "[[09_System/가이드라인/09_T-System_Master_Manual]]"
+status: planned
+priority: medium
+process: raw
 source_name: Gemini & User Final Standardization (2025-11-26 최종 확정)
 source_author: system / user
-tags:
-  - 개념/옵시디언/YAML
-  - 영역/시스템/지식관리_규칙
-  - 출처/인덱스_구조/시스템_문서
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: [출처/인덱스_구조/시스템_문서, 영역/시스템/지식관리_규칙, 개념/옵시디언/YAML]
 ---
+# Quicadd 자동화 시스템 재점검 요청과 T03, T05 관련 상세 논의
 ## 1. 💡 T03 파일 생성 방법론 (최우선 과제)
 
 T03(개념 사전) 파일 생성 방법은 T-시스템의 핵심 자동화 부분이며, `word_type` 분류가 중요합니다.

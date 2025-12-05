@@ -1,3 +1,13 @@
+---
+title: md-h gemini hanja
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Md-h Gemini Hanja
 <%*const GEMINI_API_KEY="
 "%>
  
@@ -43,7 +53,7 @@ const summary = response.json.choices[0].message.content;
 <%*
 // 요약 출력하기
 tR = `
-## 📘 gemini
+## 📘 Gemini
 > [!summary]+ 
 > ${summary.split("\n").join("\n> ")}
 `;

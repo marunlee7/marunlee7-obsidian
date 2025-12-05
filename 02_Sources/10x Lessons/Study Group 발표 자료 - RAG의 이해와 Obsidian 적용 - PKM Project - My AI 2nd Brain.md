@@ -1,7 +1,7 @@
 ---
-published: 2025-06-11
 title: Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain
 aliases: []
+published: 2025-06-11
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: Study Group 발표 자료 - RAG의 이해와 Obsidian 적용 - PKM Project - My AI 2nd Brain
 source_author: 김태현
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=aM7Ensrqurs
 links:
   - https://docs.google.com/presentation/d/1T221IQ-6LllyzgIro3nsPfNxT41lK8XYRW4h59Xsjr4/edit?usp=sharing

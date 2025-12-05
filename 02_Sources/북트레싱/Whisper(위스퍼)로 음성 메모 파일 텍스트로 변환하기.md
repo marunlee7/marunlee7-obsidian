@@ -1,10 +1,14 @@
 ---
 title: Whisper(위스퍼)로 음성 메모 파일 텍스트로 변환하기
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: Whisper(위스퍼)로 음성 메모 파일 텍스트로 변환하기
-source_type: " youtube"
 source_author: "북트레싱"
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/watch?v=a2s6gV9SSwc&list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl&index=22
 links: 

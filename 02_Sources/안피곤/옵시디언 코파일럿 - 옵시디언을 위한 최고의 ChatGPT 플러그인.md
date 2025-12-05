@@ -1,7 +1,14 @@
 ---
-published: 2023-04-26T19:04:39+09:00
+title: 옵시디언 코파일럿 - 옵시디언을 위한 최고의 ChatGPT 플러그인
 aliases: []
+published: 2023-04-26T19:04:39+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언 코파일럿 - 옵시디언을 위한 최고의 ChatGPT 플러그인
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/393
 ---
 # 옵시디언 코파일럿 - 옵시디언을 위한 최고의 ChatGPT 플러그인

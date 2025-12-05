@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Tag Taxonomy
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Tag Taxonomy
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/ef20c4f600
 ---
 # Obsidian Tag Taxonomy

@@ -1,7 +1,14 @@
 ---
-published: "2024-04-24T06:06:40.789Z"
+title: 황석희의 영화 같은 하루 171 I’m a synthesis of incompatibilities
 aliases: []
+published: "2024-04-24T06:06:40.789Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 171 I’m a synthesis of incompatibilities
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/04/24/M2XFAI5UPZEK5GRDIOBZPWJDRQ/"
 ---
 # 황석희의 영화 같은 하루 171 I’m a Synthesis of Incompatibilities

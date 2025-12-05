@@ -1,6 +1,13 @@
 ---
+title: PARA 는 무엇이 다른가
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: PARA 는 무엇이 다른가
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # PARA 는 무엇이 다른가
 ***

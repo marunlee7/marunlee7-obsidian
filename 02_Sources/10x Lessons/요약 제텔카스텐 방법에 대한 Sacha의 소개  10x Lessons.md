@@ -1,7 +1,7 @@
 ---
-published: 2022-05-09
 title: 요약 제텔카스텐 방법에 대한 Sacha의 소개  10x Lessons
 aliases: []
+published: 2022-05-09
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 요약 제텔카스텐 방법에 대한 Sacha의 소개  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2022/05/into-to-zettelkasten/"
 tags: [출처/외부_정보/아티클_웹]
 ---

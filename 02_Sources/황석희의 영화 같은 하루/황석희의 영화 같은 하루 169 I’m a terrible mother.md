@@ -1,7 +1,14 @@
 ---
-published: "2024-04-10T05:57:33.282Z"
+title: 황석희의 영화 같은 하루 169 I’m a terrible mother
 aliases: []
+published: "2024-04-10T05:57:33.282Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 169 I’m a terrible mother
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/04/11/MR3QA2QQAJEMNHOECTFQN55F7E/"
 ---
 # 황석희의 영화 같은 하루 169 I’m a Terrible Mother

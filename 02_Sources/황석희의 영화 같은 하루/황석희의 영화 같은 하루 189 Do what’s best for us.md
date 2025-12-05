@@ -1,7 +1,14 @@
 ---
-published: "2024-12-25T05:38:23.180Z"
+title: 황석희의 영화 같은 하루 189 Do what’s best for us
 aliases: []
+published: "2024-12-25T05:38:23.180Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 189 Do what’s best for us
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/12/25/UTPZRWXVUFDB3I4HE7V356RXE4/"
 ---
 # 황석희의 영화 같은 하루 189 Do what’s Best for Us

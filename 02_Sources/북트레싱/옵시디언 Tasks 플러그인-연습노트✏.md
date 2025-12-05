@@ -1,11 +1,15 @@
 ---
 title: 옵시디언 Tasks 플러그인-연습노트✏
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언 Tasks 플러그인-연습노트✏
-source_type: " youtube"
 source_author: "북트레싱"
-links:
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+references:
   - "[[Tasks Plugin - 상태 검토 및 확인 2025-10-24 20-41-47]]"
   - "[[태스크(tasks)]]"
 ---

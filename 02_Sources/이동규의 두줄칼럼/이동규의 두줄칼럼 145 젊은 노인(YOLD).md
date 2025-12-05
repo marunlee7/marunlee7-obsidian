@@ -1,7 +1,14 @@
 ---
-published: "2024-06-26T07:16:25.700Z"
+title: 이동규의 두줄칼럼 145 젊은 노인(YOLD)
 aliases: []
+published: "2024-06-26T07:16:25.700Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 145 젊은 노인(YOLD)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/06/27/SMHKLGNVIZGZRHQUNLXABHIRY4/"
 ---
 # 이동규의 두줄칼럼 145 젊은 노인(YOLD)

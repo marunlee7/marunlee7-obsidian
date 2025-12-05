@@ -1,14 +1,18 @@
 ---
-published:
 title: 알쏭어 달쏭사 129 일도이부삼빽(一逃二否三back)
+published:
 level: T02
 file_role: article_atom
 parent: 김병기의 알쏭어 달쏭사
+status: planned
 priority: medium
-process: draft
+process: raw
 source_name: 알쏭어 달쏭사 129 일도이부삼빽(一逃二否三back)
-source_type: article
 source_author: 김병기
+source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 tags: [출처/외부_정보/매체_칼럼_단건]
 ---

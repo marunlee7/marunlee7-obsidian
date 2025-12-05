@@ -1,11 +1,15 @@
 ---
 title: Calendar
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: Calendar
-source_type: " youtube"
 source_author: "북트레싱"
-links: 
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+references: 
 ---
 # Calendar
 ## Calendar 플러그인 (Liam Cain 작)

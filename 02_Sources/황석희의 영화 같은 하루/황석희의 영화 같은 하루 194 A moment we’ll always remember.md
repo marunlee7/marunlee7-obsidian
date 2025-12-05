@@ -1,7 +1,14 @@
 ---
-published: "2025-03-12T04:59:50.255Z"
+title: 황석희의 영화 같은 하루 194 A moment we’ll always remember
 aliases: []
+published: "2025-03-12T04:59:50.255Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 194 A moment we’ll always remember
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2025/03/12/OB4DYXLJKJEFTNYYEZNF5P5PLM/"
 ---
 # 황석희의 영화 같은 하루 194 A Moment we’ll Always Remember

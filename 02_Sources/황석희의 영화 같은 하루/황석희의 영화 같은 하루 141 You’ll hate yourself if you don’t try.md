@@ -1,7 +1,14 @@
 ---
-published: "2023-09-27T01:58:57.407Z"
+title: 황석희의 영화 같은 하루 141 You’ll hate yourself if you don’t try
 aliases: []
+published: "2023-09-27T01:58:57.407Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 141 You’ll hate yourself if you don’t try
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/09/28/7PLJUMDXIBC3XEPFWNYDKRRWB4/"
 ---
 # 황석희의 영화 같은 하루 141 You’ll Hate Yourself if You don’t Try

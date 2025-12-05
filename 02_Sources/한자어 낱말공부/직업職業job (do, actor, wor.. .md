@@ -1,6 +1,13 @@
 ---
+title: "직업職業job (do, actor, wor.. "
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: "직업職業job (do, actor, wor.. "
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://blog.naver.com/adongsu/222983202191
 ---
 # 직업/職業/job (do, Actor, Wor.. : 네이버블로그

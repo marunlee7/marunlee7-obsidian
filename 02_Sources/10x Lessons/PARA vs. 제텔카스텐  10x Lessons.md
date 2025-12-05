@@ -1,7 +1,7 @@
 ---
-published: 2025-01-08
 title: PARA vs. 제텔카스텐  10x Lessons
 aliases: []
+published: 2025-01-08
 level: T02
 file_role: article_atom
 parent: 10x Lessons
@@ -12,9 +12,11 @@ process: raw
 source_name: PARA vs. 제텔카스텐  10x Lessons
 source_author: 김태현
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://tkim.co/2025/01/para-vs-zettelkasten/
-tags:
-  - 출처/외부_정보/아티클_웹
+tags: [출처/외부_정보/아티클_웹]
 ---
 # PARA vs. 제텔카스텐 10x Lessons
 

@@ -1,7 +1,14 @@
 ---
-published: "2022-06-17T06:58:59.429Z"
+title: 황석희의 영화 같은 하루 075 Hurt people hurt people
 aliases: []
+published: "2022-06-17T06:58:59.429Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 075 Hurt people hurt people
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/06/18/J7KJ5KMELZAW3F7YXWXVCDPW6U/"
 ---
 # 황석희의 영화 같은 하루 075 Hurt People Hurt People

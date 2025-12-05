@@ -5,8 +5,15 @@ cover_url:
   - 케빈클라인
   - 시고니위버
 감독:
+title: 데이브(Dave)
+status: planned
+priority: medium
+process: raw
 source_name: 데이브(Dave)
 source_author: "[[YouTube]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=EJk4P-2Rr40
 ---
 # 데이브(Dave)

@@ -1,7 +1,14 @@
 ---
-published: "2022-04-08T05:32:12.091Z"
+title: 황석희의 영화 같은 하루 065 It’s quality, not quantity
 aliases: []
+published: "2022-04-08T05:32:12.091Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 065 It’s quality, not quantity
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/04/09/NINKLPZB3FBLDNETFBVELGQDMI/"
 ---
 # 황석희의 영화 같은 하루 065 It’s Quality, not Quantity

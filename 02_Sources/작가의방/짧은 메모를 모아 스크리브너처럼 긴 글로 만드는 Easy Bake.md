@@ -1,6 +1,13 @@
 ---
+title: 짧은 메모를 모아 스크리브너처럼 긴 글로 만드는 Easy Bake
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 짧은 메모를 모아 스크리브너처럼 긴 글로 만드는 Easy Bake
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/watch?v=eAPGGse5L3g&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=36
 links: 

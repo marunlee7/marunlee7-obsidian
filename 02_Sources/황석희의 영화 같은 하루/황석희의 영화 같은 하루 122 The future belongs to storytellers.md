@@ -1,7 +1,14 @@
 ---
-published: "2023-05-19T05:07:45.839Z"
+title: 황석희의 영화 같은 하루 122 The future belongs to storytellers
 aliases: []
+published: "2023-05-19T05:07:45.839Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 122 The future belongs to storytellers
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/05/20/QE3LOIYZEBEKLAW2QZO6TMGZNU/"
 ---
 # 황석희의 영화 같은 하루 122 The Future Belongs to Storytellers

@@ -1,7 +1,14 @@
 ---
-published: "2022-02-04T04:37:46.372Z"
+title: 황석희의 영화 같은 하루 056 I don’t want to be just one thing
 aliases: []
+published: "2022-02-04T04:37:46.372Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 056 I don’t want to be just one thing
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/02/05/JQ3VGI3KFVGEBIVM2Q3BSAWYM4/"
 ---
 # 황석희의 영화 같은 하루 056 I don’t want to Be just One Thing

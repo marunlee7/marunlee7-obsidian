@@ -1,7 +1,14 @@
 ---
-published: "2001-10-22"
+title: 이규태 코너 APEC 민족의상
 aliases: []
+published: "2001-10-22"
+status: planned
+priority: medium
+process: raw
 source_name: 이규태 코너 APEC 민족의상
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2001/10/22/2001102270392.html"
 ---
 # 이규태 코너 APEC 민족의상

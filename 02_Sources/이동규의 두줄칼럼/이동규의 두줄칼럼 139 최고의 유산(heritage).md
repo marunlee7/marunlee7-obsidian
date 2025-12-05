@@ -1,7 +1,14 @@
 ---
-published: "2024-05-16T01:11:10.785Z"
+title: 이동규의 두줄칼럼 139 최고의 유산(heritage)
 aliases: []
+published: "2024-05-16T01:11:10.785Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 139 최고의 유산(heritage)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/05/16/SCHZWSZ5GFENDFW665WILUHFEY/"
 ---
 # 이동규의 두줄칼럼 139 최고의 유산(heritage)

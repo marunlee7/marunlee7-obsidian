@@ -1,7 +1,14 @@
 ---
-published: "2022-09-16T05:06:16.443Z"
+title: 황석희의 영화 같은 하루 087 Fate plays a big role
 aliases: []
+published: "2022-09-16T05:06:16.443Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 087 Fate plays a big role
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/09/17/GGFST5ZEBRDPDJEDJ23K233MNI/"
 ---
 # 황석희의 영화 같은 하루 087 Fate Plays a Big Role

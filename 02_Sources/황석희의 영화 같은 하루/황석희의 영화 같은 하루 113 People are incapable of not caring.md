@@ -1,7 +1,14 @@
 ---
-published: "2023-03-17T05:31:04.182Z"
+title: 황석희의 영화 같은 하루 113 People are incapable of not caring
 aliases: []
+published: "2023-03-17T05:31:04.182Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 113 People are incapable of not caring
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/03/18/D3RMLITNDFHI5HFBSHWIRYHOIA/"
 ---
 # 황석희의 영화 같은 하루 113 People Are Incapable of not Caring

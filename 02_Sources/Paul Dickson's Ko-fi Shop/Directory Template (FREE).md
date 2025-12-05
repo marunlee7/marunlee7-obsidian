@@ -1,8 +1,15 @@
 ---
-published:
+title: Directory Template (FREE)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Directory Template (FREE)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/fb702c412d
 ---
 # Directory Template (FREE)

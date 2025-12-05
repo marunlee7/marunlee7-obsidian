@@ -1,9 +1,14 @@
 ---
-title: "{{value:T08_주제 영역 MOC 제목}}"
+title: T08_Concept_moc
 level: T08
 file_role: concept_moc
-tags:
-  - 출처/인덱스_구조/주제_MOC
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: [출처/인덱스_구조/주제_MOC]
 ---
 # 🗺️ T08. {{title}} (Concepts Map of Content)
 

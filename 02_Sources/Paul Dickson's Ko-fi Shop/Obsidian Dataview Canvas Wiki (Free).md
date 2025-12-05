@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Dataview Canvas Wiki (Free)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Dataview Canvas Wiki (Free)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/61e7af81f4
 ---
 # Obsidian Dataview Canvas Wiki (Free)

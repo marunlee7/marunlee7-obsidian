@@ -1,7 +1,7 @@
 ---
-published: 2019-05-30
 title: 개발자가 창업할 때 유의해야 할 세 가지  10x Lessons
 aliases: []
+published: 2019-05-30
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 개발자가 창업할 때 유의해야 할 세 가지  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2019/05/%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%b0%bd%ec%97%85%ed%95%a0-%eb%95%8c-%ec%9c%a0%ec%9d%98%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%84%b8-%ea%b0%80%ec%a7%80/"
 tags: [출처/외부_정보/아티클_웹]
 ---

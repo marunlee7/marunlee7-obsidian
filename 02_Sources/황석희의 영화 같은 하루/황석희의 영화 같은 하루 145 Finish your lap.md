@@ -1,7 +1,14 @@
 ---
-published: "2023-10-25T05:08:33.557Z"
+title: 황석희의 영화 같은 하루 145 Finish your lap
 aliases: []
+published: "2023-10-25T05:08:33.557Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 145 Finish your lap
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/10/26/HEKDXRUEL5APJKJTZ2S5GB5PQQ/"
 ---
 # 황석희의 영화 같은 하루 145 Finish Your Lap

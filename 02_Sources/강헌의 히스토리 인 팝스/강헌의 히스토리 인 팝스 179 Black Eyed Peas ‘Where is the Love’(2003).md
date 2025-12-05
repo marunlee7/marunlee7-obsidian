@@ -1,7 +1,14 @@
 ---
-published: "2023-09-17T04:54:59.119Z"
+title: 강헌의 히스토리 인 팝스 179 Black Eyed Peas ‘Where is the Love’(2003)
 aliases: []
+published: "2023-09-17T04:54:59.119Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 179 Black Eyed Peas ‘Where is the Love’(2003)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/09/18/CT52MDIMFZGH7LPT5OAHP322NM/"
 ---
 # 강헌의 히스토리 인 팝스 179 Black Eyed Peas ‘Where is the Love’(2003)

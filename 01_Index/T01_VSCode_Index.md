@@ -9,10 +9,11 @@ process: raw
 source_name: vs code 최적화 + 확장 프로그램 활용법(Markdown/개발 효율 극대화)
 source_author: self
 source_type: ""
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: []
-tags:
-  - 출처/내부_활동/앱_학습
-  - 개념/vscode
+tags: [출처/내부_활동/앱_학습, 개념/vscode]
 ---
 # 📚 T01_VSCode_Index (Master Index)
 

@@ -1,7 +1,14 @@
 ---
-published: "2005-06-07"
+title: 이규태 코너 Na이즘
 aliases: []
+published: "2005-06-07"
+status: planned
+priority: medium
+process: raw
 source_name: 이규태 코너 Na이즘
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2005/06/07/2005060770281.html"
 ---
 # 이규태 코너 Na이즘

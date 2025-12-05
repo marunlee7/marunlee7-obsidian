@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 17_메이크 타임_구글 천재들의 혁신적 시간 관리법
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - http://youtube.com/watch?v=Qyk5MI8OInM&feature=youtu.be
 tags: [출처/외부_정보/아티클_웹]

@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Dashboards vs Workspaces Excalidraw (FREE)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Dashboards vs Workspaces Excalidraw (FREE)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/7c3780b1ca
 ---
 # Obsidian Dashboards Vs Workspaces Excalidraw (FREE)

@@ -1,6 +1,13 @@
 ---
+title: One summer night
+status: planned
+priority: medium
+process: raw
 source_name: One summer night
 source_author: "[[陳秋霞]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # One Summer Night

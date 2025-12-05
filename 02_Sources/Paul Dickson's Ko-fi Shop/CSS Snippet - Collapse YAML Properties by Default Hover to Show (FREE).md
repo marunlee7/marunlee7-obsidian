@@ -1,8 +1,15 @@
 ---
-published:
+title: CSS Snippet - Collapse YAML Properties by Default Hover to Show (FREE)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: CSS Snippet - Collapse YAML Properties by Default Hover to Show (FREE)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/540202a7df
 ---
 # CSS Snippet - Collapse YAML Properties by Default Hover to Show (FREE)

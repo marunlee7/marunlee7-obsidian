@@ -1,7 +1,14 @@
 ---
-published: "2022-01-14T05:19:07.968Z"
+title: 황석희의 영화 같은 하루 053 Everyone has their own truth
 aliases: []
+published: "2022-01-14T05:19:07.968Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 053 Everyone has their own truth
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/01/15/HLLDI67MGVFXPKNGB4RS7W3KKI/"
 ---
 # 황석희의 영화 같은 하루 053 Everyone Has Their Own Truth

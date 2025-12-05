@@ -1,7 +1,14 @@
 ---
-published: "2023-12-20T05:06:26.053Z"
+title: 황석희의 영화 같은 하루 153 You took advantage of the only thing that they still possessed
 aliases: []
+published: "2023-12-20T05:06:26.053Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 153 You took advantage of the only thing that they still possessed
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/12/21/QRBUGR6HVBGCFI7S3Y25RDCSCE/"
 ---
 # 황석희의 영화 같은 하루 153 You Took Advantage of the only Thing that They Still Possessed

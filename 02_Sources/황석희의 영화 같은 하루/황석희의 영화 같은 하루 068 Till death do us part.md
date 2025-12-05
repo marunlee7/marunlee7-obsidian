@@ -1,7 +1,14 @@
 ---
-published: "2022-04-29T05:39:10.640Z"
+title: 황석희의 영화 같은 하루 068 Till death do us part
 aliases: []
+published: "2022-04-29T05:39:10.640Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 068 Till death do us part
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/04/30/43WYCCYL6RFV3GQUOPYKD7XNCU/"
 ---
 # 황석희의 영화 같은 하루 068 Till Death Do Us part

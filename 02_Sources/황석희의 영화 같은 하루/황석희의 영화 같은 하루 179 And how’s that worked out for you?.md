@@ -1,7 +1,14 @@
 ---
-published: "2024-08-07T06:17:32.922Z"
+title: 황석희의 영화 같은 하루 179 And how’s that worked out for you?
 aliases: []
+published: "2024-08-07T06:17:32.922Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 179 And how’s that worked out for you?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/08/07/TUHKAO7LNZGCNDIHJQFFOPZUTY/"
 ---
 # 황석희의 영화 같은 하루 179 And how’s that Worked out for You?

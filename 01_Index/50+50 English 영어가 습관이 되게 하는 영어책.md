@@ -5,12 +5,15 @@ title: 50+50 English 영어가 습관이 되게 하는 영어책
 published: 2025-10-19 06:17
 level: T02
 file_role: article_atom
-status: planned # 최종 확정: planned. Task 관리 기본값.
+status: planned
 priority: medium
-process: "" # T01은 process 필드 사용 안 함 (빈 값 유지)
+process: raw
 source_name: 50+50 English 영어가 습관이 되게 하는 영어책
 source_author: 샘 박
 source_type: "book"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2553595
 tags: [출처/외부_정보/도서_단행본]

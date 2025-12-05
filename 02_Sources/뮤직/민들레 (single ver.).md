@@ -1,6 +1,13 @@
 ---
+title: 민들레 (single ver.)
+status: planned
+priority: medium
+process: raw
 source_name: 민들레 (single ver.)
 source_author: "[[우효(Oohyo)]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # 민들레 (single ver.)

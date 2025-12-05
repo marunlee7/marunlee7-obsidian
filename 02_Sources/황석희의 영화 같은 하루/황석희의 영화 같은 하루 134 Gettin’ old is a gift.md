@@ -1,7 +1,14 @@
 ---
-published: "2023-08-11T05:35:00.733Z"
+title: 황석희의 영화 같은 하루 134 Gettin’ old is a gift
 aliases: []
+published: "2023-08-11T05:35:00.733Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 134 Gettin’ old is a gift
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/08/12/24DDGCWW5ZCGVJRYJTK6FS3SOY/"
 ---
 # 황석희의 영화 같은 하루 134 Gettin’ Old is a Gift

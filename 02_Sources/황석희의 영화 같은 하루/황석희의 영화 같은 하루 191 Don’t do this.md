@@ -1,7 +1,14 @@
 ---
-published: "2025-01-22T04:52:28.533Z"
+title: 황석희의 영화 같은 하루 191 Don’t do this
 aliases: []
+published: "2025-01-22T04:52:28.533Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 191 Don’t do this
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2025/01/22/VIBEDHQULRHCPH34TPIGLDT3YQ/"
 ---
 # 황석희의 영화 같은 하루 191 Don’t Do This

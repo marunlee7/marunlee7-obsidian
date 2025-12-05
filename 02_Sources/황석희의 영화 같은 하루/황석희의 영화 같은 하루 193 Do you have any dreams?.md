@@ -1,7 +1,14 @@
 ---
-published: "2025-02-26T06:01:19.985Z"
+title: 황석희의 영화 같은 하루 193 Do you have any dreams?
 aliases: []
+published: "2025-02-26T06:01:19.985Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 193 Do you have any dreams?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2025/02/26/BC2ZVPNLIBGGPDMVPN5K4KCDVI/"
 ---
 # 황석희의 영화 같은 하루 193 Do You Have Any Dreams?

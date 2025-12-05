@@ -1,7 +1,14 @@
 ---
-published: "2021-12-10T04:56:44.909Z"
+title: 황석희의 영화 같은 하루 048 Don’t cast your eyes, down the abyss
 aliases: []
+published: "2021-12-10T04:56:44.909Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 048 Don’t cast your eyes, down the abyss
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/12/11/TXKBPMQGDVCKBEDTCWLI4OZNJY/"
 ---
 # 황석희의 영화 같은 하루 048 Don’t Cast Your Eyes, down the Abyss

@@ -1,7 +1,14 @@
 ---
-published: "2023-02-23T06:34:10.901Z"
+title: 이동규의 두줄칼럼 078 서비스(Service)
 aliases: []
+published: "2023-02-23T06:34:10.901Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 078 서비스(Service)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/02/24/PBPAVNXBY5CY3KQRSJ6O6UHU3A/"
 ---
 # 이동규의 두줄칼럼 078 서비스(Service)

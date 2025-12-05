@@ -1,7 +1,7 @@
 ---
-published: 2025-01-06
 title: 지피터스를 운영하며 깨달은 안전한 스타트업 공식  10x Lessons
 aliases: []
+published: 2025-01-06
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 지피터스를 운영하며 깨달은 안전한 스타트업 공식  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2025/01/new-startup-formula-for-lowering-risk/"
 tags: [출처/외부_정보/아티클_웹]
 ---

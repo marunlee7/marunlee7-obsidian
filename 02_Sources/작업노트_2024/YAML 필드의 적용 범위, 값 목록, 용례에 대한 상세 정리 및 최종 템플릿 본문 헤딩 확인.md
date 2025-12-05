@@ -3,14 +3,14 @@ title: YAML 필드의 적용 범위, 값 목록, 용례에 대한 상세 정리 
 level: T02
 file_role: article_atom
 parent: 작업노트_2024
-status: completed
+status: planned
 priority: medium
-process: final
+process: raw
 source_name: 
 source_author: self
 source_type: worknote
 action_required: link_to_t04
-difficulty: good
+difficulty:	good
 satisfaction: 3
 references: "[[T03 템플릿의 YAML 필드 변화 및 태그 구조 개선 확인]]"
 tags: [출처/내부_활동/아이디어]

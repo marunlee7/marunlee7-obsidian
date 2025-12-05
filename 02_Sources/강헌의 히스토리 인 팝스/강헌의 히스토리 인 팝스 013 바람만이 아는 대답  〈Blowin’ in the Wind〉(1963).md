@@ -1,7 +1,14 @@
 ---
-published: "2020-07-12T11:01:21.720Z"
+title: 강헌의 히스토리 인 팝스 013 바람만이 아는 대답  〈Blowin’ in the Wind〉(1963)
 aliases: []
+published: "2020-07-12T11:01:21.720Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 013 바람만이 아는 대답  〈Blowin’ in the Wind〉(1963)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2020/05/31/2020053102209.html"
 ---
 # 강헌의 히스토리 인 팝스 013 바람만이 아는 대답 〈Blowin’ in the Wind〉(1963)

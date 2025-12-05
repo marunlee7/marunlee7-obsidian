@@ -1,3 +1,6 @@
+---
+title: 00_HOME
+---
 # ✨ Welcome to The T-System Vault!
 
 > [!abstract] 🔑 Vault Quick Access (Vault 주요 접근 경로)

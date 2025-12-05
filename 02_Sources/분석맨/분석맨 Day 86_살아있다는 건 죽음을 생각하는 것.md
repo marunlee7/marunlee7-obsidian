@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 86_살아있다는 건 죽음을 생각하는 것
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 tags: [출처/외부_정보/아티클_웹]
 ---

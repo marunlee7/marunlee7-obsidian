@@ -1,7 +1,14 @@
 ---
-published: "2024-09-04T05:47:15.730Z"
+title: 황석희의 영화 같은 하루 181 I should be in that hole
 aliases: []
+published: "2024-09-04T05:47:15.730Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 181 I should be in that hole
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/09/04/OWWNHEDMAVEVLGEWEQANBYRMCE/"
 ---
 # 황석희의 영화 같은 하루 181 I Should Be in that Hole

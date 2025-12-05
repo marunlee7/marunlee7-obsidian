@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: Casablanca,카사블랑카,  Ennah, 엔나, 당신의 숨결을 느낄 수 없는  키스는 키스가 아니에요, 팝소
+aliases: []
 level: T02
 file_role: article_atom
 parent: "북마크"
@@ -11,6 +11,9 @@ process: raw
 source_name: Casablanca,카사블랑카,  Ennah, 엔나, 당신의 숨결을 느낄 수 없는  키스는 키스가 아니에요, 팝소
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.youtube.com/watch?v=-NL-2ZyDo8U&list=PLl4Eh0mDEi-te7dsAF4Mo9IFCP-76cbax&index=3"
 tags: [출처/외부_수집/북마크]
 ---

@@ -1,7 +1,14 @@
 ---
-published: "2022-07-21T06:03:20.723Z"
+title: 이동규의 두줄칼럼 047 C-Korea
 aliases: []
+published: "2022-07-21T06:03:20.723Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 047 C-Korea
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/07/22/AY7ODKHG2FA4FLY2II4OQQWFSA/"
 ---
 # 이동규의 두줄칼럼 047 C-Korea

@@ -1,7 +1,14 @@
 ---
-published: "2024-11-27T07:13:14.837Z"
+title: 황석희의 영화 같은 하루 187 I need you to keep the home fires warm
 aliases: []
+published: "2024-11-27T07:13:14.837Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 187 I need you to keep the home fires warm
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/11/27/2ALP2P3SQZHD3LVJFOGSMNDNCE/"
 ---
 # 황석희의 영화 같은 하루 187 I Need You to Keep the home Fires Warm

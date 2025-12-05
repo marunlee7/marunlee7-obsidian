@@ -1,6 +1,13 @@
 ---
+title: A Good Day
+status: planned
+priority: medium
+process: raw
 source_name: A Good Day
 source_author: "[[우효(Oohyo)]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # A Good Day

@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: 제미나이 노트 샘플- 애플 (Apple Inc.)
+aliases: []
 level: T02
 file_role: article_atom
 parent: 노트 템플릿
@@ -11,10 +11,11 @@ process: raw
 source_name: 애플 (Apple Inc.)
 source_author: self
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://gemini.google.com/share/3aac7100f036
-tags:
-  - 영역/지식관리
-  - 출처/외부_정보/아티클_웹
+tags: [출처/외부_정보/아티클_웹, 영역/지식관리]
 ---
 # 제미나이 노트 샘플- 애플 (Apple Inc.)
 

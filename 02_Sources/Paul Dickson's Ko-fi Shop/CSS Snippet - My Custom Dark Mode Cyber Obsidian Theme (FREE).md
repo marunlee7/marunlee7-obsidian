@@ -1,8 +1,15 @@
 ---
-published:
+title: CSS Snippet - My Custom Dark Mode Cyber Obsidian Theme (FREE)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: CSS Snippet - My Custom Dark Mode Cyber Obsidian Theme (FREE)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/412942db59
 ---
 # CSS Snippet - My Custom Dark Mode Cyber Obsidian Theme (FREE)

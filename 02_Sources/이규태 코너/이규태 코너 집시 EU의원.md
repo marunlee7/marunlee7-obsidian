@@ -1,7 +1,14 @@
 ---
-published: "2004-06-20"
+title: 이규태 코너 집시 EU의원
 aliases: []
+published: "2004-06-20"
+status: planned
+priority: medium
+process: raw
 source_name: 이규태 코너 집시 EU의원
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2004/06/20/2004062070248.html"
 ---
 # 이규태 코너 집시 EU의원

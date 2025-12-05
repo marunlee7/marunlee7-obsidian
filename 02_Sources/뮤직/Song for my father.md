@@ -1,6 +1,13 @@
 ---
+title: Song for my father
+status: planned
+priority: medium
+process: raw
 source_name: Song for my father
 source_author: 호레이스 실버
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # Song for My Father

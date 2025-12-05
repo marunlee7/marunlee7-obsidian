@@ -1,7 +1,14 @@
 ---
-published: 2020-08-19T08:26:47.626Z
+title: 조용헌 살롱 유교와 규범(discipline)
 aliases: []
+published: 2020-08-19T08:26:47.626Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 유교와 규범(discipline)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2005/03/14/2005031470356.html
 links: 
 ---

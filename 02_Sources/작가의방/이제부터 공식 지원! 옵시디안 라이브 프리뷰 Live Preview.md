@@ -1,6 +1,13 @@
 ---
+title: 이제부터 공식 지원! 옵시디안 라이브 프리뷰 Live Preview
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 이제부터 공식 지원! 옵시디안 라이브 프리뷰 Live Preview
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/watch?v=im5gDksGfl8&list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC&index=2
 links: 

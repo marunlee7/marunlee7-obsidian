@@ -1,6 +1,13 @@
 ---
+title: 몰라서 못 썼지 알면 꼭 쓰는! 옵시디안 알리아스 alias
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 몰라서 못 썼지 알면 꼭 쓰는! 옵시디안 알리아스 alias
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=lyt6KAxYLik&list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC&index=6
 links: 
 ---

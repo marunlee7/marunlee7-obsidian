@@ -1,7 +1,14 @@
 ---
-published: "2004-04-07"
+title: 이규태 코너 복숭아형 CEO
 aliases: []
+published: "2004-04-07"
+status: planned
+priority: medium
+process: raw
 source_name: 이규태 코너 복숭아형 CEO
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2004/04/07/2004040770373.html"
 ---
 # 이규태 코너 복숭아형 CEO

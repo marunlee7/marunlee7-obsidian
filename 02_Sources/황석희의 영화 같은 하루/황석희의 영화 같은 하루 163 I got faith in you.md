@@ -1,7 +1,14 @@
 ---
-published: "2024-02-28T01:53:09.833Z"
+title: 황석희의 영화 같은 하루 163 I got faith in you
 aliases: []
+published: "2024-02-28T01:53:09.833Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 163 I got faith in you
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/02/29/AV7IZZPGKNBOZMNXS4HWWDUCFY/"
 ---
 # 황석희의 영화 같은 하루 163 I Got Faith in You

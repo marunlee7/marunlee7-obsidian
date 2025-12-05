@@ -1,5 +1,12 @@
 ---
+title: 스포티파이 Spotify
+status: planned
+priority: medium
+process: raw
 source_name: 스포티파이 Spotify
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 스포티파이 Spotify
 

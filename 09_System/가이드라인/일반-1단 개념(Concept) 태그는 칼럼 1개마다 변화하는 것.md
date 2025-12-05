@@ -3,11 +3,15 @@ title: 일반-1단 개념(Concept) 태그는 칼럼 1개마다 변화하는 것
 level: T09
 file_role: system_config
 parent: "[[09_System/가이드라인/09_T-System_Master_Manual]]"
+status: planned
+priority: medium
+process: raw
 source_name:
 source_author: system / user
-tags:
-  - 영역/시스템/지식관리_규칙
-  - 출처/인덱스_구조/시스템_문서
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: [출처/인덱스_구조/시스템_문서, 영역/시스템/지식관리_규칙]
 ---
 # 일반-1단 개념(Concept) 태그는 칼럼 1개마다 변화하는 것
 

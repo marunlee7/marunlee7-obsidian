@@ -1,6 +1,13 @@
 ---
+title: 옵시디안으로 유튜브 보면서 공부한다! Media Extended
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디안으로 유튜브 보면서 공부한다! Media Extended
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=4JaRoKofYwo&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=7
 links: 
 ---

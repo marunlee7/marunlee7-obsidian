@@ -6,12 +6,15 @@ title: 분석맨 old
 published: 2024-01-18
 level: T02
 file_role: article_atom
-status: planned # 최종 확정: planned. Task 관리 기본값.
+status: planned
 priority: medium
-process: "" # T01은 process 필드 사용 안 함 (빈 값 유지)
+process: raw
 source_name: 분석맨
 source_author: "[[분석맨 old]]"
 source_type: "book"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://secondbrain.analysisman.com/start
   - https://secondbrain.analysisman.com/moc-dailynote

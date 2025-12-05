@@ -1,14 +1,17 @@
 ---
-title: File name Format을 파일명-날짜 하는 경우 2025-11-22
+title: "File name Format을 파일명-날짜 하는 경우 2025-11-22 "
 level: T04
 file_role: personal_analysis
 parent: 매크로 자동화를 통한 생산성 증가, QuickAdd 플러그인
 status: planned
-priority: high
+priority: medium
 process: raw
 source_name: "File name Format을 파일명-날짜 하는 경우 2025-11-22 "
-source_type: reflection
 source_author: self
+source_type: reflection
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: ""
 tags: [""]
 ---

@@ -1,7 +1,14 @@
 ---
-published: "2022-01-07T04:55:38.809Z"
+title: 황석희의 영화 같은 하루 052 the liver, the lungs, the spleen, and the heart
 aliases: []
+published: "2022-01-07T04:55:38.809Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 052 the liver, the lungs, the spleen, and the heart
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/01/08/ULFZ7Q44QBHHXI3HNTQLETC3PI/"
 ---
 # 황석희의 영화 같은 하루 052 the Liver, the Lungs, the Spleen, and the Heart

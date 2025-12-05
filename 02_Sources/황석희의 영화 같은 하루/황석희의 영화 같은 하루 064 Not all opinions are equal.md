@@ -1,7 +1,14 @@
 ---
-published: "2022-04-01T06:13:32.765Z"
+title: 황석희의 영화 같은 하루 064 Not all opinions are equal
 aliases: []
+published: "2022-04-01T06:13:32.765Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 064 Not all opinions are equal
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/04/02/HWCDB465NZAN7NOF4AU4XVMOQU/"
 ---
 # 황석희의 영화 같은 하루 064 Not All Opinions Are Equal

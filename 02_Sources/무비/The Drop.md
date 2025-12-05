@@ -2,7 +2,14 @@
 년도:
 배우:
 감독:
+title: The Drop
+status: planned
+priority: medium
+process: raw
 source_name: The Drop
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 학대 당하고 쓰레기통에 버려진 개를 구해준 착한 남자를 건드리면 벌어지는 일
 

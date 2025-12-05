@@ -1,6 +1,13 @@
 ---
+title: 없었으면 아쉬울 뻔! 옵시디안 태그 관리 필수 툴 Tag Wrangler
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 없었으면 아쉬울 뻔! 옵시디안 태그 관리 필수 툴 Tag Wrangler
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=dMC1JwcgCds&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=27
 links: 
 ---

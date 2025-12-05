@@ -1,7 +1,14 @@
 ---
-published: "2023-01-06T06:24:40.035Z"
+title: 황석희의 영화 같은 하루 103 If you always take it on the chin and wear it
 aliases: []
+published: "2023-01-06T06:24:40.035Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 103 If you always take it on the chin and wear it
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/01/07/4OP2PTIYIBEJFD5LTVU5ZJTBP4/"
 ---
 # 황석희의 영화 같은 하루 103 If You Always Take it on the Chin and Wear it

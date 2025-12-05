@@ -1,7 +1,14 @@
 ---
-published: "2022-11-25T05:38:41.316Z"
+title: 황석희의 영화 같은 하루 097 One man can stop the motor of the world
 aliases: []
+published: "2022-11-25T05:38:41.316Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 097 One man can stop the motor of the world
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/11/26/ZB3SUWYZ7FCMVIPBBRE3PABWD4/"
 ---
 # 황석희의 영화 같은 하루 097 One Man Can Stop the Motor of the World

@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Starter Vault PRO
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Starter Vault PRO
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/c8e544e005
 ---
 # Obsidian Starter Vault PRO
@@ -112,7 +119,7 @@ Effective Note Taking and Note Making Strategies
 Connecting your Knowledge:
 
 Linking your Notes
-Understanding backlinks and how they work
+Understanding backreferences and how they work
 Organising for Easy Access:
 
 Tags and Search

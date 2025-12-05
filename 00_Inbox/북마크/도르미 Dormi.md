@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: 도르미 Dormi
+aliases: []
 published:
 level: T02
 file_role: article_atom
@@ -12,6 +12,9 @@ process: raw
 source_name: 도르미 Dormi
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/@dormi0927/playlists
 tags: [출처/외부_수집/북마크]
 ---

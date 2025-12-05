@@ -1,6 +1,13 @@
 ---
+title: 옵시디안 메모를 마인드맵으로 정리하자! Enhancing Mindmap
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디안 메모를 마인드맵으로 정리하자! Enhancing Mindmap
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=wn7PxYVIM-0&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=23
 links: 
 ---

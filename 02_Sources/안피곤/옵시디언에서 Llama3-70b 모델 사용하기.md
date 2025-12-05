@@ -1,7 +1,14 @@
 ---
-published: 2024-04-27T23:32:39+09:00
+title: 옵시디언에서 Llama3-70b 모델 사용하기
 aliases: []
+published: 2024-04-27T23:32:39+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언에서 Llama3-70b 모델 사용하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/462
 ---
 # 옵시디언에서 Llama3-70b 모델 사용하기

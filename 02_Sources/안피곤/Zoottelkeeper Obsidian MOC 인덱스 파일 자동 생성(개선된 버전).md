@@ -1,7 +1,14 @@
 ---
-published: 2024-02-09T09:23:59+09:00
+title: Zoottelkeeper Obsidian MOC 인덱스 파일 자동 생성(개선된 버전)
 aliases: []
+published: 2024-02-09T09:23:59+09:00
+status: planned
+priority: medium
+process: raw
 source_name: Zoottelkeeper Obsidian MOC 인덱스 파일 자동 생성(개선된 버전)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/456
 ---
 # Zoottelkeeper Obsidian MOC 인덱스 파일 자동 생성(개선된 버전)

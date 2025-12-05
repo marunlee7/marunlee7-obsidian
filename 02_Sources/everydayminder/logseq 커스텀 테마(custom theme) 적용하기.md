@@ -1,5 +1,12 @@
 ---
+title: logseq 커스텀 테마(custom theme) 적용하기
+status: planned
+priority: medium
+process: raw
 source_name: logseq 커스텀 테마(custom theme) 적용하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 [%article%](http://luran.me/431)
 

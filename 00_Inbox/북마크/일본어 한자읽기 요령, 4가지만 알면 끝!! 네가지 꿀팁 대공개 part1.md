@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: 일본어 한자읽기 요령, 4가지만 알면 끝!! 네가지 꿀팁 대공개 part1
+aliases: []
 level: T02
 file_role: article_atom
 parent: "북마크"
@@ -11,6 +11,9 @@ process: raw
 source_name: 일본어 한자읽기 요령, 4가지만 알면 끝!! 네가지 꿀팁 대공개 part1
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=5tUP-0rEHJY
 tags: [출처/외부_수집/북마크]
 ---

@@ -1,7 +1,14 @@
 ---
-published: "2024-02-07T07:02:07.332Z"
+title: 황석희의 영화 같은 하루 160 life’s just a game, right?
 aliases: []
+published: "2024-02-07T07:02:07.332Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 160 life’s just a game, right?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/02/08/WVDWIEFHMJDRDILYFT35SCPNRY/"
 ---
 # 황석희의 영화 같은 하루 160 life’s just a Game, Right?

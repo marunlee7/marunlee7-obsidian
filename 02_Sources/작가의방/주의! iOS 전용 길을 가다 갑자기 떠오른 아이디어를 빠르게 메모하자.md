@@ -1,6 +1,13 @@
 ---
+title: 주의! iOS 전용 길을 가다 갑자기 떠오른 아이디어를 빠르게 메모하자
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 주의! iOS 전용 길을 가다 갑자기 떠오른 아이디어를 빠르게 메모하자
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/watch?v=LoRAdOUY_XI&list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC&index=24
 links: 

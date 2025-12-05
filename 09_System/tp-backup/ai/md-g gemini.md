@@ -1,3 +1,13 @@
+---
+title: md-g gemini
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Md-g Gemini
 <%*const GEMINI_API_KEY="AIzaSyCswFj_TWjGVlvgPHNWbGQzdzAKtdgwKq4"%>
  
 <%*

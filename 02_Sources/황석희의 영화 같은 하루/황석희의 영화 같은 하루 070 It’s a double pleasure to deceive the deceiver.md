@@ -1,7 +1,14 @@
 ---
-published: "2022-05-13T04:58:58.050Z"
+title: 황석희의 영화 같은 하루 070 It’s a double pleasure to deceive the deceiver
 aliases: []
+published: "2022-05-13T04:58:58.050Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 070 It’s a double pleasure to deceive the deceiver
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/05/14/BZD5ESWLW5ALBMCHX5MOQL54PU/"
 ---
 # 황석희의 영화 같은 하루 070 It’s a Double Pleasure to Deceive the Deceiver

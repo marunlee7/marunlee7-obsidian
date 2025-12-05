@@ -1,7 +1,14 @@
 ---
-published: "2024-07-10T05:40:42.238Z"
+title: 황석희의 영화 같은 하루 177 We give our life
 aliases: []
+published: "2024-07-10T05:40:42.238Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 177 We give our life
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/07/10/HDF67PNQJVCINCAM6AU5ERT3QM/"
 ---
 # 황석희의 영화 같은 하루 177 We Give Our Life

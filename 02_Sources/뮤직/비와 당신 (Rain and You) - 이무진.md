@@ -1,6 +1,13 @@
 ---
+title: 비와 당신 (Rain and You) - 이무진
+status: planned
+priority: medium
+process: raw
 source_name: 비와 당신 (Rain and You) - 이무진
 source_author: "[[이무진]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=sCmcSBsTxQc&list=RDm3DZsBw5bnE&index=3
 ---
 # 비와 당신 (Rain and You) - 이무진

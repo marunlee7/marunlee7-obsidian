@@ -1,17 +1,22 @@
 ---
+title: tp2 hword2 anki 1
 aliases:
   - (T03 노트 생성 최종 완결 태그 마스터 목록)
-references: 한자암기박사
-source_name: 한자어휘사전
-source_author: self
 level: T03_Dictionary
 file_role: dictionary
-source_type: dictionary_entry
 parent:
 word_type: 한자어휘
-tags:
-process: raw
+status: planned
 priority: medium
+process: raw
+source_name: 한자어휘사전
+source_author: self
+source_type: dictionary_entry
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+references: 한자암기박사
+tags: []
 ---
 # (T03 노트 생성 최종 완결 태그 마스터 목록)
 

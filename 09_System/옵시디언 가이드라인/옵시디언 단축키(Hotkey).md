@@ -8,6 +8,9 @@ priority: medium
 process: raw
 source_name: 옵시디언 단축키(Hotkey)
 source_author: self
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # 옵시디언 단축키(Hotkey)

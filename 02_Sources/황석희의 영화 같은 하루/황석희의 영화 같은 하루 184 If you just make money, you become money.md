@@ -1,7 +1,14 @@
 ---
-published: "2024-10-16T04:47:25.326Z"
+title: 황석희의 영화 같은 하루 184 If you just make money, you become money
 aliases: []
+published: "2024-10-16T04:47:25.326Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 184 If you just make money, you become money
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/10/16/IYVTUT2S2FDCRMALOJYNJR5GMQ/"
 ---
 # 황석희의 영화 같은 하루 184 If You just Make Money, You Become Money

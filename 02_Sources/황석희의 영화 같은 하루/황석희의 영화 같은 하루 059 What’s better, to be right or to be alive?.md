@@ -1,7 +1,14 @@
 ---
-published: "2022-02-25T05:30:12.106Z"
+title: 황석희의 영화 같은 하루 059 What’s better, to be right or to be alive?
 aliases: []
+published: "2022-02-25T05:30:12.106Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 059 What’s better, to be right or to be alive?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/02/26/L2BEBOSKWJDQPGSYBMWMCLJYJQ/"
 ---
 # 황석희의 영화 같은 하루 059 What’s Better, to Be Right or to Be Alive?

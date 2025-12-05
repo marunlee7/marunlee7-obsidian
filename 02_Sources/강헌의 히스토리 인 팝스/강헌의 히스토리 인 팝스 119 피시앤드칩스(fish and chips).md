@@ -1,7 +1,14 @@
 ---
-published: "2022-07-03T06:37:34.155Z"
+title: 강헌의 히스토리 인 팝스 119 피시앤드칩스(fish and chips)
 aliases: []
+published: "2022-07-03T06:37:34.155Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 119 피시앤드칩스(fish and chips)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/07/04/GRV7RKDXNND6NMXKSG6G6PSPHE/"
 ---
 # 강헌의 히스토리 인 팝스 119 피시앤드칩스(fish and chips)

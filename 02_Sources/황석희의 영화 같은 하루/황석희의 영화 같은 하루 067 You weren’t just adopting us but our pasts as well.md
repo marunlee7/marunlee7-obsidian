@@ -1,7 +1,14 @@
 ---
-published: "2022-04-22T04:15:17.766Z"
+title: 황석희의 영화 같은 하루 067 You weren’t just adopting us but our pasts as well
 aliases: []
+published: "2022-04-22T04:15:17.766Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 067 You weren’t just adopting us but our pasts as well
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/04/23/P2IB64RZGFHQBBRDD5UCJ4QDTA/"
 ---
 # 황석희의 영화 같은 하루 067 You weren’t just Adopting Us but Our Pasts as well

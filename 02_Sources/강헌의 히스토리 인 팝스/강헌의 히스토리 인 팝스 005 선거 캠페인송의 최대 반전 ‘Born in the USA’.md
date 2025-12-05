@@ -1,7 +1,14 @@
 ---
-published: "2020-07-15T01:31:03.286Z"
+title: 강헌의 히스토리 인 팝스 005 선거 캠페인송의 최대 반전 ‘Born in the USA’
 aliases: []
+published: "2020-07-15T01:31:03.286Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 005 선거 캠페인송의 최대 반전 ‘Born in the USA’
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/site/data/html_dir/2020/04/05/2020040501381.html"
 ---
 # 강헌의 히스토리 인 팝스 005 선거 캠페인송의 최대 반전 ‘Born in the USA’

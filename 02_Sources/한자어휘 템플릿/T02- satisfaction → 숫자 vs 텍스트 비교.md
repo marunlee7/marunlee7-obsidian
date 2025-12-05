@@ -1,24 +1,23 @@
 ---
-title: satisfaction → 숫자 vs 텍스트 비교
+title: T02- satisfaction → 숫자 vs 텍스트 비교
 published: 2025-12-03
 level: T02
 file_role: article_atom
 parent: 한자어휘 템플릿
-status: completed
-priority: low
-process: draft
+status: planned
+priority: medium
+process: raw
 source_name: satisfaction → 숫자 vs 텍스트 비교
 source_author: self
 source_type: worknote
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - ""
-tags:
-  - 출처/외부_수집/템플릿
-  - 출처/내부_활동/아이디어
-  - 개념/옵시디언/템플릿
-  - 영역/옵시디언
+tags: [출처/외부_수집/템플릿, 출처/내부_활동/아이디어, 영역/옵시디언, 개념/옵시디언/템플릿]
 ---
-# 📖 T02- satisfaction → 숫자 vs 텍스트 비교
+# 📖 T02- Satisfaction → 숫자 Vs 텍스트 비교
 
 
 사용자님께서 **만족도(`satisfaction`)** 필드에 대해 이전에 숫자로 변경하셨던 경험을 되짚어 보신 것은 매우 현명합니다.

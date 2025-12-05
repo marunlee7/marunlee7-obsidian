@@ -1,7 +1,14 @@
 ---
-published: "2022-06-03T05:15:54.293Z"
+title: 황석희의 영화 같은 하루 073 I could do this forever
 aliases: []
+published: "2022-06-03T05:15:54.293Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 073 I could do this forever
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/06/04/6V4HGBG4O5GJFCCJMFKANNYBUI/"
 ---
 # 황석희의 영화 같은 하루 073 I Could Do This Forever

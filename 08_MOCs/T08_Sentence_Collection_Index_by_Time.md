@@ -1,14 +1,18 @@
 ---
-title: "T08_문장수집_시간순_인덱스"
+title: T08_Sentence_Collection_Index_by_Time
 level: T08 # ✅ T08 레벨 확정
 file_role: system_index # 시스템 관리 인덱스 역할
 
 parent: ""
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: []
 
-tags:
- - 출처/인덱스_구조/시스템_문서
- - 영역/시스템/T05_추적
+tags: [출처/인덱스_구조/시스템_문서, 영역/시스템/T05_추적]
 ---
 # 💬 T08. 문장 수집 시간순 인덱스
 

@@ -1,7 +1,14 @@
 ---
-published: "2022-07-08T04:44:09.782Z"
+title: 황석희의 영화 같은 하루 078 To balance things out, understand?
 aliases: []
+published: "2022-07-08T04:44:09.782Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 078 To balance things out, understand?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/07/09/XSE2LW7VX5BSNBVV7HKDG74L2E/"
 ---
 # 황석희의 영화 같은 하루 078 To Balance Things Out, Understand?

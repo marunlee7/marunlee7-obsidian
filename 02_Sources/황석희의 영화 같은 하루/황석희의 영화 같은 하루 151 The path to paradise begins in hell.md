@@ -1,7 +1,14 @@
 ---
-published: "2023-12-06T03:51:03.083Z"
+title: 황석희의 영화 같은 하루 151 The path to paradise begins in hell
 aliases: []
+published: "2023-12-06T03:51:03.083Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 151 The path to paradise begins in hell
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/12/07/IEJ56T6CYBENJLQCMWOQLB2OEA/"
 ---
 # 황석희의 영화 같은 하루 151 The Path to Paradise Begins in Hell

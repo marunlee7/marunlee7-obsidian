@@ -1,7 +1,14 @@
 ---
-published: "2024-01-03T06:09:23.797Z"
+title: 황석희의 영화 같은 하루 155 Stick to your plan. Anticipate. Don’t improvise
 aliases: []
+published: "2024-01-03T06:09:23.797Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 155 Stick to your plan. Anticipate. Don’t improvise
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/01/04/BB7SQ2CBN5CHVKQUOPFYYQTTEY/"
 ---
 # 황석희의 영화 같은 하루 155 Stick to Your Plan. Anticipate. Don’t Improvise

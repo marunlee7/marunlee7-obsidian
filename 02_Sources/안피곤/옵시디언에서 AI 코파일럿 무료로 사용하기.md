@@ -1,7 +1,14 @@
 ---
-published: 2024-02-06T23:00:51+09:00
+title: 옵시디언에서 AI 코파일럿 무료로 사용하기
 aliases: []
+published: 2024-02-06T23:00:51+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언에서 AI 코파일럿 무료로 사용하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/453
 ---
 # 옵시디언에서 AI 코파일럿 무료로 사용하기

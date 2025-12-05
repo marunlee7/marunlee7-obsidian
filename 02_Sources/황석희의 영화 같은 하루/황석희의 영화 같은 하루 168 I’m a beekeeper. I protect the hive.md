@@ -1,7 +1,14 @@
 ---
-published: "2024-04-03T06:04:06.523Z"
+title: 황석희의 영화 같은 하루 168 I’m a beekeeper. I protect the hive
 aliases: []
+published: "2024-04-03T06:04:06.523Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 168 I’m a beekeeper. I protect the hive
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/04/04/EAZPZ7MSQFACXGTZN4VJAB6BWA/"
 ---
 # 황석희의 영화 같은 하루 168 I’m a Beekeeper. I Protect the Hive

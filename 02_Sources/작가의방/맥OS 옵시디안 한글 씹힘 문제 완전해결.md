@@ -1,6 +1,13 @@
 ---
+title: 맥OS 옵시디안 한글 씹힘 문제 완전해결
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 맥OS 옵시디안 한글 씹힘 문제 완전해결
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=SdAEydi1yy0&list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC&index=20
 links: 
 ---

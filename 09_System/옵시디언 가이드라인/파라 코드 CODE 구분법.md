@@ -8,6 +8,9 @@ priority: medium
 process: raw
 source_name: 파라 코드 CODE 구분법
 source_author: self
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # 파라 코드 CODE 구분법

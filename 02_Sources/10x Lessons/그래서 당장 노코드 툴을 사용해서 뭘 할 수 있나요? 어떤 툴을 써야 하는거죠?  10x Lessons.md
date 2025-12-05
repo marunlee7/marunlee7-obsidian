@@ -1,7 +1,7 @@
 ---
-published: 2020-06-15
 title: 그래서 당장 노코드 툴을 사용해서 뭘 할 수 있나요? 어떤 툴을 써야 하는거죠?  10x Lessons
 aliases: []
+published: 2020-06-15
 level: T02
 file_role: article_atom
 parent: 10x Lessons
@@ -12,9 +12,11 @@ process: raw
 source_name: 그래서 당장 노코드 툴을 사용해서 뭘 할 수 있나요? 어떤 툴을 써야 하는거죠?  10x Lessons
 source_author: 김태현
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://tkim.co/2020/06/nocode-use-case-and-limit/
-tags:
-  - 출처/외부_정보/아티클_웹
+tags: [출처/외부_정보/아티클_웹]
 ---
 # 그래서 당장 노코드 툴을 사용해서 뭘 할 수 있나요? 어떤 툴을 써야 하는거죠? 10x Lessons
 

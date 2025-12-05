@@ -1,12 +1,16 @@
 ---
-title: T09_T-System_Master_Manual
+title: 09_T-System_Master_Manual
 level: T09
 file_role: system_config
+status: planned
+priority: medium
+process: raw
 source_name: Gemini & User Final Standardization (2025-11-30)
 source_author: system / user
-tags:
-  - 영역/시스템/지식관리_규칙
-  - 출처/인덱스_구조/시스템_문서
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: [출처/인덱스_구조/시스템_문서, 영역/시스템/지식관리_규칙]
 ---
 # 📚 09_T-System_Master_Manual
 

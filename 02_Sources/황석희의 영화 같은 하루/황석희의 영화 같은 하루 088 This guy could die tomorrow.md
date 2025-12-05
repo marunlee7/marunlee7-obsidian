@@ -1,7 +1,14 @@
 ---
-published: "2022-09-23T06:09:53.170Z"
+title: 황석희의 영화 같은 하루 088 This guy could die tomorrow
 aliases: []
+published: "2022-09-23T06:09:53.170Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 088 This guy could die tomorrow
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/09/24/VXBGUHQAZVEMTG65QJD6MWTMME/"
 ---
 # 황석희의 영화 같은 하루 088 This Guy Could Die Tomorrow

@@ -1,7 +1,14 @@
 ---
-published: "2024-12-11T06:57:22.918Z"
+title: 황석희의 영화 같은 하루 188 Are you trying to save my soul?
 aliases: []
+published: "2024-12-11T06:57:22.918Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 188 Are you trying to save my soul?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/12/11/VFS6H3VOGFGEZBV5R2XE35DE3E/"
 ---
 # 황석희의 영화 같은 하루 188 Are You Trying to save My Soul?

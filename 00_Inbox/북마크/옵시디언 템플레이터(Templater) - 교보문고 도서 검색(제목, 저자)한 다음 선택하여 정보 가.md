@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: 옵시디언 템플레이터(Templater) - 교보문고 도서 검색(제목, 저자)한 다음 선택하여 정보 가
+aliases: []
 level: T02
 file_role: article_atom
 parent: "북마크"
@@ -11,6 +11,9 @@ process: raw
 source_name: 옵시디언 템플레이터(Templater) - 교보문고 도서 검색(제목, 저자)한 다음 선택하여 정보 가
 source_author: "self"
 source_type: "article"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://eoureo.tistory.com/entry/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-Templater-%EA%B5%90%EB%B3%B4%EB%AC%B8%EA%B3%A0-%EB%8F%84%EC%84%9C-%EA%B2%80%EC%83%89%ED%95%9C-%EB%8B%A4%EC%9D%8C-%EC%84%A0%ED%83%9D%ED%95%98%EC%97%AC-%EC%A0%95%EB%B3%B4-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0
 tags: [출처/외부_수집/북마크]
 ---

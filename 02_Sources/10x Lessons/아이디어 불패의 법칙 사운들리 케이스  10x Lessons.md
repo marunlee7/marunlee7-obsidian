@@ -1,7 +1,7 @@
 ---
-published: 2020-05-25
 title: 아이디어 불패의 법칙 사운들리 케이스  10x Lessons
 aliases: []
+published: 2020-05-25
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 아이디어 불패의 법칙 사운들리 케이스  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2020/05/%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4-%eb%b6%88%ed%8c%a8%ec%9d%98-%eb%b2%95%ec%b9%99-%ed%94%84%eb%a6%ac%ed%86%a0%ed%83%80%ec%9d%b4%ed%95%91/"
 tags: [출처/외부_정보/아티클_웹]
 ---

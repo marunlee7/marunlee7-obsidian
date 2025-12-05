@@ -1,7 +1,14 @@
 ---
-published: "2023-12-13T06:10:53.770Z"
+title: 황석희의 영화 같은 하루 152 Hi, sweetie
 aliases: []
+published: "2023-12-13T06:10:53.770Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 152 Hi, sweetie
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/12/14/N6ZYA5T4ZVGLTCD5TV36H3L7KE/"
 ---
 # 황석희의 영화 같은 하루 152 Hi, Sweetie

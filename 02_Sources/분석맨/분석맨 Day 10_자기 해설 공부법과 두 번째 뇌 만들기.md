@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 10_자기 해설 공부법과 두 번째 뇌 만들기
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+10_%EC%9E%90%EA%B8%B0+%ED%95%B4%EC%84%A4+%EA%B3%B5%EB%B6%80%EB%B2%95%EA%B3%BC+%EB%91%90+%EB%B2%88%EC%A7%B8+%EB%87%8C+%EB%A7%8C%EB%93%A4%EA%B8%B0
 tags: [출처/외부_정보/아티클_웹]

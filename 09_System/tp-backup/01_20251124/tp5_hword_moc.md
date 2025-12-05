@@ -1,14 +1,19 @@
 ---
-title: "<% tp.file.title %>"
+title: tp5_hword_moc
 level: "T5"
 file_role: "concept_moc"
 
 parent: ""
+status: planned
+priority: medium
+process: raw
 
 source_type: "moc"
-process: final
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
-# 🗺️ <% tp.file.title %> 
+# 🗺️ <% tp.file.title %>
 
 
 

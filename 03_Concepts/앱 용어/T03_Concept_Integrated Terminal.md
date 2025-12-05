@@ -1,20 +1,19 @@
 ---
-title: Integrated Terminal (통합 터미널)
+title: T03_Concept_Integrated Terminal
 level: T03
 file_role: concept_dictionary 
 parent: T02_VSCode_Core_Categories 
+word_type: term_software
 status: completed 
 priority: high
 process: final 
 action_required: link_to_t04 
 difficulty: good
 satisfaction: 5
-word_type: term_software
 references: []
-tags:
-- 앱/VSCode
-- 영역/학습/개발환경
+tags: [영역/학습/개발환경, 앱/VSCode]
 ---
+# T03_Concept_Integrated Terminal
 ## 💬 1. 정의 및 핵심 요약 (Definition & Summary)
 
 - **정의:** VS Code 애플리케이션 내부에서 바로 사용할 수 있도록 **통합된 명령줄 환경**. 외부 터미널 앱으로 전환할 필요 없이 코드 편집과 동시에 명령을 실행할 수 있습니다.

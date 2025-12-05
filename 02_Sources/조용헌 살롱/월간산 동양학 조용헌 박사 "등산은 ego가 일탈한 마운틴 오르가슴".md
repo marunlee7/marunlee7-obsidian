@@ -1,7 +1,14 @@
 ---
-published: 2010-09-30T09:45:59+09:00
+title: '월간산 동양학 조용헌 박사 "등산은 ego가 일탈한 마운틴 오르가슴"'
 aliases: []
+published: 2010-09-30T09:45:59+09:00
+status: planned
+priority: medium
+process: raw
 source_name: '월간산 동양학 조용헌 박사 "등산은 ego가 일탈한 마운틴 오르가슴"'
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://san.chosun.com/news/articleView.html?idxno=5658
 links: 
 ---

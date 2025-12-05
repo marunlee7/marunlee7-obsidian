@@ -1,7 +1,14 @@
 ---
-published: "2021-11-05T00:38:28.499Z"
+title: 황석희의 영화 같은 하루 043 Beware the quiet man
 aliases: []
+published: "2021-11-05T00:38:28.499Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 043 Beware the quiet man
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/11/06/72TDB65YP5BDNEQBX7RDXJBENA/"
 ---
 # 황석희의 영화 같은 하루 043 Beware the Quiet Man

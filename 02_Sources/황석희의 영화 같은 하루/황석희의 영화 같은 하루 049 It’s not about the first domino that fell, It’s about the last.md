@@ -1,7 +1,14 @@
 ---
-published: "2021-12-17T04:48:34.484Z"
+title: 황석희의 영화 같은 하루 049 It’s not about the first domino that fell, It’s about the last
 aliases: []
+published: "2021-12-17T04:48:34.484Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 049 It’s not about the first domino that fell, It’s about the last
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/12/18/4TXDDKJVXRCAZM6NK2B7R7AF5E/"
 ---
 # 황석희의 영화 같은 하루 049 It’s not about the First Domino that Fell, It’s about the Last

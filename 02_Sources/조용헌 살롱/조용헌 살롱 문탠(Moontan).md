@@ -1,7 +1,14 @@
 ---
-published: 2020-08-05T03:52:56.098Z
+title: 조용헌 살롱 문탠(Moontan)
 aliases: []
+published: 2020-08-05T03:52:56.098Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 문탠(Moontan)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2007/11/26/2007112601523.html
 links: 
 ---

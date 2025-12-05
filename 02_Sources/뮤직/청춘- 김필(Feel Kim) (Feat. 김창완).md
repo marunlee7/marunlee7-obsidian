@@ -1,6 +1,13 @@
 ---
+title: 청춘- 김필(Feel Kim) (Feat. 김창완)
+status: planned
+priority: medium
+process: raw
 source_name: 청춘- 김필(Feel Kim) (Feat. 김창완)
 source_author: "[[김필]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=jqZ2Ie4pd30&list=RDm3DZsBw5bnE&index=4
 ---
 # 청춘- 김필(Feel Kim) (Feat. 김창완)

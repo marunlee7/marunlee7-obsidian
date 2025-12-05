@@ -1,7 +1,14 @@
 ---
-published: "2024-01-24T06:27:25.241Z"
+title: 황석희의 영화 같은 하루 158 they only have one flaw
 aliases: []
+published: "2024-01-24T06:27:25.241Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 158 they only have one flaw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/01/25/YYK73MPQPZFQXD2XV3RHCUQZUU/"
 ---
 # 황석희의 영화 같은 하루 158 They only Have One Flaw

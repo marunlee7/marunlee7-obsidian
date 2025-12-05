@@ -1,7 +1,14 @@
 ---
-published: "2023-08-23T04:18:10.949Z"
+title: 황석희의 영화 같은 하루 136 Everything that ever made you feel big or stand up tall, it’ll all go
 aliases: []
+published: "2023-08-23T04:18:10.949Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 136 Everything that ever made you feel big or stand up tall, it’ll all go
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/08/24/VQSCRI75YRGOTPL7RUST6CBW64/"
 ---
 # 황석희의 영화 같은 하루 136 Everything that Ever Made You Feel Big or Stand up Tall, it’ll All Go

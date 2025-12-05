@@ -1,7 +1,14 @@
 ---
-published: "2024-03-13T04:57:01.273Z"
+title: 황석희의 영화 같은 하루 165 It’s like there’s this whole place inside of you where I can’t go
 aliases: []
+published: "2024-03-13T04:57:01.273Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 165 It’s like there’s this whole place inside of you where I can’t go
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/03/14/PZ3WR5XQHNDDNISUODEPJGKMFY/"
 ---
 # 황석희의 영화 같은 하루 165 It’s like there’s This Whole place inside of You where I can’t Go

@@ -1,6 +1,13 @@
 ---
+title: SNS 콘텐츠 기록 노트
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: SNS 콘텐츠 기록 노트
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # SNS 콘텐츠 기록 노트
 

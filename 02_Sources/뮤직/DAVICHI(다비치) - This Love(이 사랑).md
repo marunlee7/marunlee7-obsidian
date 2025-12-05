@@ -1,6 +1,13 @@
 ---
+title: DAVICHI(다비치) - This Love(이 사랑)
+status: planned
+priority: medium
+process: raw
 source_name: DAVICHI(다비치) - This Love(이 사랑)
 source_author: "[[다비치]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=XyzaMpAVm3s&list=RDm3DZsBw5bnE&index=9
 ---
 # DAVICHI(다비치) - This Love(이 사랑)

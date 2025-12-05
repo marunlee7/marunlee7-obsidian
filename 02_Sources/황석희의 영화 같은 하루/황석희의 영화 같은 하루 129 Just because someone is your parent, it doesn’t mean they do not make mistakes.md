@@ -1,7 +1,14 @@
 ---
-published: "2023-07-07T05:18:02.906Z"
+title: 황석희의 영화 같은 하루 129 Just because someone is your parent, it doesn’t mean they do not make mistakes
 aliases: []
+published: "2023-07-07T05:18:02.906Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 129 Just because someone is your parent, it doesn’t mean they do not make mistakes
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/07/08/5RXTZ2KOT5CAVE4S6U4C5FQRLI/"
 ---
 # 황석희의 영화 같은 하루 129 Just because Someone is Your Parent, it doesn’t Mean They Do not Make Mistakes

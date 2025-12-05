@@ -11,8 +11,12 @@ process: raw
 source_name: 착한 곡선(gute Kurve)
 source_author: self
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://gemini.google.com/share/3aac7100f036
 ---
+# 검색어 - 착한 곡선(gute Kurve)
 
 ## 📘 요약
 

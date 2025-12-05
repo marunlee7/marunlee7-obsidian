@@ -1,7 +1,14 @@
 ---
-published: 2020-07-15T08:51:54.522Z
+title: Less is more, 내게 이걸 깨우쳐준 건 이규태 칼럼
 aliases: []
+published: 2020-07-15T08:51:54.522Z
+status: planned
+priority: medium
+process: raw
 source_name: Less is more, 내게 이걸 깨우쳐준 건 이규태 칼럼
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2020/03/10/2020031000206.html
 ---
 # Less is More, 내게 이걸 깨우쳐준 건 이규태 칼럼

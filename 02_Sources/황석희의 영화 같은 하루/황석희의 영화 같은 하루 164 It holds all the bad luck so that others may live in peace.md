@@ -1,7 +1,14 @@
 ---
-published: "2024-03-06T04:45:50.871Z"
+title: 황석희의 영화 같은 하루 164 It holds all the bad luck so that others may live in peace
 aliases: []
+published: "2024-03-06T04:45:50.871Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 164 It holds all the bad luck so that others may live in peace
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/03/07/37MVYQLVCNEEXGHBESMOXTXQJA/"
 ---
 # 황석희의 영화 같은 하루 164 It Holds All the Bad Luck so that Others May Live in Peace

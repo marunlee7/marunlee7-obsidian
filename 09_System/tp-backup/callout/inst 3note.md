@@ -1,3 +1,13 @@
+---
+title: inst 3note
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Inst 3note
 > [!note]- note 나의 통찰/사고 확장/적용 아이디어
 > 원문과 관련하여 문득 떠오른 개인적인 생각
 > 비판적 관점, 

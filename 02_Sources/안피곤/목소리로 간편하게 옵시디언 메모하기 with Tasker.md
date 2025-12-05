@@ -1,7 +1,14 @@
 ---
-published: 2022-09-15T21:34:10+09:00
+title: 목소리로 간편하게 옵시디언 메모하기 with Tasker
 aliases: []
+published: 2022-09-15T21:34:10+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 목소리로 간편하게 옵시디언 메모하기 with Tasker
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/189
 ---
 # 목소리로 간편하게 옵시디언 메모하기 with Tasker

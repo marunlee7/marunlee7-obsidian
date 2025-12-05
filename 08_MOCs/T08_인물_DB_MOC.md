@@ -2,7 +2,13 @@
 title: T08_인물_DB_MOC
 level: T08
 file_role: concept_moc
-tags:
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: []
 ---
 # 👤 T08. 인물 데이터베이스 마스터 목록
 

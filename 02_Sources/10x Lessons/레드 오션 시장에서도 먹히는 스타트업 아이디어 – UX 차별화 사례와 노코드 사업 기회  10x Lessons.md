@@ -1,7 +1,7 @@
 ---
-published: 2022-03-28
 title: 레드 오션 시장에서도 먹히는 스타트업 아이디어 – UX 차별화 사례와 노코드 사업 기회  10x Lessons
 aliases: []
+published: 2022-03-28
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 레드 오션 시장에서도 먹히는 스타트업 아이디어 – UX 차별화 사례와 노코드 사업 기회  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2022/03/easier-ux-as-a-startup-idea/"
 tags: [출처/외부_정보/아티클_웹]
 ---

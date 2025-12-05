@@ -10,9 +10,11 @@ process: ""
 source_name: self
 source_author: self
 source_type: concept
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: ""
-tags:
-  - 출처/개념_본질/어휘_용어
+tags: [출처/개념_본질/어휘_용어]
 ---
 # 💡 T03. IPA (개념 사전)
 

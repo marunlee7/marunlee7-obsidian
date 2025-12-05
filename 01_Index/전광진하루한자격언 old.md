@@ -6,12 +6,15 @@ title: 전광진하루한자격언 old
 published:
 level: T02
 file_role: article_atom
-status: planned # 최종 확정: planned. Task 관리 기본값.
+status: planned
 priority: medium
-process: "" # T01은 process 필드 사용 안 함 (빈 값 유지)
+process: raw
 source_name: 전광진하루한자격언 old
 source_author: "[[전광진]]"
 source_type: "book"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.ggdaily.kr/sub.html?page=179&section=sc66&section2=
   - https://docs.google.com/spreadsheets/d/1I44kQcAaDgIANakFVdQRwwBFIpnznBAqq_pXR0xV_Pg/edit?usp=sharing

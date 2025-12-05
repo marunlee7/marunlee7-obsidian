@@ -1,6 +1,13 @@
 ---
+title: 한 잔의 Coffee
+status: planned
+priority: medium
+process: raw
 source_name: 한 잔의 Coffee
 source_author: 용혜원
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 한 잔의 Coffee
 

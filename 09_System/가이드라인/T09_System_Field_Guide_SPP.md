@@ -1,16 +1,17 @@
 ---
-title: Status, Priority, Process 필드 최종 매뉴얼
+title: T09_System_Field_Guide_SPP
 level: T09
 file_role: system_config
 parent: "[[09_System/가이드라인/09_T-System_Master_Manual]]"
-status: finalized
-[priority: high
+status: planned
+priority: medium
+process: raw
 source_name: Gemini & User Final Standardization (2025-11-26 최종 확정)
 source_author: system / user
-tags:
-  - 시스템/YAML
-  - 시스템/규칙
-  - 시스템/설정/가이드
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: [시스템/YAML, 시스템/설정/가이드, 시스템/규칙]
 ---
 # 🚦 Status, Priority, Process 필드 최종 표준
 
@@ -71,6 +72,7 @@ T02 노트를 예시로 하여, 세 가지 관리 필드가 노트의 생명 주
 | **2. 작업 착수** | 요약 및 정리 작업 시작 | `in-progress` | `medium` (유지) | `raw` → `draft` |
 | **3. 보류/대기** | 작업을 멈추고 다른 Task를 우선 처리 | `waiting/blocked` | `high` (상향) | `draft` (유지) |
 | **4. 완성** | 노트 내용 검토 및 최종 정리 완료 | `completed` | `medium` (하향) | `draft` → `final` |
+
 ## 3. T01 ~ T05 템플릿 최종 조정 요약
 
 확정된 SPP 매뉴얼에 따라 T01, T04, T05 템플릿의 YAML 기본값만 재조정합니다.

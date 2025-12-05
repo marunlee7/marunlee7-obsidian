@@ -1,7 +1,14 @@
 ---
-published: 2020-08-05T00:32:21.289Z
+title: "조용헌 살롱 '슬로 건축'(slow architecture)"
 aliases: []
+published: 2020-08-05T00:32:21.289Z
+status: planned
+priority: medium
+process: raw
 source_name: "조용헌 살롱 '슬로 건축'(slow architecture)"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2008/02/29/2008022901401.html
 links: 
 ---

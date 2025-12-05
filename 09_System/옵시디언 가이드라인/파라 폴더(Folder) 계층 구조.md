@@ -8,6 +8,9 @@ priority: medium
 process: raw
 source_name: 파라 폴더(Folder) 계층 구조
 source_author: self
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # 파라 폴더(Folder) 계층 구조

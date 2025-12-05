@@ -1,7 +1,14 @@
 ---
-published: "2022-02-18T03:03:37.808Z"
+title: 황석희의 영화 같은 하루 058 In moonlight, black boys look blue
 aliases: []
+published: "2022-02-18T03:03:37.808Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 058 In moonlight, black boys look blue
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/02/19/MUW6YEZROZAGDLWXUPVXQZOCRI/"
 ---
 # 황석희의 영화 같은 하루 058 In Moonlight, Black Boys Look Blue

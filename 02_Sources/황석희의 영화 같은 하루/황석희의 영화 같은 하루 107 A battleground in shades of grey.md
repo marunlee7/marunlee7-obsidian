@@ -1,7 +1,14 @@
 ---
-published: "2023-02-03T05:53:43.503Z"
+title: 황석희의 영화 같은 하루 107 A battleground in shades of grey
 aliases: []
+published: "2023-02-03T05:53:43.503Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 107 A battleground in shades of grey
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/02/04/52YK2774LZEQLCLP4KU3UANEJA/"
 ---
 # 황석희의 영화 같은 하루 107 A Battleground in Shades of Grey

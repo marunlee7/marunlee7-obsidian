@@ -11,6 +11,9 @@ process: raw
 source_name: "분석맨 Day 15_게으름의 대부분은 사실 '두려움'이다"
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://secondbrain.analysisman.com/procrastinate-fear
 tags: [출처/외부_정보/아티클_웹]

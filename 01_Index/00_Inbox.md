@@ -6,13 +6,15 @@ parent: ""
 word_type: ""
 status: planned
 priority: medium
-process: ""
+process: raw
 source_name: 00_Inbox
 source_author: self
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: []
-tags:
-  - 출처/외부_정보/아티클_웹
+tags: [출처/외부_정보/아티클_웹]
 ---
 # 📚 T01. 00_Inbox (Master Index)
 

@@ -3,20 +3,19 @@ title: T-시스템 구조 변경 작업 리스트
 level: T02
 file_role: original_source
 parent: 작업노트_2025
-status: completed
-priority: high
-process: draft
+status: planned
+priority: medium
+process: raw
 source_name: ""
 source_author: self
 source_type: worknote
 action_required: link_to_t04
-difficulty: good
+difficulty:	good
 satisfaction: 3
 references: ""
-tags:
-  - task
-  - 출처/내부_활동/아이디어
+tags: [task, 출처/내부_활동/아이디어]
 ---
+# T-시스템 구조 변경 작업 리스트
 ## 📚 T-시스템 구조 변경 작업 리스트 (최종 포함)
 
 이전 회신에서 제시해 드린 **T-시스템 YAML 구조 변경 작업 리스트**와 **예상 소요 시간**에, 방금 요청하신 **대화 기록 요약**을 포함하여 최종적으로 완성했습니다.

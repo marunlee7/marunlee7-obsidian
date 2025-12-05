@@ -1,6 +1,13 @@
 ---
+title: Vault Size History
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: Vault Size History
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/watch?v=CgdmuFaxeoc&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=39
 links: 

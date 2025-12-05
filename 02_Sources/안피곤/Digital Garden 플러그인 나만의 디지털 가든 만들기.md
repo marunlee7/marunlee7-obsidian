@@ -1,7 +1,14 @@
 ---
-published: 2022-03-30T20:41:10+09:00
+title: Digital Garden 플러그인 나만의 디지털 가든 만들기
 aliases: []
+published: 2022-03-30T20:41:10+09:00
+status: planned
+priority: medium
+process: raw
 source_name: Digital Garden 플러그인 나만의 디지털 가든 만들기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/164
 ---
 # Digital Garden 플러그인 나만의 디지털 가든 만들기

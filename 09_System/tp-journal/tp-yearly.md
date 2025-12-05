@@ -2,9 +2,16 @@
 歲: 56세
 餘命: 25년
 居住地: 장안읍
+title: tp-yearly
 aliases:
   - "2025"
+status: planned
+priority: medium
+process: raw
 source_name: tp-yearly
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 2025
 

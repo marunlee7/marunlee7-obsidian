@@ -1,6 +1,13 @@
 ---
+title: 알게 모르게 새 기능이 추가됐네? 옵시디안 콜아웃 Callout
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 알게 모르게 새 기능이 추가됐네? 옵시디안 콜아웃 Callout
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/watch?v=Ri_9Zqi0CRo&list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC&index=4
 links: 

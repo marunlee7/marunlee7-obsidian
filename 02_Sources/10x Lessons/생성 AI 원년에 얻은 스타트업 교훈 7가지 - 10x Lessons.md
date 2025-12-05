@@ -1,7 +1,7 @@
 ---
-published: 2024-01-19
 title: 생성 AI 원년에 얻은 스타트업 교훈 7가지 - 10x Lessons
 aliases: []
+published: 2024-01-19
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 생성 AI 원년에 얻은 스타트업 교훈 7가지 - 10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2024/01/%ec%83%9d%ec%84%b1-ai-%ec%9b%90%eb%85%84%ec%97%90-%ec%96%bb%ec%9d%80-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ea%b5%90%ed%9b%88-8%ea%b0%80%ec%a7%80/"
 tags: [출처/외부_정보/아티클_웹]
 ---

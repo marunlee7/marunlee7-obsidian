@@ -1,16 +1,23 @@
 ---
-title: source_type 표준 키 값 목록
+title: source_type, word_type
 level: T09
 file_role: system_config
 parent: "[[09_System/가이드라인/09_T-System_Master_Manual]]"
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
+# source_type, word_type
 
 
 `source_type`은 Dataview 쿼리와 시스템 분석의 핵심 분류 기준이 되므로,
 임의의 값이 아닌 아래의 확정된 값 목록 내에서만 사용되어야 합니다.
 
 
-## 👑  파일 역할 (file_role) & source_type 값
+## 👑 파일 역할 (file_role) & source_type 값
 
 | T-레벨 | 파일 역할 (file_role)       | source_type 값          | 적용 방식 및 논리 (불변)                                 |
 | ---- | ----------------------- | ---------------------- | ----------------------------------------------- |
@@ -23,7 +30,6 @@ parent: "[[09_System/가이드라인/09_T-System_Master_Manual]]"
 | T07  | `journal`               | `journal`              | 저널(일간노트)                                        |
 | T08  |                         |                        |                                                 |
 | T09  | `system_config`         | `system_config`        | 시스템 설정 및 매뉴얼 파일이므로, `system_config`로 고정됩니다.     |
-
 
 ### 📚 T01 & T02 (외부 출처)의 표준 값 목록
 
@@ -54,5 +60,3 @@ T01 및 T02 파일 생성 시 Quickadd 선택지로 제공되어야 할 `source_
 | `model`           | 원칙/모델/법칙 | `#출처/개념_본질/원칙_모델` | SWOT, 80/20 법칙 등 구조화된 분석 원리나 모델을 분류. |
 | `theory`          | 이론/프레임워크 | `#출처/개념_본질/이론_법칙` | 경제학 이론, 심리학 프레임워크 등 광범위한 지식 체계를 분류.  |
 | `event`           | 사건/이슈    | `#출처/개념_본질/사건_이슈` | 특정 시점에 발생한 역사적 사건이나 중요한 이슈를 분류.      |
-
-

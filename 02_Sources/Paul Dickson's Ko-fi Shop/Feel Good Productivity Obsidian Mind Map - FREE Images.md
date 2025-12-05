@@ -1,8 +1,15 @@
 ---
-published:
+title: Feel Good Productivity Obsidian Mind Map - FREE Images
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Feel Good Productivity Obsidian Mind Map - FREE Images
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/f0ddee9313
 ---
 # Feel Good Productivity Obsidian Mind Map - FREE Images

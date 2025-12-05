@@ -1,5 +1,12 @@
 ---
+title: tp-monthly
+status: planned
+priority: medium
+process: raw
 source_name: tp-monthly
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # tp-Monthly
 

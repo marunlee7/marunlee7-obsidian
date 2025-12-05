@@ -1,7 +1,14 @@
 ---
-published: 2023-03-15T22:49:50+09:00
+title: AnuPpuccin 옵시디언 테마 최고의 디자인과 다양한 옵션
 aliases: []
+published: 2023-03-15T22:49:50+09:00
+status: planned
+priority: medium
+process: raw
 source_name: AnuPpuccin 옵시디언 테마 최고의 디자인과 다양한 옵션
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/332
 ---
 # AnuPpuccin 옵시디언 테마 최고의 디자인과 다양한 옵션

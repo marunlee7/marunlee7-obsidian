@@ -1,7 +1,14 @@
 ---
-published: "2022-07-29T06:23:02.112Z"
+title: 황석희의 영화 같은 하루 081 What are you thinking?
 aliases: []
+published: "2022-07-29T06:23:02.112Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 081 What are you thinking?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/07/30/PRK5RGLX3RGERCFA5HGNUMHLZI/"
 ---
 # 황석희의 영화 같은 하루 081 What Are You Thinking?

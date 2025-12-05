@@ -1,7 +1,7 @@
 ---
-published: 2024-12-23
 title: How to Visualise Your Ideas in Obsidian with Excalidraw
 aliases: []
+published: 2024-12-23
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: How to Visualise Your Ideas in Obsidian with Excalidraw
 source_author: 김태현
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=ZqxeQEYtajY
 links:
 tags: [출처/외부_정보/아티클_웹]

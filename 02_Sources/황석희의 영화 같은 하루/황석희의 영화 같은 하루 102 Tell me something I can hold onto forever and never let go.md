@@ -1,7 +1,14 @@
 ---
-published: "2022-12-30T04:47:20.586Z"
+title: 황석희의 영화 같은 하루 102 Tell me something I can hold onto forever and never let go
 aliases: []
+published: "2022-12-30T04:47:20.586Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 102 Tell me something I can hold onto forever and never let go
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/12/31/4KFWGSFZ55D2VFYBNX74M6LCV4/"
 ---
 # 황석희의 영화 같은 하루 102 Tell Me Something I Can Hold onto Forever and Never Let Go

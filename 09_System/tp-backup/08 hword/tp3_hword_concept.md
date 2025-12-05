@@ -1,3 +1,12 @@
+---
+title: tp3_hword_concept
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
 <%*
 const now = tp.date.now("YYYY-MM-DD");
 const fileTitle = tp.file.title.trim(); 

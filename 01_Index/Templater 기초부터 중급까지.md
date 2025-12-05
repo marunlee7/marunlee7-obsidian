@@ -6,14 +6,16 @@ parent: ""
 word_type: ""
 status: planned
 priority: medium
-process: ""
+process: raw
 source_name: Templater 기초부터 중급까지
 source_author: self
 source_type: web
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - chatGPT
-tags:
-  - 출처/외부_정보/아티클_웹
+tags: [출처/외부_정보/아티클_웹]
 ---
 # 📚 T01. Templater 기초부터 중급까지 (Master Index)
 

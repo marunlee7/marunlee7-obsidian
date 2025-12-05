@@ -1,3 +1,12 @@
+---
+title: tp_extract_t03_multi
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
 <%*
 // ============================================================
 // 1. 설정 (여기에 Gemini API KEY를 입력하세요)
@@ -24,10 +33,10 @@ const listPrompt = `
 아래 [문서 내용]을 분석하여, T03 개념 노트로 만들기에 적합한 **가장 중요한 핵심 개념 5개**를 한국어 단어로 추출하세요.
 반드시 JSON 배열만 출력하고, 마크다운 코드블록(\`\`\`json)이나 설명은 생략하세요.
 
-## 출력 JSON 형식
+# 출력 JSON 형식
 ["개념1", "개념2", "개념3", "개념4", "개념5"]
 
-## 문서 내용
+# 문서 내용
 ---
 ${fileContent}
 ---

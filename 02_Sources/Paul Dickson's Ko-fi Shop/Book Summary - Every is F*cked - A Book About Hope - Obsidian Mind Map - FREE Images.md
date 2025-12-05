@@ -1,8 +1,15 @@
 ---
-published:
+title: Book Summary - Every is F*cked - A Book About Hope - Obsidian Mind Map - FREE Images
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Book Summary - Every is F*cked - A Book About Hope - Obsidian Mind Map - FREE Images
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/35c1e7bd66
 ---
 # Book Summary - Every is F*cked - A Book About Hope - Obsidian Mind Map - FREE Images

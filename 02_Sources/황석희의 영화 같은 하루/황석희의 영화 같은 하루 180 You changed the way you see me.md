@@ -1,7 +1,14 @@
 ---
-published: "2024-08-21T07:21:20.675Z"
+title: 황석희의 영화 같은 하루 180 You changed the way you see me
 aliases: []
+published: "2024-08-21T07:21:20.675Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 180 You changed the way you see me
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/08/21/AFJIF7NKUVCAHHRUTB6P5N55QI/"
 ---
 # 황석희의 영화 같은 하루 180 You Changed the way You See Me

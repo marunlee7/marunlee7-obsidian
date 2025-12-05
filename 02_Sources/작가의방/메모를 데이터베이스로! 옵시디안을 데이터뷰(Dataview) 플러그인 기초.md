@@ -1,6 +1,13 @@
 ---
+title: 메모를 데이터베이스로! 옵시디안을 데이터뷰(Dataview) 플러그인 기초
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 메모를 데이터베이스로! 옵시디안을 데이터뷰(Dataview) 플러그인 기초
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=30btdLPW8zU&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=24
 links: 
 ---

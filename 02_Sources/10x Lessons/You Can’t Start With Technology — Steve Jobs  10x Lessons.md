@@ -1,7 +1,7 @@
 ---
-published: 2019-07-06
 title: You Can’t Start With Technology — Steve Jobs  10x Lessons
 aliases: []
+published: 2019-07-06
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: You Can’t Start With Technology — Steve Jobs  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2019/07/you-cant-start-with-technology-steve-jobs/"
 tags: [출처/외부_정보/아티클_웹]
 ---

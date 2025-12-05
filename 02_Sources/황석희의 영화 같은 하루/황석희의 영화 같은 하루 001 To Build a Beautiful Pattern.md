@@ -1,7 +1,14 @@
 ---
-published: "2021-01-08T02:04:05.635Z"
+title: 황석희의 영화 같은 하루 001 To Build a Beautiful Pattern
 aliases: []
+published: "2021-01-08T02:04:05.635Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 001 To Build a Beautiful Pattern
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/01/09/GRQRF3EVAFGYFOTJ254QDL555Q/"
 ---
 # 황석희의 영화 같은 하루 001 To Build a Beautiful Pattern

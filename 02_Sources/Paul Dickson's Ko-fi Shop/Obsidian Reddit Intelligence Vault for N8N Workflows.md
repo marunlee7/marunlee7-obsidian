@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Reddit Intelligence Vault for N8N Workflows
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Reddit Intelligence Vault for N8N Workflows
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/28d9bf59c2
 ---
 # Obsidian Reddit Intelligence Vault for N8N Workflows

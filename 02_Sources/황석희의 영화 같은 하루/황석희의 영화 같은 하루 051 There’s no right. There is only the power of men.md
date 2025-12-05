@@ -1,7 +1,14 @@
 ---
-published: "2021-12-31T05:59:54.080Z"
+title: 황석희의 영화 같은 하루 051 There’s no right. There is only the power of men
 aliases: []
+published: "2021-12-31T05:59:54.080Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 051 There’s no right. There is only the power of men
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/01/01/ZTKRGWIYVZHWNH4HCATEF4PQFY/"
 ---
 # 황석희의 영화 같은 하루 051 There’s no Right. There is only the Power of Men

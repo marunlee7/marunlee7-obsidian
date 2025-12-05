@@ -1,6 +1,13 @@
 ---
+title: 희망은 카프카의 K처럼
+status: planned
+priority: medium
+process: raw
 source_name: 희망은 카프카의 K처럼
 source_author: 장석주
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 희망은 카프카의 K처럼
 

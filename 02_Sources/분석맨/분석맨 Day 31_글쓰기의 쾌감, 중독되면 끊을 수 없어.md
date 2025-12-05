@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 31_글쓰기의 쾌감, 중독되면 끊을 수 없어
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+31_%EA%B8%80%EC%93%B0%EA%B8%B0%EC%9D%98+%EC%BE%8C%EA%B0%90%2C+%EC%A4%91%EB%8F%85%EB%90%98%EB%A9%B4+%EB%81%8A%EC%9D%84+%EC%88%98+%EC%97%86%EC%96%B4
 tags: [출처/외부_정보/아티클_웹]
 ---
@@ -27,7 +30,7 @@ tags: [출처/외부_정보/아티클_웹]
 > 템플릿(생각-요약-레퍼런스)에 따라 정리했다,<br>
 > 생각 : 아래 요약에서 또 핵심만 불릿 문장 처리.<br>
 > 요약 : 레퍼런스 글의 핵심만 단문장으로 처리.<br>
-> 레퍼런스 : 이 글 주제와 관련된 본인의 글또한 연결(links) 하였다.
+> 레퍼런스 : 이 글 주제와 관련된 본인의 글또한 연결(references) 하였다.
 > - [[분석맨 Day 56_글쓰기를 메모처럼 쉽게 하기]]
 > 
 

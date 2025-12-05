@@ -1,6 +1,13 @@
 ---
+title: 옵시디안을 콘텐츠 허브로 확장 Better File Link
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디안을 콘텐츠 허브로 확장 Better File Link
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.youtube.com/watch?v=4I-5xyuyYjI&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=38
 links: 

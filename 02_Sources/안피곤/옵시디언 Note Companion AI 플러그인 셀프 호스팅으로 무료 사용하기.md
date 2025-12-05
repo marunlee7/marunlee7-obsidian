@@ -1,7 +1,14 @@
 ---
-published: 2025-04-12T19:23:54+09:00
+title: 옵시디언 Note Companion AI 플러그인 셀프 호스팅으로 무료 사용하기
 aliases: []
+published: 2025-04-12T19:23:54+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언 Note Companion AI 플러그인 셀프 호스팅으로 무료 사용하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/488
 ---
 # 옵시디언 Note Companion AI 플러그인 셀프 호스팅으로 무료 사용하기

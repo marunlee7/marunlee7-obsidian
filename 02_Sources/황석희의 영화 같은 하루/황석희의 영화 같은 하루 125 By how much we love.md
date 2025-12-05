@@ -1,7 +1,14 @@
 ---
-published: "2023-06-09T04:53:24.804Z"
+title: 황석희의 영화 같은 하루 125 By how much we love
 aliases: []
+published: "2023-06-09T04:53:24.804Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 125 By how much we love
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/06/10/JFQBS7MUCVASHJKLTENEINS26M/"
 ---
 # 황석희의 영화 같은 하루 125 By how much We Love

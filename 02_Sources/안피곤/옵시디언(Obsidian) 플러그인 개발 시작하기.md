@@ -1,7 +1,14 @@
 ---
-published: 2022-03-13T11:11:53+09:00
+title: 옵시디언(Obsidian) 플러그인 개발 시작하기
 aliases: []
+published: 2022-03-13T11:11:53+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언(Obsidian) 플러그인 개발 시작하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/158
 ---
 # 옵시디언(Obsidian) 플러그인 개발 시작하기

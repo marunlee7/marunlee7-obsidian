@@ -1,7 +1,14 @@
 ---
-published: "2024-09-18T03:00:52.791Z"
+title: 황석희의 영화 같은 하루 182 We all have scars
 aliases: []
+published: "2024-09-18T03:00:52.791Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 182 We all have scars
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/09/18/74OQJN4BEVGSZPCZHBV7TLJZL4/"
 ---
 # 황석희의 영화 같은 하루 182 We All Have Scars

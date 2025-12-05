@@ -1,6 +1,13 @@
 ---
+title: AI 나의 보조 작가가 되어줄래? 옵시디안 Chat GPT
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: AI 나의 보조 작가가 되어줄래? 옵시디안 Chat GPT
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=CDQqewnBxrI&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=10
 links: 
 ---

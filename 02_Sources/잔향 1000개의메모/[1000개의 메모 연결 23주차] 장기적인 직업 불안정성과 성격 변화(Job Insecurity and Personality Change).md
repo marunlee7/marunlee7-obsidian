@@ -1,5 +1,12 @@
 ---
+title: "[1000개의 메모 연결 23주차] 장기적인 직업 불안정성과 성격 변화(Job Insecurity and Personality Change)"
+status: planned
+priority: medium
+process: raw
 source_name: "[1000개의 메모 연결 23주차] 장기적인 직업 불안정성과 성격 변화(Job Insecurity and Personality Change)"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # [1000개의 메모 연결 23주차] 장기적인 직업 불안정성과 성격 변화(Job Insecurity and Personality Change)
 [[1000개의 메모 연결 23주차] 장기적인 직업 불안정성과 성격 변화(Job Insecurity and Personality Change)](https://slowdive14.tistory.com/1299854)

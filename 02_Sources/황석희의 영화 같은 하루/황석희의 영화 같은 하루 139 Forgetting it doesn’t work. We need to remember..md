@@ -1,7 +1,14 @@
 ---
-published: "2023-09-13T05:53:28.977Z"
+title: 황석희의 영화 같은 하루 139 Forgetting it doesn’t work. We need to remember.
 aliases: []
+published: "2023-09-13T05:53:28.977Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 139 Forgetting it doesn’t work. We need to remember.
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/09/14/CRVGASB4PFF4RBHUVFZ7H2NMGA/"
 ---
 # 황석희의 영화 같은 하루 139 Forgetting it doesn’t Work. We Need to Remember.

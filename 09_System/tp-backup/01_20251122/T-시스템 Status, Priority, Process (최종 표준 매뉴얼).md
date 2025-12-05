@@ -1,16 +1,17 @@
 ---
 title: T-시스템 Status, Priority, Process (최종 표준 매뉴얼)
-source_type: Gemini
 parent: "[[09_T-System_Master_Manual - 구버전]]"
-source_name: Gemini와의 T-레벨 논의
-source_author: self
-references:
+status: planned
 priority: medium
 process: raw
-tags:
-  - 시스템/YAML
-  - 시스템/설정/가이드
-  - 시스템/구조
+source_name: Gemini와의 T-레벨 논의
+source_author: self
+source_type: Gemini
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+references:
+tags: [시스템/YAML, 시스템/설정/가이드, 시스템/구조]
 ---
 # T-시스템 Status, Priority, Process (최종 표준 매뉴얼)
 
@@ -54,6 +55,7 @@ tags:
 | **`in-progress`**     | 진행 중       | T01/T02/T04: 현재 **활발하게 처리 중**인 상태.<br>현재 **활발하게 작업 중**인 상태.                           |
 | **`waiting/blocked`** | 보류/대기      | 작업 도중 **중단**되고 우선순위가 올라간 상태.                                                          |
 | **`completed`**       | 완료         | T01/T02/T04: 해당 Task 또는 프로젝트가 **완료**되어 더 이상 처리할 필요가 없는 상태.<br>최종 정리 및 검토가 **완료**된 상태. |
+
 ### 💡 T02, T04에서 `status`의 유연한 사용 이유
 
 - **T02 (Article Atom):** 외부 자료를 발췌한 후, 당장 처리하지 않고 나중에 소화하기 위해 보류해야 할 경우가 많습니다. 이때 `process: raw`를 사용하면서 동시에 `status: planned` 또는 `status: in-progress`를 사용하여 **'언제부터 이 발췌 노트를 작업할 것인지'**를 추적할 수 있습니다.

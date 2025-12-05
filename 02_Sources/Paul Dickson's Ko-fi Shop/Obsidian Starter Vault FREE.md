@@ -1,8 +1,15 @@
 ---
-published: 2024-07-08
+title: Obsidian Starter Vault FREE
 aliases: []
+published: 2024-07-08
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Starter Vault FREE
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/33678f10a7
 ---
 # Obsidian Starter Vault FREE
@@ -60,7 +67,7 @@ Part 2: Mastering the Basics
 지식 연결하기 Connecting your Knowledge:
 
 노트 연결하기 Linking your Notes
-백링크 이해와 작동 방식 Understanding backlinks and how they work
+백링크 이해와 작동 방식 Understanding backreferences and how they work
 손쉬운 접근을 위한 정리 Organising for Easy Access:
 
 태그와 검색 Tags and Search

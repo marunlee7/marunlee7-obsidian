@@ -1,7 +1,14 @@
 ---
-published: "2022-10-28T08:17:49.037Z"
+title: 황석희의 영화 같은 하루 093 He’s just telling us we’re way too slow
 aliases: []
+published: "2022-10-28T08:17:49.037Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 093 He’s just telling us we’re way too slow
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/10/29/BR3POKWGJBBGXLA56U3PMCZBCM/"
 ---
 # 황석희의 영화 같은 하루 093 He’s just Telling Us we’re way Too Slow

@@ -8,6 +8,9 @@ priority: medium
 process: raw
 source_name: Obsidian 한자어휘 카드 자동화 흐름
 source_author: self
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://chatgpt.com/s/t_6920fb06401881918f888b03d5316b1a
 links:
 ---

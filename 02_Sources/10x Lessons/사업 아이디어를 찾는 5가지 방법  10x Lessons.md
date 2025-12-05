@@ -1,7 +1,7 @@
 ---
-published: 2020-11-10
 title: 사업 아이디어를 찾는 5가지 방법  10x Lessons
 aliases: []
+published: 2020-11-10
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 사업 아이디어를 찾는 5가지 방법  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2020/11/7ways-for-startup-ideas/"
 tags: [출처/외부_정보/아티클_웹]
 ---

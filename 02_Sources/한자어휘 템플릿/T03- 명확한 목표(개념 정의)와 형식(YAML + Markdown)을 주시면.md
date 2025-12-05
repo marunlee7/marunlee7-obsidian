@@ -1,27 +1,23 @@
 ---
-published: 2025-12-03
 title: T03- 명확한 목표(개념 정의)와 형식(YAML + Markdown)을 주시면
+published: 2025-12-03
 level: T02
 file_role: article_atom
 parent: 한자어휘 템플릿
-status: completed
-priority: high
-process: draft
+status: planned
+priority: medium
+process: raw
 source_name:
 source_author: self
 source_type: worknote
 action_required: link_to_t04
-difficulty: good
-satisfaction: 5
+difficulty:	good
+satisfaction: 3
 references:
   - ""
-tags:
-  - 개념/옵시디언/템플릿
-  - 영역/옵시디언
-  - 출처/내부_활동/아이디어
-  - 출처/외부_수집/템플릿
+tags: [출처/외부_수집/템플릿, 출처/내부_활동/아이디어, 영역/옵시디언, 개념/옵시디언/템플릿]
 ---
-# 📖 T02. 명확한 목표(개념 정의)와 형식(YAML + Markdown)을 주시면 
+# 📖 T02. 명확한 목표(개념 정의)와 형식(YAML + Markdown)을 주시면
 
 
 

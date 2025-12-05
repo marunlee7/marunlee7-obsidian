@@ -1,7 +1,14 @@
 ---
-published: "2023-04-02T04:54:28.951Z"
+title: 강헌의 히스토리 인 팝스 156 틱톡(TikTok)-G2 냉전
 aliases: []
+published: "2023-04-02T04:54:28.951Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 156 틱톡(TikTok)-G2 냉전
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/04/03/7FNAHD75ZFADDNSIRWV4HPHH7Y/"
 ---
 # 강헌의 히스토리 인 팝스 156 틱톡(TikTok)-G2 냉전

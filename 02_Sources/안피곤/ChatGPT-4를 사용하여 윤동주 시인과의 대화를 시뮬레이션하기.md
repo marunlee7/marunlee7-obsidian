@@ -1,7 +1,14 @@
 ---
-published: 2023-03-24T09:38:29+09:00
+title: ChatGPT-4를 사용하여 윤동주 시인과의 대화를 시뮬레이션하기
 aliases: []
+published: 2023-03-24T09:38:29+09:00
+status: planned
+priority: medium
+process: raw
 source_name: ChatGPT-4를 사용하여 윤동주 시인과의 대화를 시뮬레이션하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/347
 ---
 # ChatGPT-4를 사용하여 윤동주 시인과의 대화를 시뮬레이션하기

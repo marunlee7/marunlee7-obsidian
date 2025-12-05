@@ -1,7 +1,7 @@
 ---
-published: 2020-04-20
 title: 노코드 개발자 없이 소프트웨어 개발을 할 수 있는 14가지 툴  10x Lessons
 aliases: []
+published: 2020-04-20
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 노코드 개발자 없이 소프트웨어 개발을 할 수 있는 14가지 툴  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2020/04/%eb%85%b8%ec%bd%94%eb%93%9c-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%97%86%ec%9d%b4-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ea%b0%9c%eb%b0%9c%ec%9d%84-%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-14%ea%b0%80/"
 tags: [출처/외부_정보/아티클_웹]
 ---

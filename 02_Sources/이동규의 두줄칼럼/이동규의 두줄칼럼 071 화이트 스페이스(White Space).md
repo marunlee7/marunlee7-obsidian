@@ -1,7 +1,14 @@
 ---
-published: "2023-01-05T05:48:46.832Z"
+title: 이동규의 두줄칼럼 071 화이트 스페이스(White Space)
 aliases: []
+published: "2023-01-05T05:48:46.832Z"
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 071 화이트 스페이스(White Space)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/01/06/SVZEOL6IPJGONCCPALBSBIKYDI/"
 ---
 # 이동규의 두줄칼럼 071 화이트 스페이스(White Space)

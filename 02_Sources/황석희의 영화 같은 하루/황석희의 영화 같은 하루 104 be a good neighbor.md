@@ -1,7 +1,14 @@
 ---
-published: "2023-01-13T05:44:56.476Z"
+title: 황석희의 영화 같은 하루 104 be a good neighbor
 aliases: []
+published: "2023-01-13T05:44:56.476Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 104 be a good neighbor
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/01/14/XIKXBULIUREJPEHVPNIIEYG24A/"
 ---
 # 황석희의 영화 같은 하루 104 Be a Good Neighbor

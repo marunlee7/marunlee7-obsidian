@@ -1,7 +1,14 @@
 ---
-published: 2022-12-29T05:42:11.363Z
+title: 이동규의 두줄칼럼 070 세렌디피티(Serendipity)
 aliases: []
+published: 2022-12-29T05:42:11.363Z
+status: planned
+priority: medium
+process: raw
 source_name: 이동규의 두줄칼럼 070 세렌디피티(Serendipity)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://www.chosun.com/opinion/specialist_column/2022/12/30/PBCGXCONAJDJHGTXSA3XVPRYKU/
 ---

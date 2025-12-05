@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 14_글을 꾸준히 계속 쓰려면 나를 알아야 한다
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+14_%EA%B8%80%EC%9D%84+%EA%BE%B8%EC%A4%80%ED%9E%88+%EA%B3%84%EC%86%8D+%EC%93%B0%EB%A0%A4%EB%A9%B4+%EB%82%98%EB%A5%BC+%EC%95%8C%EC%95%84%EC%95%BC+%ED%95%9C%EB%8B%A4
 tags: [출처/외부_정보/아티클_웹]

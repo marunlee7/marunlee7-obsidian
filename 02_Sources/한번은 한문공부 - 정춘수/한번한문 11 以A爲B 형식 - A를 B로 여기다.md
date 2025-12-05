@@ -1,6 +1,13 @@
 ---
+title: 한번한문 11 以A爲B 형식 - A를 B로 여기다
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 한번한문 11 以A爲B 형식 - A를 B로 여기다
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 # 한번한문 11 以A爲B 형식 - A를 B로 여기다
 alias:: 以, 爲

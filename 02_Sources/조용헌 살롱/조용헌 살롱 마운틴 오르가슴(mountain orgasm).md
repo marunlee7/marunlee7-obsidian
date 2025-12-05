@@ -1,7 +1,14 @@
 ---
-published: 2020-08-12T17:40:44.507Z
+title: 조용헌 살롱 마운틴 오르가슴(mountain orgasm)
 aliases: []
+published: 2020-08-12T17:40:44.507Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 마운틴 오르가슴(mountain orgasm)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2004/10/25/2004102570330.html
 links: 
 ---

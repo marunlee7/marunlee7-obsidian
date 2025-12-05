@@ -1,7 +1,14 @@
 ---
-published: "2021-11-26T05:23:00.824Z"
+title: 황석희의 영화 같은 하루 046 Playing fair is a joke invented by rich people
 aliases: []
+published: "2021-11-26T05:23:00.824Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 046 Playing fair is a joke invented by rich people
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2021/11/27/OQIIP4BAMVCKXHNLZLOTS3WF5M/"
 ---
 # 황석희의 영화 같은 하루 046 Playing Fair is a Joke Invented by Rich People

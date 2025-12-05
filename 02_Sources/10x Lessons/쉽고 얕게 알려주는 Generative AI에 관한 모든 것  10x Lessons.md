@@ -1,7 +1,7 @@
 ---
-published: 2023-01-02
 title: 쉽고 얕게 알려주는 Generative AI에 관한 모든 것  10x Lessons
 aliases: []
+published: 2023-01-02
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 쉽고 얕게 알려주는 Generative AI에 관한 모든 것  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2023/01/gen-ai-primer/"
 tags: [출처/외부_정보/아티클_웹]
 ---

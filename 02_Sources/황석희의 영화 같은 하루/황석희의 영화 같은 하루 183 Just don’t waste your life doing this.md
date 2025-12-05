@@ -1,7 +1,14 @@
 ---
-published: "2024-10-02T07:06:17.475Z"
+title: 황석희의 영화 같은 하루 183 Just don’t waste your life doing this
 aliases: []
+published: "2024-10-02T07:06:17.475Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 183 Just don’t waste your life doing this
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/10/02/A4TKFJHDIBHZLATBDHM4VQT34U/"
 ---
 # 황석희의 영화 같은 하루 183 Just don’t Waste Your Life Doing This

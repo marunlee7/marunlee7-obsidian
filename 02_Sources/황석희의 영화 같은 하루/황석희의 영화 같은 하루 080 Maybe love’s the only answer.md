@@ -1,7 +1,14 @@
 ---
-published: "2022-07-22T05:49:55.818Z"
+title: 황석희의 영화 같은 하루 080 Maybe love’s the only answer
 aliases: []
+published: "2022-07-22T05:49:55.818Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 080 Maybe love’s the only answer
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/07/23/AZ65RULT55A6DN4Q35KJY2B4NU/"
 ---
 # 황석희의 영화 같은 하루 080 Maybe love’s the only Answer

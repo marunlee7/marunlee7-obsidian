@@ -1,7 +1,14 @@
 ---
-published: "2023-05-12T06:00:27.560Z"
+title: 황석희의 영화 같은 하루 121 I’m the champion of failures
 aliases: []
+published: "2023-05-12T06:00:27.560Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 121 I’m the champion of failures
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/05/13/OAUCAHTS75EPREG7QIH64MP4MA/"
 ---
 # 황석희의 영화 같은 하루 121 I’m the Champion of Failures

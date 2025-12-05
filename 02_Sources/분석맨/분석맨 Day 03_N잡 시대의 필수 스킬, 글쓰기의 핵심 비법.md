@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 03_N잡 시대의 필수 스킬, 글쓰기의 핵심 비법
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 tags: [출처/외부_정보/아티클_웹]
 ---

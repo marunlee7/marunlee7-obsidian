@@ -1,22 +1,24 @@
 ---
-title: "T08_한자어휘사전_MOC"
+title: T08_한자어휘사전_MOC
 level: T08
 file_role: concept_moc
 
 parent: ""
 word_type: "" 
+status: planned
+priority: medium
+process: raw
 
-status: "" 
-priority: "" 
-process: "" 
 
 source_name: "" 
 source_author: ""
 source_type: ""
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 
 references: "" 
-tags:
-  - 출처/인덱스_구조/주제_MOC
+tags: [출처/인덱스_구조/주제_MOC]
 ---
 # 📚 T08. 한자어휘 사전 MOC
 

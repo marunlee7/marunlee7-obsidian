@@ -1,7 +1,14 @@
 ---
-published: "2024-02-14T05:40:32.645Z"
+title: 황석희의 영화 같은 하루 161 Home’s not a place
 aliases: []
+published: "2024-02-14T05:40:32.645Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 161 Home’s not a place
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/02/15/I2JQJM2MMRAMZKOBOOTOWO445U/"
 ---
 # 황석희의 영화 같은 하루 161 Home’s not a place

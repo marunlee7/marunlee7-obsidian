@@ -4,12 +4,16 @@ level: T09
 file_role: system_config
 parent: ""
 word_type: ""
-process: final
+status: planned
+priority: medium
+process: raw
 source_name: T-System Master Manual
 source_author: system
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: []
-tags:
-  - 영역/시스템/지식관리_규칙
+tags: [영역/시스템/지식관리_규칙]
 ---
 # 📜 T-System 템플릿 및 협업 규칙
 

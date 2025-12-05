@@ -1,10 +1,14 @@
 ---
 title: 주간, 월간 캘린더로 Tasks 할 일 보기 tasksCalendar
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: 주간, 월간 캘린더로 Tasks 할 일 보기 tasksCalendar
-source_type: " youtube"
 source_author: "북트레싱"
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=fl_ExilH9to&list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl&index=24
 links: 
 ---

@@ -1,10 +1,14 @@
 ---
 title: 월간, 연간 노트 만들기, Tracker 플러그인으로 습관 추적
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: 월간, 연간 노트 만들기, Tracker 플러그인으로 습관 추적
-source_type: " youtube"
 source_author: "북트레싱"
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=mcPAaVrA6b0&list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl&index=11
 links: 
 ---

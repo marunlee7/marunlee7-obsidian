@@ -1,8 +1,15 @@
 ---
-published:
+title: Media Extended Player Buttons (FREE)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Media Extended Player Buttons (FREE)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/e88097529a
 ---
 # Media Extended Player Buttons (FREE)

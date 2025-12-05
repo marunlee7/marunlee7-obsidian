@@ -1,5 +1,12 @@
 ---
+title: logseq 사람이 생각하는 법을 닮은 툴 - Roam Research와 Obsidianlo
+status: planned
+priority: medium
+process: raw
 source_name: logseq 사람이 생각하는 법을 닮은 툴 - Roam Research와 Obsidianlo
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 [%article%](https://luran.me/422)
 

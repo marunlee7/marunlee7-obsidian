@@ -1,7 +1,14 @@
 ---
-published: "2023-06-23T05:38:02.380Z"
+title: 황석희의 영화 같은 하루 127 It’s a dangerous thing to mistake speaking without thought for speaking the truth
 aliases: []
+published: "2023-06-23T05:38:02.380Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 127 It’s a dangerous thing to mistake speaking without thought for speaking the truth
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/06/24/DDINVSV65VBYPPBAHEETID42KI/"
 ---
 # 황석희의 영화 같은 하루 127 It’s a Dangerous Thing to Mistake Speaking without Thought for Speaking the Truth

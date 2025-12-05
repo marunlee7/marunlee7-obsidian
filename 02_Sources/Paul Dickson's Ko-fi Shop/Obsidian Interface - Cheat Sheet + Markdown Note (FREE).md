@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Interface - Cheat Sheet + Markdown Note (FREE)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Interface - Cheat Sheet + Markdown Note (FREE)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/98763e077d
 ---
 # Obsidian Interface - Cheat Sheet + Markdown Note (FREE)

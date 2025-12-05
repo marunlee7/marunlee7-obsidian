@@ -1,7 +1,14 @@
 ---
-published: "2024-09-08T02:24:11.210Z"
+title: 강헌의 히스토리 인 팝스 228 버버리(Burberry)의 몰락
 aliases: []
+published: "2024-09-08T02:24:11.210Z"
+status: planned
+priority: medium
+process: raw
 source_name: 강헌의 히스토리 인 팝스 228 버버리(Burberry)의 몰락
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/09/08/HV6DVOIIZVCPREMQCBETNDVLII/"
 ---
 # 강헌의 히스토리 인 팝스 228 버버리(Burberry)의 몰락

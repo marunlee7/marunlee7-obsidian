@@ -1,7 +1,7 @@
 ---
-published: 2022-03-16
 title: 10분 노트법 – 하루 10분 노트로 열정을 찾고 생산성을 높이는 방법  10x Lessons
 aliases: []
+published: 2022-03-16
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 10분 노트법 – 하루 10분 노트로 열정을 찾고 생산성을 높이는 방법  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2022/03/10min-daily-note-taking/"
 tags: [출처/외부_정보/아티클_웹]
 ---

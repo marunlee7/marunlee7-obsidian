@@ -1,7 +1,14 @@
 ---
-published: 2022-07-26T00:07:18+09:00
+title: 유튜브 노트 빠르게 생성하기 (with QuickAdd 플러그인)
 aliases: []
+published: 2022-07-26T00:07:18+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 유튜브 노트 빠르게 생성하기 (with QuickAdd 플러그인)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/176
 ---
 # 유튜브 노트 빠르게 생성하기 (with QuickAdd 플러그인)

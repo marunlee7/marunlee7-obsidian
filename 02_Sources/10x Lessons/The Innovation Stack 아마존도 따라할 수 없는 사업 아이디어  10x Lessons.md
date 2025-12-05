@@ -1,7 +1,7 @@
 ---
-published: 2020-04-06
 title: The Innovation Stack 아마존도 따라할 수 없는 사업 아이디어  10x Lessons
 aliases: []
+published: 2020-04-06
 level: T02
 file_role: article_atom
 parent: 10x Lessons
@@ -12,9 +12,11 @@ process: raw
 source_name: The Innovation Stack 아마존도 따라할 수 없는 사업 아이디어  10x Lessons
 source_author: 김태현
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://tkim.co/2020/04/the-innovation-stack-%ec%95%84%eb%a7%88%ec%a1%b4%eb%8f%84-%eb%94%b0%eb%9d%bc%ed%95%a0-%ec%88%98-%ec%97%86%eb%8a%94-%ec%82%ac%ec%97%85-%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4/
-tags:
-  - 출처/외부_정보/아티클_웹
+tags: [출처/외부_정보/아티클_웹]
 ---
 # The Innovation Stack 아마존도 따라할 수 없는 사업 아이디어 10x Lessons
 

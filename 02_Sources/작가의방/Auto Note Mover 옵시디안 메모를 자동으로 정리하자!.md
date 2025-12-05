@@ -1,6 +1,13 @@
 ---
+title: Auto Note Mover 옵시디안 메모를 자동으로 정리하자!
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: Auto Note Mover 옵시디안 메모를 자동으로 정리하자!
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=_3xGYkLJxc0&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=16
 links: 
 ---

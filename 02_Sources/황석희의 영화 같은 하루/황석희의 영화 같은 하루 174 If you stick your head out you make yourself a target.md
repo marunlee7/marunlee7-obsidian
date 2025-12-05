@@ -1,7 +1,14 @@
 ---
-published: "2024-05-29T05:07:19.175Z"
+title: 황석희의 영화 같은 하루 174 If you stick your head out you make yourself a target
 aliases: []
+published: "2024-05-29T05:07:19.175Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 174 If you stick your head out you make yourself a target
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/05/29/OM6RXMMZTRER7NXRN224U6DMB4/"
 ---
 # 황석희의 영화 같은 하루 174 If You Stick Your Head out You Make Yourself a Target

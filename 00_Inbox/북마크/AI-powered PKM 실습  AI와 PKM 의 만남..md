@@ -1,4 +1,5 @@
 ---
+title: AI-powered PKM 실습  AI와 PKM 의 만남.
 published: 2025-11-06
 level: T02
 file_role: article_atom
@@ -9,9 +10,13 @@ process: raw
 source_name: AI-powered PKM 실습  AI와 PKM 의 만남. 프로그래밍 언어 없이 일상 언어만으로 앱 개발. 직접 확인하세요.
 source_author: "[[Catch Up AI]]"
 source_type: youtube
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=SkeQinoBkDw
 tags: [출처/외부_수집/북마크]
 ---
+# AI-powered PKM 실습 AI와 PKM 의 만남.
 ![](https://www.youtube.com/watch?v=SkeQinoBkDw)  
 
 AI-powered PKM  

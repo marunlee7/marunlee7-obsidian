@@ -1,7 +1,14 @@
 ---
-published: 2020-08-04T11:24:00.638Z
+title: 조용헌 살롱 국민총행복(GNH)
 aliases: []
+published: 2020-08-04T11:24:00.638Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 국민총행복(GNH)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2008/12/23/2008122301655.html
 links: 
 ---

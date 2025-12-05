@@ -6,15 +6,16 @@ parent: ""
 word_type: ""
 status: planned
 priority: medium
-process: ""
+process: raw
 source_name: 10x Lessons - 10배 더 잘 살기 위해 몸부림치며 얻은 교훈들
 source_author: 김태현
 source_type: web
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://tkim.co/
-tags:
-  - 출처/외부_정보/아티클_웹
-  - 영역/지식관리
+tags: [출처/외부_정보/아티클_웹, 영역/지식관리]
 ---
 # 📚 T01. 10x Lessons (Master Index)
 

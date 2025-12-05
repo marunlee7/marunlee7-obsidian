@@ -1,21 +1,24 @@
 ---
-title: <% tp.file.title %>
+title: tp4_reflection 1
 
 level: "T04"
 file_role: "personal_analysis" 
 
 parent: "T02 원자 노트 제목"
+status: planned
+priority: medium
+process: raw
 
-status: "planned"
-priority: "medium"
-process: "raw"
 
 source_name: "t1,t2,t3전용"
-source_type: "reflection" 
 source_author: "self"
+source_type: "reflection" 
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 
 references: ""
-tags: ""
+tags: [""]
 ---
 # 📝 <% tp.file.title %>
 

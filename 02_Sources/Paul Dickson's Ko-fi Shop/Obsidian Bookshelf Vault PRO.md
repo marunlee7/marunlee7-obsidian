@@ -1,8 +1,15 @@
 ---
-published:
+title: Obsidian Bookshelf Vault PRO
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Obsidian Bookshelf Vault PRO
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/9920de3d00
 ---
 # Obsidian Bookshelf Vault PRO

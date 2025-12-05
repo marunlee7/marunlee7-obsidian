@@ -1,7 +1,14 @@
 ---
-published: "2022-01-28T04:41:58.347Z"
+title: 황석희의 영화 같은 하루 055 Our hearts and our bodies are given to us only once
 aliases: []
+published: "2022-01-28T04:41:58.347Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 055 Our hearts and our bodies are given to us only once
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/01/29/HR5GKZQ3AZBLFFNEH5PRLPQ3XU/"
 ---
 # 황석희의 영화 같은 하루 055 Our Hearts and Our Bodies Are given to Us only once

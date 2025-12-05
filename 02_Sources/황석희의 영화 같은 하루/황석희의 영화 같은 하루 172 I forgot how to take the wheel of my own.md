@@ -1,7 +1,14 @@
 ---
-published: "2024-05-01T04:54:25.071Z"
+title: 황석희의 영화 같은 하루 172 I forgot how to take the wheel of my own
 aliases: []
+published: "2024-05-01T04:54:25.071Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 172 I forgot how to take the wheel of my own
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/05/01/GR6SERSUY5HF3GT7BCJRRMJB44/"
 ---
 # 황석희의 영화 같은 하루 172 I Forgot how to Take the Wheel of My Own

@@ -3,14 +3,14 @@ title: Hword1 yaml 변경
 level: T02
 file_role: article_atom
 parent: 작업노트_2024
-status: completed
-priority: high
-process: draft
+status: planned
+priority: medium
+process: raw
 source_name: 
 source_author: self
 source_type: worknote
 action_required: link_to_t04
-difficulty: good
+difficulty:	good
 satisfaction: 3
 references: ""
 tags: [task, 출처/내부_활동/아이디어]

@@ -1,22 +1,25 @@
 ---
-title: <% tp.file.title %>
+title: tp2_article_atom 1
 
 level: T02
 file_role: article_atom
 
 parent: "T01 시리즈 제목"
 word_type: "t3전용"
+status: planned
+priority: medium
+process: raw
 
-status: "planned"
-priority: "medium"
-process: "raw"
 
 source_name: "기사 제목 또는 출처 파일명"
-source_type: "article"
 source_author: ""
+source_type: "article"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 
 references: "원문 링크 또는 페이지 번호"
-tags: ""
+tags: [""]
 ---
 # 📖 <% tp.file.title %>
 

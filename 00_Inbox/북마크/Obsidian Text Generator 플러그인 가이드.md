@@ -1,17 +1,22 @@
 ---
+title: Obsidian Text Generator 플러그인 가이드
 published:
 level: "T02"
 file_role: "article_atom"
 parent:
-status: "planned"
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: "Obsidian Text Generator 플.. : 네이버블로그"
 source_author:
 source_type: "video"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://blog.naver.com/cdecl/223975284440"
 tags: ["출처/외부_수집/북마크"]
 ---
+# Obsidian Text Generator 플러그인 가이드
 이 글에서는 Obsidian Text Generator 플러그인의 개념부터 기능, 설정 방법, 명령어, 예약어 사용법, 그리고 유용한 추가 기능까지 상세히 알아보겠습니다.
 
 ​

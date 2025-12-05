@@ -1,10 +1,15 @@
 ---
-title: "T08_High_Priority_Index"
+title: T08_High_Priority_Index
 level: T08
 file_role: concept_moc
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 
-tags:
-  - 출처/인덱스_구조/시스템_문서
+tags: [출처/인덱스_구조/시스템_문서]
 ---
 # ⚡ T08. 최고 중요도 인덱스 (High Priority Index)
 

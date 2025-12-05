@@ -1,3 +1,12 @@
+---
+title: tp1_hword_series
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
 <%* const T01Title = await tp.system.prompt("T01 시리즈 마스터 제목 입력 (예: 전광진의 하루한자와 격언)");
 const sourceAuthor = await tp.system.prompt("저자 이름 입력");
 const now = tp.date.now("YYYY-MM-DD");
@@ -29,7 +38,7 @@ checkbox: false
 read: false
 ---
 
-# <% T01Title %> (T01 마스터) 
+# <% T01Title %> (T01 마스터)
 
 
 ## 📕 T02 개별 칼럼 목록 (작업노트)

@@ -1,8 +1,15 @@
 ---
-published:
+title: Modal Form - Daily Note Journal Template (FREE)
 aliases: []
+published:
+status: planned
+priority: medium
+process: raw
 source_name: Modal Form - Daily Note Journal Template (FREE)
 source_author: "[[폴 딕슨]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://ko-fi.com/s/904b48acd1
 ---
 # Modal Form - Daily Note Journal Template (FREE)

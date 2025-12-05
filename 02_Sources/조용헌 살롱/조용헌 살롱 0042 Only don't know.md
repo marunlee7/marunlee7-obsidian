@@ -1,7 +1,14 @@
 ---
-published: 2020-08-12T16:25:09.514Z
+title: "조용헌 살롱 0042 Only don't know"
 aliases: []
+published: 2020-08-12T16:25:09.514Z
+status: planned
+priority: medium
+process: raw
 source_name: "조용헌 살롱 0042 Only don't know"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2004/12/08/2004120870465.html
 links: 
 ---

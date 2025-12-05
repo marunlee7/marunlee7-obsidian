@@ -1,7 +1,7 @@
 ---
-published: 2021-02-18
 title: 문서 작성법의 패러다임 시프트 롬리서치  10x Lessons
 aliases: []
+published: 2021-02-18
 level: T02
 file_role: article_atom
 parent: "10x Lessons"
@@ -12,6 +12,9 @@ process: raw
 source_name: 문서 작성법의 패러다임 시프트 롬리서치  10x Lessons
 source_author: "김태현"
 source_type: "web"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://tkim.co/2021/02/%eb%ac%b8%ec%84%9c-%ec%9e%91%ec%84%b1%eb%b2%95%ec%9d%98-%ed%8c%a8%eb%9f%ac%eb%8b%a4%ec%9e%84-%ec%8b%9c%ed%94%84%ed%8a%b8-%eb%a1%ac%eb%a6%ac%ec%84%9c%ec%b9%98/"
 tags: [출처/외부_정보/아티클_웹]
 ---

@@ -1,7 +1,14 @@
 ---
-published: 2024-02-12T19:25:22+09:00
+title: Fleeting Notes Sync 모바일 앱에서 빠르게 메모하여 옵시디언으로 동기화하기
 aliases: []
+published: 2024-02-12T19:25:22+09:00
+status: planned
+priority: medium
+process: raw
 source_name: Fleeting Notes Sync 모바일 앱에서 빠르게 메모하여 옵시디언으로 동기화하기
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/459
 ---
 # Fleeting Notes Sync 모바일 앱에서 빠르게 메모하여 옵시디언으로 동기화하기

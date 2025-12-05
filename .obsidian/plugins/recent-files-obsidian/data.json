@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "09_T-System_Master_Manual",
-      "path": "09_System/09_T-System_Master_Manual.md"
-    },
-    {
       "basename": "VS Code GUI(버튼) 작업",
       "path": "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md"
-    },
-    {
-      "basename": "VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리",
-      "path": "02_Sources/작업노트_2025/VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리.md"
-    },
-    {
-      "basename": "T-시스템 구조 변경 작업 리스트",
-      "path": "02_Sources/작업노트_2025/T-시스템 구조 변경 작업 리스트.md"
     },
     {
       "basename": "작업노트_2025",
@@ -25,8 +13,72 @@
       "path": "02_Sources/T02_VSCode_Core_Categories.md"
     },
     {
+      "basename": "T03_Concept_Settings Sync",
+      "path": "03_Concepts/앱 용어/T03_Concept_Settings Sync.md"
+    },
+    {
       "basename": "T01_VSCode_Index",
       "path": "01_Index/T01_VSCode_Index.md"
+    },
+    {
+      "basename": "09_T-System_Master_Manual",
+      "path": "09_System/09_T-System_Master_Manual.md"
+    },
+    {
+      "basename": "독서의 생산성을 높이는 방법, ‘밑줄’",
+      "path": "02_Sources/3번 읽기의 힘-김범준/독서의 생산성을 높이는 방법, ‘밑줄’.md"
+    },
+    {
+      "basename": "네오필리아 스타일의 독서법을 추구함",
+      "path": "02_Sources/3번 읽기의 힘-김범준/네오필리아 스타일의 독서법을 추구함.md"
+    },
+    {
+      "basename": "내 인생의 클래스 찾아내는 법",
+      "path": "02_Sources/3번 읽기의 힘-김범준/내 인생의 클래스 찾아내는 법.md"
+    },
+    {
+      "basename": "끝까지 해내는 힘",
+      "path": "02_Sources/3번 읽기의 힘-김범준/끝까지 해내는 힘.md"
+    },
+    {
+      "basename": "분석맨 소개 및 목차",
+      "path": "02_Sources/000_context/분석맨 소개 및 목차.md"
+    },
+    {
+      "basename": "손정 작가 방법론을 따르는 것이 최적인 이유",
+      "path": "00_Inbox/북마크/손정 작가 방법론을 따르는 것이 최적인 이유.md"
+    },
+    {
+      "basename": "미묘한 메모의 묘미",
+      "path": "01_Index/미묘한 메모의 묘미.md"
+    },
+    {
+      "basename": "내 일을 위한 기록",
+      "path": "01_Index/내 일을 위한 기록.md"
+    },
+    {
+      "basename": "전광진의 하루한자와 격언 1899 株式(주식)",
+      "path": "02_Sources/전광진의 하루한자/전광진의 하루한자와 격언 1899 株式(주식).md"
+    },
+    {
+      "basename": "옵시디언",
+      "path": "01_Index/옵시디언.md"
+    },
+    {
+      "basename": "노트 템플릿",
+      "path": "01_Index/노트 템플릿.md"
+    },
+    {
+      "basename": "하루 한자 공부 1112 能",
+      "path": "02_Sources/하루 한자 공부/하루 한자 공부 1112 能.md"
+    },
+    {
+      "basename": "VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리",
+      "path": "02_Sources/작업노트_2025/VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리.md"
+    },
+    {
+      "basename": "T-시스템 구조 변경 작업 리스트",
+      "path": "02_Sources/작업노트_2025/T-시스템 구조 변경 작업 리스트.md"
     },
     {
       "basename": "action_required, difficulty, satisfaction",
@@ -65,10 +117,6 @@
       "path": "09_System/tp/01/T01_Series_Index_Template.md"
     },
     {
-      "basename": "노트 템플릿",
-      "path": "01_Index/노트 템플릿.md"
-    },
-    {
       "basename": "T03 개념어 사전의 정보 완결성 기반 템플릿 최종 확정",
       "path": "02_Sources/작업노트_2024/T03 개념어 사전의 정보 완결성 기반 템플릿 최종 확정.md"
     },
@@ -103,10 +151,6 @@
     {
       "basename": "T03_Concept_Command Palette",
       "path": "03_Concepts/앱 용어/T03_Concept_Command Palette.md"
-    },
-    {
-      "basename": "T03_Concept_Settings Sync",
-      "path": "03_Concepts/앱 용어/T03_Concept_Settings Sync.md"
     },
     {
       "basename": "T03_Concept_Snippet",
@@ -155,50 +199,6 @@
     {
       "basename": "歌詞",
       "path": "03_Concepts/한자암기박사/歌詞.md"
-    },
-    {
-      "basename": "可恐",
-      "path": "03_Concepts/한자암기박사/可恐.md"
-    },
-    {
-      "basename": "呵呵",
-      "path": "03_Concepts/한자암기박사/呵呵.md"
-    },
-    {
-      "basename": "呵",
-      "path": "03_Concepts/어문회 배정한자/1급/呵.md"
-    },
-    {
-      "basename": "呵呵大笑",
-      "path": "03_Concepts/고사성어일촌맺기/呵呵大笑.md"
-    },
-    {
-      "basename": "Schadenfreude",
-      "path": "03_Concepts/한자사전/Schadenfreude.md"
-    },
-    {
-      "basename": "利益",
-      "path": "03_Concepts/한자사전/利益.md"
-    },
-    {
-      "basename": "T03 템플릿의 YAML 필드 변화 및 태그 구조 개선 확인",
-      "path": "02_Sources/작업노트_2024/T03 템플릿의 YAML 필드 변화 및 태그 구조 개선 확인.md"
-    },
-    {
-      "basename": "IPA",
-      "path": "03_Concepts/앱 용어/IPA.md"
-    },
-    {
-      "basename": "T03_Concept_Generator_Templater",
-      "path": "09_System/tp/01/T03_Concept_Generator_Templater.md"
-    },
-    {
-      "basename": "T03 한자 어휘 템플릿",
-      "path": "09_System/tp/01/T03 한자 어휘 템플릿.md"
-    },
-    {
-      "basename": "T02_Source_Note_Template",
-      "path": "09_System/tp/01/T02_Source_Note_Template.md"
     }
   ],
   "omittedPaths": [],

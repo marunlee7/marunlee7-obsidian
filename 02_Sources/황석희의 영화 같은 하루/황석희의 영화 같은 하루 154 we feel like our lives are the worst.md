@@ -1,7 +1,14 @@
 ---
-published: "2023-12-27T06:22:28.113Z"
+title: 황석희의 영화 같은 하루 154 we feel like our lives are the worst
 aliases: []
+published: "2023-12-27T06:22:28.113Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 154 we feel like our lives are the worst
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/12/28/WHYUDQWTGVGPRP3IF5HHRRQF7Q/"
 ---
 # 황석희의 영화 같은 하루 154 We Feel like Our Lives Are the Worst

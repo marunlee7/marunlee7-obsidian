@@ -1,7 +1,14 @@
 ---
-published: "2023-06-30T06:40:54.463Z"
+title: 황석희의 영화 같은 하루 128 I’mma do my own thing
 aliases: []
+published: "2023-06-30T06:40:54.463Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 128 I’mma do my own thing
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/07/01/JE4MBJTOLNBC3PQ73H325JCNYU/"
 ---
 # 황석희의 영화 같은 하루 128 I’mma Do My Own Thing

@@ -1,7 +1,7 @@
 ---
-published: 2020-06-29
 title: 노코드 Stacker 스프레드시트를 공유하는 업무를 자동화하는 웹앱 빌더  10x Lessons
 aliases: []
+published: 2020-06-29
 level: T02
 file_role: article_atom
 parent: 10x Lessons
@@ -12,9 +12,11 @@ process: raw
 source_name: 노코드 Stacker 스프레드시트를 공유하는 업무를 자동화하는 웹앱 빌더  10x Lessons
 source_author: 김태현
 source_type: article
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://tkim.co/2020/06/stacker-%ec%8a%a4%ed%94%84%eb%a0%88%eb%93%9c%ec%8b%9c%ed%8a%b8%eb%a5%bc-%ea%b3%b5%ec%9c%a0%ed%95%98%eb%8a%94-%ec%97%85%eb%ac%b4%eb%a5%bc-%ec%9e%90%eb%8f%99%ed%99%94%ed%95%98%eb%8a%94-%ec%9b%b9/
-tags:
-  - 출처/외부_정보/아티클_웹
+tags: [출처/외부_정보/아티클_웹]
 ---
 # 노코드 Stacker 스프레드시트를 공유하는 업무를 자동화하는 웹앱 빌더 10x Lessons
 

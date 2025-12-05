@@ -1,5 +1,12 @@
 ---
+title: logseq - Roam Research의 훌륭한 대체제
+status: planned
+priority: medium
+process: raw
 source_name: logseq - Roam Research의 훌륭한 대체제
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 ---
 [%article%](https://luran.me/424)
 

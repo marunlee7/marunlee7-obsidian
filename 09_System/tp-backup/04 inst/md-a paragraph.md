@@ -1,3 +1,13 @@
+---
+title: md-a paragraph
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
+# Md-a Paragraph
 `[[칼럼 단락별 체크리스트]]`
 `나의 시도`
 - 1단락 : 시작 → 9. 대조/비교

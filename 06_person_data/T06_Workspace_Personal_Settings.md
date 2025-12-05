@@ -1,16 +1,20 @@
 ---
-title: T06_프로필_Workspace 개인 설정
-level: T06
-file_role: person_profile
-parent: T02_VSCode_Core_Categories
 domain:
   - 책임_영역/인물_DB
 source:
-  - 내부/T05_발췌
   - 외부/구글_검색
-tags:
-  - 개념/vscode
-  - 앱/VSCode
+  - 내부/T05_발췌
+title: T06_Workspace_Personal_Settings
+level: T06
+file_role: person_profile
+parent: T02_VSCode_Core_Categories
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+tags: [앱/VSCode, 개념/vscode]
 ---
 # 👤 Workspace 개인 설정
 

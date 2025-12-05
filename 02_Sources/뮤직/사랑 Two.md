@@ -1,6 +1,13 @@
 ---
+title: 사랑 Two
+status: planned
+priority: medium
+process: raw
 source_name: 사랑 Two
 source_author: "[[윤도현]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # 사랑 Two - 윤도현

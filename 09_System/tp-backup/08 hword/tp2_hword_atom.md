@@ -1,3 +1,12 @@
+---
+title: tp2_hword_atom
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
 <%*
 const T02Title = await tp.system.prompt("T02 칼럼 제목 입력 (예: 煩多(번다))");
 

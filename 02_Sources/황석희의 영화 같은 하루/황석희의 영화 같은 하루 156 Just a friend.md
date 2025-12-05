@@ -1,7 +1,14 @@
 ---
-published: "2024-01-10T05:42:08.309Z"
+title: 황석희의 영화 같은 하루 156 Just a friend
 aliases: []
+published: "2024-01-10T05:42:08.309Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 156 Just a friend
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/01/11/4MCCRWL4JRCSJHTN4MQQ56GYFQ/"
 ---
 # 황석희의 영화 같은 하루 156 Just a Friend

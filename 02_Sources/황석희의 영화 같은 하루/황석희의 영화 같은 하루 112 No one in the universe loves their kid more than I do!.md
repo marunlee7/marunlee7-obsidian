@@ -1,7 +1,14 @@
 ---
-published: "2023-03-10T06:06:24.237Z"
+title: 황석희의 영화 같은 하루 112 No one in the universe loves their kid more than I do!
 aliases: []
+published: "2023-03-10T06:06:24.237Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 112 No one in the universe loves their kid more than I do!
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/03/11/5LJNDDEHHJHN5NP4734YHSDTVY/"
 ---
 # 황석희의 영화 같은 하루 112 No One in the Universe Loves Their Kid More than I Do!

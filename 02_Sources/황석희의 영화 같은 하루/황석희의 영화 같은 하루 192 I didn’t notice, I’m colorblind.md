@@ -1,7 +1,14 @@
 ---
-published: 2025-02-12T05:17:58.528Z
+title: 황석희의 영화 같은 하루 192 I didn’t notice, I’m colorblind
 aliases: []
+published: 2025-02-12T05:17:58.528Z
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 192 I didn’t notice, I’m colorblind
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/opinion/specialist_column/2025/02/12/D5Z4TCOOONBWJAQE73336CGI7Y/
 ---
 # 황석희의 영화 같은 하루 192 I didn’t Notice, I’m Colorblind

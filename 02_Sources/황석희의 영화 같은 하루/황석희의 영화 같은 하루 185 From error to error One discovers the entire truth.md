@@ -1,7 +1,14 @@
 ---
-published: "2024-10-30T02:35:31.484Z"
+title: 황석희의 영화 같은 하루 185 From error to error One discovers the entire truth
 aliases: []
+published: "2024-10-30T02:35:31.484Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 185 From error to error One discovers the entire truth
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/10/30/ATYGT364BRECJAIDDBQ73K3H2I/"
 ---
 # 황석희의 영화 같은 하루 185 From Error to Error One Discovers the Entire Truth

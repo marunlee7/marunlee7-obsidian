@@ -1,22 +1,24 @@
 ---
-title: "T08_Draft_Process_Index"
+title: T08_Draft_Process_Index
 level: T08
 file_role: concept_moc
 
 parent: ""
 word_type: "" 
+status: planned
+priority: medium
+process: raw
 
-status: "" 
-priority: "" 
-process: "" 
 
 source_name: "" 
 source_author: ""
 source_type: ""
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 
 references: "" 
-tags:
-  - 출처/인덱스_구조/시스템_문서
+tags: [출처/인덱스_구조/시스템_문서]
 ---
 # 📊 T08. 초안 품질 인덱스 (Draft Process Index)
 [[문장수집-공부라는 구체적 경험을 다시 배우는 여름이다]]

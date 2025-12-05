@@ -1,7 +1,14 @@
 ---
-published: "2024-07-24T05:34:24.396Z"
+title: 황석희의 영화 같은 하루 178 It’s time to remember who you are
 aliases: []
+published: "2024-07-24T05:34:24.396Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 178 It’s time to remember who you are
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/07/24/5F23E4U6MZB6ZBWPG5XTUAABX4/"
 ---
 # 황석희의 영화 같은 하루 178 It’s time to Remember Who You Are

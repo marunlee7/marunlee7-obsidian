@@ -1,7 +1,14 @@
 ---
-published: "2024-11-13T05:55:36.243Z"
+title: 황석희의 영화 같은 하루 186 It’s not your disability
 aliases: []
+published: "2024-11-13T05:55:36.243Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 186 It’s not your disability
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/11/13/L6PCSVO75REBDCWZJJ7CYN6PKE/"
 ---
 # 황석희의 영화 같은 하루 186 It’s not Your Disability

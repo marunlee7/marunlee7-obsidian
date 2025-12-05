@@ -1,6 +1,6 @@
 ---
-aliases: []
 title: T02_VSCode_Core_Categories
+aliases: []
 published: ""
 level: T02
 file_role: article_atom
@@ -13,13 +13,11 @@ source_name: ""
 source_author: ""
 source_type: ""
 action_required: link_to_t04
-difficulty: good
+difficulty:	good
 satisfaction: 3
 references:
   - ""
-tags:
-  - 앱스/vscode
-  - 출처/내부_활동/앱_학습
+tags: [출처/내부_활동/앱_학습, 앱스/vscode]
 ---
 # 📖 T02_VSCode_Core_Categories (Source Note)
 

@@ -1,7 +1,14 @@
 ---
-published: "2022-07-15T07:24:20.499Z"
+title: 황석희의 영화 같은 하루 079 I’m gonna live a different kind of life
 aliases: []
+published: "2022-07-15T07:24:20.499Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 079 I’m gonna live a different kind of life
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2022/07/16/CKP477O53RHZZB3ZXYGQ43KH3I/"
 ---
 # 황석희의 영화 같은 하루 079 I’m Gonna Live a Different Kind of Life

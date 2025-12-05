@@ -1,7 +1,14 @@
 ---
-published: 2022-04-07T21:54:06+09:00
+title: 옵시디언 책 검색 플러그인 (Book Search Plugin v0.1.0)
 aliases: []
+published: 2022-04-07T21:54:06+09:00
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디언 책 검색 플러그인 (Book Search Plugin v0.1.0)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/165
 ---
 # 옵시디언 책 검색 플러그인 (Book Search Plugin v0.1.0)

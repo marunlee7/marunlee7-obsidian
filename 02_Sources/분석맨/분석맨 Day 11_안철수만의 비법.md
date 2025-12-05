@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 11_안철수만의 비법
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
   - https://secondbrain.analysisman.com/Calendar/1_DailyNote/Day+11_%EC%95%88%EC%B2%A0%EC%88%98%EB%A7%8C%EC%9D%98+%EB%B9%84%EB%B2%95
 tags: [출처/외부_정보/아티클_웹]

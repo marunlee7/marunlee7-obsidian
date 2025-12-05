@@ -1,7 +1,14 @@
 ---
-published: 2020-08-05T20:06:56.959Z
+title: 조용헌 살롱 용연향(Ambergris)
 aliases: []
+published: 2020-08-05T20:06:56.959Z
+status: planned
+priority: medium
+process: raw
 source_name: 조용헌 살롱 용연향(Ambergris)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.chosun.com/site/data/html_dir/2006/02/01/2006020170480.html
 links: 
 ---

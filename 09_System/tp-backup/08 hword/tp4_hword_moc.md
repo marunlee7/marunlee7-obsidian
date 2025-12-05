@@ -1,3 +1,12 @@
+---
+title: tp4_hword_moc
+status: planned
+priority: medium
+process: raw
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
+---
 <%*
 const now = tp.date.now("YYYY-MM-DD");
 const mocTag = await tp.system.suggester(["개념/관계_상호작용", "개념/자기조절", "개념/인식_사고"], ["개념/관계_상호작용"], false, "MOC의 핵심 Level 2 태그 지정");

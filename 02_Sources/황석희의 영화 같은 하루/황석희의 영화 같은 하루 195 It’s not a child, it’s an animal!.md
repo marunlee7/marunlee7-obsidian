@@ -1,7 +1,14 @@
 ---
-published: "2025-03-26T06:08:27.044Z"
+title: 황석희의 영화 같은 하루 195 It’s not a child, it’s an animal!
 aliases: []
+published: "2025-03-26T06:08:27.044Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 195 It’s not a child, it’s an animal!
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2025/03/27/QDTCLFYFCFEGZJJMD42YJN2OYM/"
 ---
 # 황석희의 영화 같은 하루 195 It’s not a Child, it’s an Animal!

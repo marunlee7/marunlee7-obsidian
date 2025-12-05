@@ -1,7 +1,14 @@
 ---
-published: "2023-08-30T05:02:11.041Z"
+title: 황석희의 영화 같은 하루 137 that man will never work a day in his life
 aliases: []
+published: "2023-08-30T05:02:11.041Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 137 that man will never work a day in his life
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/08/31/5KA7L4WOHFEJLKINFFB7OIZSGM/"
 ---
 # 황석희의 영화 같은 하루 137 that Man Will Never Work a Day in His Life

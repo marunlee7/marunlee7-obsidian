@@ -1,7 +1,14 @@
 ---
-published: "2023-02-17T06:14:23.957Z"
+title: 황석희의 영화 같은 하루 109 Mom would be too
 aliases: []
+published: "2023-02-17T06:14:23.957Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 109 Mom would be too
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/02/18/GWICSAOE45GM5IQ2E7GZFV7AFI/"
 ---
 # 황석희의 영화 같은 하루 109 Mom Would Be Too

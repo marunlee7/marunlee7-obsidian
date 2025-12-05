@@ -1,7 +1,14 @@
 ---
-published: "2023-01-27T00:57:20.016Z"
+title: 황석희의 영화 같은 하루 106 I’m not ready
 aliases: []
+published: "2023-01-27T00:57:20.016Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 106 I’m not ready
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/01/28/SVYRVYOQAREDZL2RG7CL6TKQP4/"
 ---
 # 황석희의 영화 같은 하루 106 I’m not Ready

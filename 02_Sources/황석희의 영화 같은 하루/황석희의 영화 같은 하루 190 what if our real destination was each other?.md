@@ -1,7 +1,14 @@
 ---
-published: "2025-01-08T02:29:54.701Z"
+title: 황석희의 영화 같은 하루 190 what if our real destination was each other?
 aliases: []
+published: "2025-01-08T02:29:54.701Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 190 what if our real destination was each other?
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2025/01/08/TKU2FMROIVHK5ECRWSEFGH6OYI/"
 ---
 # 황석희의 영화 같은 하루 190 what if Our Real Destination Was Each Other?

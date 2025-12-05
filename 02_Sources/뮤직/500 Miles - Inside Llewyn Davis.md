@@ -1,6 +1,13 @@
 ---
+title: 500 Miles - Inside Llewyn Davis
+status: planned
+priority: medium
+process: raw
 source_name: 500 Miles - Inside Llewyn Davis
 source_author: "[[Inside Llewyn Davis]]"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 ---
 # 500 Miles - Inside Llewyn Davis

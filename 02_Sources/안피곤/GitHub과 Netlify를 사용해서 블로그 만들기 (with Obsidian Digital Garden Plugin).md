@@ -1,7 +1,14 @@
 ---
-published: 2022-04-24T22:06:15+09:00
+title: GitHub과 Netlify를 사용해서 블로그 만들기 (with Obsidian Digital Garden Plugin)
 aliases: []
+published: 2022-04-24T22:06:15+09:00
+status: planned
+priority: medium
+process: raw
 source_name: GitHub과 Netlify를 사용해서 블로그 만들기 (with Obsidian Digital Garden Plugin)
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://anpigon.tistory.com/167
 ---
 # GitHub과 Netlify를 사용해서 블로그 만들기 (with Obsidian Digital Garden Plugin)

@@ -1,6 +1,13 @@
 ---
+title: 시간에 이름표를 붙이자! 옵시디안 시간 관리 플러그인 Day Planner
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 시간에 이름표를 붙이자! 옵시디안 시간 관리 플러그인 Day Planner
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=3DvKX5fe9sc&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=3
 links: 
 ---

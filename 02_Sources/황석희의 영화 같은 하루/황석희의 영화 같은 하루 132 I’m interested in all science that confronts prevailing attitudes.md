@@ -1,7 +1,14 @@
 ---
-published: "2023-07-28T05:56:08.892Z"
+title: 황석희의 영화 같은 하루 132 I’m interested in all science that confronts prevailing attitudes
 aliases: []
+published: "2023-07-28T05:56:08.892Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 132 I’m interested in all science that confronts prevailing attitudes
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/07/29/HVN4M23S7JG6HKYOJIHZLE6RTM/"
 ---
 # 황석희의 영화 같은 하루 132 I’m Interested in All Science that Confronts Prevailing Attitudes

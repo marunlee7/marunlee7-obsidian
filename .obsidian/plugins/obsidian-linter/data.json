@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": ""
+      "text-to-insert": "status: planned\npriority: medium\nprocess: raw\naction_required: link_to_t04\ndifficulty:\tgood\nsatisfaction: 3"
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -31,7 +31,7 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": "parent"
+      "yaml-keys-to-remove": ""
     },
     "yaml-key-sort": {
       "enabled": true,
@@ -299,135 +299,9 @@
   ],
   "customRegexes": [
     {
-      "label": "finish_read_date",
-      "find": "today_reading",
-      "replace": "reading_book",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "리딩",
-      "find": "",
-      "replace": "title",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "hword1 description",
-      "find": "解說",
-      "replace": "meaning",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "hword2 n_search",
-      "find": "檢索",
-      "replace": "ndic",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "공통",
-      "find": "book_note",
-      "replace": "book_notes",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "book_note",
-      "find": "book_notes",
-      "replace": "topics",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "relaated",
-      "find": "related_notes",
-      "replace": "links",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "H1 헤드만 삭제",
-      "find": "^# .*$\\n?",
-      "replace": "",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "각 문단 첫줄 공백제거",
-      "find": "^[ \\t]+",
-      "replace": "",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
       "label": "본문  기존 텍스트의 문단 끝 또는 빈 줄 뒤에 빈 줄 추가",
       "find": "^(?!---)(?!#)([^\\n]+)\\n(?!\\n|#|---)",
       "replace": "$1\\n\\n",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "사색 바꾸기",
-      "find": "^## 사색$",
-      "replace": "\\n## 📓 청상\\n\\n",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "본문 끝 추가+프론트매터 제외",
-      "find": "(?s)$",
-      "replace": "\\n\\n바람주니",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "저널",
-      "find": "리딩",
-      "replace": "toRead",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "naver_dic",
-      "find": "naver_dic",
-      "replace": "ndic",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "han_sound",
-      "find": "han_sound",
-      "replace": "sound",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "han_meaning",
-      "find": "han_meaning",
-      "replace": "meaning",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "links",
-      "find": "links",
-      "replace": "references",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "abbreviation",
-      "find": "abbreviation",
-      "replace": "abbr",
-      "flags": "gm",
-      "enabled": false
-    },
-    {
-      "label": "source_source_author",
-      "find": "source_source_author",
-      "replace": "source_author",
       "flags": "gm",
       "enabled": false
     }

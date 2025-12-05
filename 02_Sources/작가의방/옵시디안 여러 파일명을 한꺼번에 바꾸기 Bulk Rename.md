@@ -1,6 +1,13 @@
 ---
+title: 옵시디안 여러 파일명을 한꺼번에 바꾸기 Bulk Rename
 aliases: []
+status: planned
+priority: medium
+process: raw
 source_name: 옵시디안 여러 파일명을 한꺼번에 바꾸기 Bulk Rename
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=IZgCl_p78sM&list=PLy4SLsxzyLUUqeeQzFyXoS750M3_km_pq&index=12
 links: 
 ---

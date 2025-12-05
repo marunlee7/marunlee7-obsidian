@@ -1,4 +1,5 @@
 ---
+title: 문장수집 템플릿 제작자 크리에이터정  Notion (노션) 마켓플레이스
 published: 2025-11-23
 level: T02
 file_role: article_atom
@@ -9,11 +10,14 @@ process: raw
 source_name: 문장수집 템플릿 제작자 크리에이터정 | Notion (노션) 마켓플레이스
 source_author: "[[박껑자]]"
 source_type: video
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.notion.com/ko/templates/sense-and-sentence
-tags:
-  - 출처/외부_수집/북마크
+tags: [출처/외부_수집/북마크]
 ---
-##### 템플릿 설명
+# 문장수집 템플릿 제작자 크리에이터정 Notion (노션) 마켓플레이스
+## 템플릿 설명
 
 **문장을 모으는 데 그치지 않고, 꺼내 쓰는 것까지 고려한 창작자용 문장 수집 노트입니다.**  
 좋은 문장을 수집해두고도 막상 글을 쓸 때 떠오르지 않았던 경험, 한 번쯤 있으셨을 겁니다. 저 역시 그런 문제의식을 갖고 이 템플릿을 만들게 되었습니다.

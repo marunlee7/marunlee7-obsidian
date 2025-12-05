@@ -1,10 +1,14 @@
 ---
 title: 나만의 지도 만들기, 옵시디언 지도 위치 표시 Map View
-priority: "medium"
-process: "raw"
+status: planned
+priority: medium
+process: raw
 source_name: 나만의 지도 만들기, 옵시디언 지도 위치 표시 Map View
-source_type: " youtube"
 source_author: "북트레싱"
+source_type: " youtube"
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: https://www.youtube.com/watch?v=yLwZk86LoCk&list=PL-KPFbwFiAWA3bR3QSK3w6r_XM0KRzEFl&index=25
 links: 
 ---

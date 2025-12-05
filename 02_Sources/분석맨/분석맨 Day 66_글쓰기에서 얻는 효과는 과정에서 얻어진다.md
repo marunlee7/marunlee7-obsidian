@@ -11,6 +11,9 @@ process: raw
 source_name: 분석맨 Day 66_글쓰기에서 얻는 효과는 과정에서 얻어진다
 source_author: "분석맨"
 source_type: "web"  
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references:
 tags: [출처/외부_정보/아티클_웹]
 ---

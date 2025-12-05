@@ -1,7 +1,14 @@
 ---
-published: "2024-01-31T06:18:09.349Z"
+title: 황석희의 영화 같은 하루 159 They’re not real!
 aliases: []
+published: "2024-01-31T06:18:09.349Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 159 They’re not real!
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2024/02/01/Y2FV3WNJB5EVDPWJ73FOBBXI64/"
 ---
 # 황석희의 영화 같은 하루 159 They’re not Real!

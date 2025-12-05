@@ -1,7 +1,14 @@
 ---
-published: "2023-04-07T05:08:57.249Z"
+title: 황석희의 영화 같은 하루 116 Let me strike him in return
 aliases: []
+published: "2023-04-07T05:08:57.249Z"
+status: planned
+priority: medium
+process: raw
 source_name: 황석희의 영화 같은 하루 116 Let me strike him in return
+action_required: link_to_t04
+difficulty:	good
+satisfaction: 3
 references: "https://www.chosun.com/opinion/specialist_column/2023/04/08/5W646QWNS5G35IMABAVAMQGN7E/"
 ---
 # 황석희의 영화 같은 하루 116 Let Me Strike Him in return
