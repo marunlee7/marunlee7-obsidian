@@ -4,7 +4,7 @@ level: T05
 file_role: sentence_collection
 parent: T02_VSCode_Core_Categories
 priority: medium
-action_required: deep_dive
+action_required: link_to_t04
 difficulty: good
 references: []
 tags:

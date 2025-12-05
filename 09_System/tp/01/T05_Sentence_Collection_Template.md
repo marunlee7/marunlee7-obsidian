@@ -6,7 +6,7 @@ file_role: sentence_collection
 parent: "{{value:T02_Filename_Input}}"
 
 priority: medium 
-action_required: deep_dive 
+action_required: link_to_t04 
 difficulty: good
 references: [] 
 tags: 활용/{{value:학습_성장,영감_창작,감정_공명,일상_대화,논증_강화,사회_조화}}

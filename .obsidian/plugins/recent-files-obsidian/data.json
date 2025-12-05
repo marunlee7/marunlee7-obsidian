@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VS Code GUI(버튼) 작업",
+      "path": "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md"
+    },
+    {
       "basename": "T-시스템 구조 변경 작업 리스트",
       "path": "02_Sources/작업노트_2025/T-시스템 구조 변경 작업 리스트.md"
     },
@@ -9,8 +13,20 @@
       "path": "01_Index/작업노트_2025.md"
     },
     {
+      "basename": "T02_VSCode_Core_Categories",
+      "path": "02_Sources/T02_VSCode_Core_Categories.md"
+    },
+    {
+      "basename": "T01_VSCode_Index",
+      "path": "01_Index/T01_VSCode_Index.md"
+    },
+    {
       "basename": "09_T-System_Master_Manual",
       "path": "09_System/09_T-System_Master_Manual.md"
+    },
+    {
+      "basename": "action_required, difficulty, satisfaction",
+      "path": "09_System/가이드라인/action_required, difficulty, satisfaction.md"
     },
     {
       "basename": "Hword1 yaml 변경",
@@ -41,10 +57,6 @@
       "path": "09_System/가이드라인/finalized, critical.md"
     },
     {
-      "basename": "action_required, difficulty, satisfaction",
-      "path": "09_System/가이드라인/action_required, difficulty, satisfaction.md"
-    },
-    {
       "basename": "T01_Series_Index_Template",
       "path": "09_System/tp/01/T01_Series_Index_Template.md"
     },
@@ -67,14 +79,6 @@
     {
       "basename": "T08_All_T01_Series_Index",
       "path": "08_MOCs/T08_All_T01_Series_Index.md"
-    },
-    {
-      "basename": "T01_VSCode_Index",
-      "path": "01_Index/T01_VSCode_Index.md"
-    },
-    {
-      "basename": "T02_VSCode_Core_Categories",
-      "path": "02_Sources/T02_VSCode_Core_Categories.md"
     },
     {
       "basename": "김정운의 감언이설 '구체화'할 수 없다면 가짜다",
@@ -195,10 +199,6 @@
     {
       "basename": "YAML 필드의 적용 범위, 값 목록, 용례에 대한 상세 정리 및 최종 템플릿 본문 헤딩 확인",
       "path": "02_Sources/작업노트_2024/YAML 필드의 적용 범위, 값 목록, 용례에 대한 상세 정리 및 최종 템플릿 본문 헤딩 확인.md"
-    },
-    {
-      "basename": "T02_Source_Note_Template_작업노트",
-      "path": "09_System/tp/01/T02_Source_Note_Template_작업노트.md"
     }
   ],
   "omittedPaths": [],

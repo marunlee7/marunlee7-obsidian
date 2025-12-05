@@ -9,7 +9,7 @@ priority: high
 process: raw
 source_author: self
 source_type: worknote
-action_required: deep_dive
+action_required: link_to_t04
 difficulty: good
 satisfaction: 5
 references: "[[노트의 생애 주기(Life Cycle)]]"

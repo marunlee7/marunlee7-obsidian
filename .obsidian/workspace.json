@@ -10,7 +10,7 @@
           {
             "id": "fd4e37b91dba2691",
             "type": "tabs",
-            "dimension": 43.09210526315789,
+            "dimension": 51.62019593067069,
             "children": [
               {
                 "id": "308719b810faea3b",
@@ -73,7 +73,7 @@
                   "state": {
                     "file": "01_Index/작업노트_2025.md",
                     "mode": "source",
-                    "source": true,
+                    "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -91,12 +91,12 @@
                 }
               },
               {
-                "id": "43ed3e533c086a67",
+                "id": "b729b8e0bc1ba7b4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "09_System/09_T-System_Master_Manual.md",
+                    "file": "02_Sources/T02_VSCode_Core_Categories.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -111,7 +111,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "09_T-System_Master_Manual"
+                  "title": "T02_VSCode_Core_Categories"
                 }
               }
             ],
@@ -120,7 +120,7 @@
           {
             "id": "cf2f4efe2257debb",
             "type": "tabs",
-            "dimension": 56.9078947368421,
+            "dimension": 48.37980406932931,
             "children": [
               {
                 "id": "80660d864cf631bf",
@@ -149,12 +149,12 @@
                 }
               },
               {
-                "id": "fd096df92b0cd840",
+                "id": "bc9eca966aa5c255",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02_Sources/작업노트_2025/T-시스템 구조 변경 작업 리스트.md",
+                    "file": "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -169,7 +169,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "T-시스템 구조 변경 작업 리스트"
+                  "title": "VS Code GUI(버튼) 작업"
                 }
               }
             ],
@@ -364,35 +364,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fd096df92b0cd840",
+  "active": "bc9eca966aa5c255",
   "lastOpenFiles": [
-    "01_Index/작업노트_2025.md",
     "02_Sources/작업노트_2025/T-시스템 구조 변경 작업 리스트.md",
+    "01_Index/작업노트_2025.md",
+    "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md",
+    "02_Sources/T02_VSCode_Core_Categories.md",
+    "01_Index/T01_VSCode_Index.md",
     "09_System/09_T-System_Master_Manual.md",
-    "02_Sources/작업노트_2024/Hword1 yaml 변경.md",
-    "01_Index/작업노트_2024.md",
-    "02_Sources/작업노트_2024/T01 템플릿의 process 필드 값 및 Dataview FROM 절 최적화 검토.md",
-    "02_Sources/작업노트_2025",
-    "09_System/09_T-System_Master_Manual - 구버전.md",
-    "09_System/가이드라인/Status, Priority, Process.md",
-    "02_Sources/한자어휘 템플릿/노트의 생애 주기(Life Cycle).md",
-    "09_System/가이드라인/finalized, critical.md",
+    "09_System/VS Code GUI(버튼) 작업.md",
     "09_System/가이드라인/action_required, difficulty, satisfaction.md",
-    "09_System/tp/01/T01_Series_Index_Template.md",
-    "01_Index/노트 템플릿.md",
+    "09_System/노트의 생애 주기 (Life Cycle).md",
+    "09_System/가이드라인/Status, Priority, Process.md",
+    "01_Index/한자어휘 템플릿.md",
+    "02_Sources/한자어휘 템플릿/노트의 생애 주기(Life Cycle).md",
+    "09_System/09_T-System_Master_Manual - 구버전.md",
+    "02_Sources/작업노트_2024/T01 템플릿의 process 필드 값 및 Dataview FROM 절 최적화 검토.md",
+    "01_Index/작업노트_2024.md",
+    "02_Sources/작업노트_2024/Hword1 yaml 변경.md",
+    "02_Sources/작업노트_2024/T01, T02- 전광진의 하루한자와 격언 H1 삭제.md",
+    "02_Sources/작업노트_2024/T01, T02- 한자암기박사1,2 지난 자료 가져오기.md",
     "02_Sources/작업노트_2024/T03 개념어 사전의 정보 완결성 기반 템플릿 최종 확정.md",
+    "02_Sources/작업노트_2024/T03 템플릿의 YAML 필드 변화 및 태그 구조 개선 확인.md",
+    "02_Sources/작업노트_2024/프로세스 → final 목표로 진행.md",
+    "01_Index/노트 템플릿.md",
+    "02_Sources/작업노트_2025",
+    "09_System/가이드라인/finalized, critical.md",
+    "09_System/tp/01/T01_Series_Index_Template.md",
     "01_Index/김정운의 감언이설.md",
     "09_System/tp/01/T04_Analysis_Template.md",
-    "01_Index/김정운의 감언이설 od.md",
-    "01_Index/한자어휘 템플릿.md",
-    "08_MOCs/T08_All_T01_Series_Index.md",
-    "01_Index/T01_VSCode_Index.md",
-    "02_Sources/T02_VSCode_Core_Categories.md",
-    "02_Sources/김정운의 감언이설/김정운의 감언이설 '구체화'할 수 없다면 가짜다.md",
-    "02_Sources/김정운의 감언이설/김정운의 감언이설 대한민국은 '猜忌(시기) 사회'다.md",
-    "03_Concepts/한자암기박사/家計.md",
-    "03_Concepts/앱 용어/T03_Concept_Integrated Terminal.md",
-    "03_Concepts/앱 용어/T03_Concept_Command Palette.md",
     "03_Concepts/앱 용어",
     "02_Sources/vs code 최적화",
     "20JUNI.code-workspace",

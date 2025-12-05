@@ -30,13 +30,13 @@ source_name: 사단법인 한국어문회
 source_author: self
 source_type: book
 
-action_required: memorize → deep_dive
+action_required: link_to_t04 → deep_dive
 difficulty: good 
 satisfaction: 5 
 
 ## 린터하기 ← 삭제후(removed)
 process: raw
-action_required: deep_dive
+action_required: link_to_t04
 
 ## 삭제 -> 불필요
 source_name: 사단법인 한국어문회

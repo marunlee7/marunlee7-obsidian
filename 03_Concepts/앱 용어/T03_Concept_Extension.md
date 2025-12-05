@@ -10,7 +10,7 @@ process: draft
 source_name: T03_Concept_Extension
 source_author: self
 source_type: article
-action_required: deep_dive
+action_required: link_to_t04
 difficulty: good
 satisfaction: 4
 references: []

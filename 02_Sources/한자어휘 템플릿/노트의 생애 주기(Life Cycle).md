@@ -10,7 +10,7 @@ process: draft
 source_name: 노트의 생애 주기(Life Cycle)
 source_author: self
 source_type: worknote
-action_required: deep_dive
+action_required: link_to_t04
 difficulty: hard
 satisfaction: 5
 references: "[[Life Cycle- 액션 중심의 추적 기능을 추가하여 관리 효율]]"

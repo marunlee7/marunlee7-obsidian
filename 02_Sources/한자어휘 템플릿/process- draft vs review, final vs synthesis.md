@@ -11,7 +11,7 @@ source_name: process 처리
 source_author: self
 source_type: worknote
 
-action_required: deep_dive
+action_required: link_to_t04
 difficulty: good 
 satisfaction: 5 
 

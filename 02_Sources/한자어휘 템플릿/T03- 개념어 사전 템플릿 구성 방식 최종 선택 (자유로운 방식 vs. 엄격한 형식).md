@@ -11,7 +11,7 @@ source_name: 명확한 목표(개념 정의)와 형식(YAML + Markdown)
 source_author: self
 source_type: worknote
 
-action_required: deep_dive
+action_required: link_to_t04
 difficulty: good 
 satisfaction: 5 
 references:
