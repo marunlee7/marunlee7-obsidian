@@ -4,7 +4,7 @@ level: T09
 file_role: system_manual
 parent: 작업노트_2025
 status: completed
-priority: high
+priority:
 process: final
 action_required: link_to_t04
 difficulty: good

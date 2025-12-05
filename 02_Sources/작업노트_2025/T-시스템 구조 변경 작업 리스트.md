@@ -57,7 +57,7 @@ tags:
 |**5.**|T05 폴더|`05_MOCs`|`05_Collection`|폴더명 변경: `05_MOCs` $\rightarrow$ `05_Collection` **(선행 작업)**|
 |**6.**|T01/T02 tags|`tags: [- 출처/인덱스/시리즈]` 등|`tags: [- 출처/{{series_type}}/{{series_name}}]`|태그 규칙 점검 및 통일 (필요시 수동 재분류)|
 |**7.**|T01~T06 (`process`)|`process: initial_capture`|`process: raw`|`process: initial_capture` $\rightarrow$ `process: raw`|
-|**8.**|T01~T06 (`priority`)|`priority: critical` 등 (무효값)|`priority: high` (유효값)|무효값(critical 등)을 유효값(high)으로 일괄 수정|
+|**8.**|T01~T06 (`priority`)|`[priority: high` 등 (무효값)|`priority: high` (유효값)|무효값(critical 등)을 유효값(high)으로 일괄 수정|
 |**9.**|T01~T06 (`status`)|`status: finalized` 등 (무효값)|`status: completed` (유효값)|무효값(finalized 등)을 유효값(completed)으로 일괄 수정|
 |**10.**|T01~T06 (필수 필드 추가)|(누락)|`action_required`, `difficulty`, `satisfaction`|누락된 필수 필드들을 파일 하단에 일괄 추가|
 

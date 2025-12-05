@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#출처/내부_활동",
+                "query": "[[priority: high",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f2a0b13a76ea1b29",
@@ -340,7 +341,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "80660d864cf631bf",
+  "active": "503fdad2231ead49",
   "lastOpenFiles": [
     "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md",
     "02_Sources/작업노트_2025/VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리.md",

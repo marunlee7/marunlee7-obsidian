@@ -6,7 +6,7 @@ file_role: system_config
 parent: ""
 
 status: finalized
-priority: critical
+[priority: high
 
 source_name: Gemini & User Final Standardization (2025-11-24 최종 완료)
 source_author: system

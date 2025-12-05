@@ -26,6 +26,6 @@ T09 Master Manual에 `finalized`와 `critical`을 사용한 것은 단순히 다
     - `completed`는 T02/T04 노트에서 작업이 완료되어 더 이상의 수정이 불필요함을 의미합니다. (개별 Task의 종료)
     - `finalized`는 T09 Master Manual에서 이 문서의 내용(규칙)이 최종적으로 확정되었으며, 전체 시스템이 이 규칙을 따라야 함을 의미합니다. 이는 단순한 Task 종료 이상의 표준 확립을 뜻합니다.
         
-- `priority: critical` vs. `high`:
+- `[priority: high` vs. `high`:
     - `high`는 T01/T02에서 우선적으로 처리해야 할 중요한 지식 작업을 의미합니다.
     - `critical`은 T09에서 이 파일 없이는 시스템 자체가 작동 불가능하며, 최우선적인 무결성 관리가 필요함을 강조하기 위해 예약된 값입니다.

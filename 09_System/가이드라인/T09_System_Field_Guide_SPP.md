@@ -4,7 +4,7 @@ level: T09
 file_role: system_config
 parent: "[[09_System/가이드라인/09_T-System_Master_Manual]]"
 status: finalized
-priority: critical
+[priority: high
 source_name: Gemini & User Final Standardization (2025-11-26 최종 확정)
 source_author: system / user
 tags:
