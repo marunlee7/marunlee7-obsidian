@@ -643,7 +643,7 @@
               {
                 "id": "fd4e37b91dba2691",
                 "type": "tabs",
-                "dimension": 48.86013555144794,
+                "dimension": 49.155405405405396,
                 "children": [
                   {
                     "id": "ef9ee1c319fb5ac4",
@@ -722,50 +722,24 @@
                       "icon": "lucide-file",
                       "title": "한자어휘 템플릿"
                     }
-                  },
-                  {
-                    "id": "67cc09eed4331b04",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "08_MOCs/T08_All_T01_Series_Index.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "T08_All_T01_Series_Index"
-                    }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 2
               },
               {
                 "id": "cf2f4efe2257debb",
                 "type": "tabs",
-                "dimension": 51.13986444855206,
+                "dimension": 50.844594594594604,
                 "children": [
                   {
-                    "id": "12665d8821ee56ce",
+                    "id": "80660d864cf631bf",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "01_Index/고사성어 일촌맺기.md",
+                        "file": "09_System/tp/01/T04_Analysis_Template.md",
                         "mode": "source",
-                        "source": false,
+                        "source": true,
                         "backlinks": true,
                         "backlinkOpts": {
                           "collapseAll": false,
@@ -778,7 +752,7 @@
                         }
                       },
                       "icon": "lucide-file",
-                      "title": "고사성어 일촌맺기"
+                      "title": "T04_Analysis_Template"
                     }
                   }
                 ]
@@ -817,11 +791,11 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:#주제/노트_템플릿",
+                    "query": "tag:#출처/내부_활동",
                     "matchingCase": false,
-                    "explainSearch": true,
-                    "collapseAll": true,
-                    "extraContext": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": true,
                     "sortOrder": "alphabetical"
                   },
                   "icon": "lucide-search",
@@ -849,7 +823,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 297.5
+        "width": 281.5
       },
       "right": {
         "id": "02b10f3212415f63",
@@ -880,13 +854,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "08_MOCs/T08_All_T01_Series_Index.md",
+                    "file": "03_Concepts/T03_Concept_Workspace.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "T08_All_T01_Series_Index 의 개요"
+                  "title": "T03_Concept_Workspace 의 개요"
                 }
               },
               {
@@ -932,8 +906,7 @@
                   "title": "calendar"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "5755bb59587dbe5a",
@@ -953,16 +926,10 @@
           }
         ],
         "direction": "horizontal",
-        "width": 329.5
+        "width": 304.5
       },
       "left-ribbon": {
         "hiddenItems": {
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "translate:Open translation view": false,
-          "obsidian-kanban:새 보드 만들기": false,
-          "smart-composer:Open smart composer": false,
-          "templater-obsidian:Templater": false,
-          "obsidian42-brat:BRAT": false,
           "workspaces:작업 공간 레이아웃 관리": false,
           "switcher:빠른 전환기 열기": false,
           "graph:그래프 뷰 열기": false,
@@ -970,11 +937,17 @@
           "daily-notes:오늘의 일일 노트 열기": false,
           "command-palette:명령어 팔레트 열기": false,
           "bases:새 베이스 생성하기": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "translate:Open translation view": false,
+          "obsidian-kanban:새 보드 만들기": false,
+          "smart-composer:Open smart composer": false,
+          "templater-obsidian:Templater": false,
+          "obsidian42-brat:BRAT": false,
           "periodic-notes:Open today": false
         }
       },
-      "active": "67cc09eed4331b04",
-      "mtime": "2025-12-04T21:31:04+09:00"
+      "active": "5710bf05a1580e60",
+      "mtime": "2025-12-05T11:39:53+09:00"
     },
     "시스템2": {
       "main": {

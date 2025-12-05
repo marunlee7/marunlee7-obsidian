@@ -121,6 +121,36 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "b264cbde-06fb-4bcc-a141-b864438539e2",
+      "name": "T2: Article Atom vs code 최적화",
+      "type": "Template",
+      "command": false,
+      "templatePath": "09_System/tp/01/T02_Source_Note_Template_vs code.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02_Sources/vs code 최적화"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "c5d426db-ebf7-46cc-bb6e-51c8fdfed15d",
       "name": "T3: Concept_Dictionary 생성",
       "type": "Template",
@@ -233,7 +263,7 @@
       "name": "T6: Person_data",
       "type": "Template",
       "command": false,
-      "templatePath": "09_System/tp/01/T05_Sentence_Collection_Template.md",
+      "templatePath": "09_System/tp/01/T06_person_data_Template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{name}}"

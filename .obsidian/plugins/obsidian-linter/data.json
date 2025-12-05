@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "status: planned # 최종 확정: planned. Task 관리 기본값.\npriority: medium\nprocess: \"\" # T01은 process 필드 사용 안 함 (빈 값 유지)\n\nsource_type: \"book\"\nreferences: []\ntags: [출처/외부_정보/도서_단행본]"
+      "text-to-insert": ""
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -31,11 +31,11 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": ""
+      "yaml-keys-to-remove": "parent"
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "title\naliases\npublished\n\nlevel\nfile_role\n\nparent \nword_type\n\nstatus\npriority\nprocess\n\nsource_name\nsource_author\nsource_type\n\nreferences\nlinks\n\nachievement\nreading_book\nemotion\nimportant_date\ntags",
+      "yaml-key-priority-sort-order": "title\naliases\npublished\n\nlevel\nfile_role\n\nparent \nword_type\n\nstatus\npriority\nprocess\n\nsource_name\nsource_author\nsource_type\n\naction_required\ndifficulty\nsatisfaction\n\nreferences\nlinks\n\nachievement\nreading_book\nemotion\nimportant_date\ntags",
       "priority-keys-at-start-of-yaml": false,
       "yaml-sort-order-for-other-keys": "None"
     },

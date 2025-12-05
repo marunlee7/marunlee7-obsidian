@@ -3,7 +3,7 @@ title: "{{value:T02_아티클/노트_제목_입력}}"
 
 level: T02
 file_role: article_atom
-parent: 작업노트_2025
+parent: 작업노트_2024
 
 status: planned
 priority: medium
@@ -18,7 +18,7 @@ satisfaction: 3
 
 references: ""
 tags:
-  - 출처/내부_활동/아이디어
+  - 출처/내부_활동/앱_학습
 ---
 ## 📚 T02. {{title}} 
 - [ ] 

@@ -4,6 +4,6 @@
     "md"
   ],
   "blacklist": false,
-  "addRootFolder": false,
+  "addRootFolder": true,
   "filterFolderNote": true
 }

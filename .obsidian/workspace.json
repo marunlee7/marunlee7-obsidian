@@ -10,34 +10,8 @@
           {
             "id": "fd4e37b91dba2691",
             "type": "tabs",
-            "dimension": 48.86013555144794,
+            "dimension": 43.09210526315789,
             "children": [
-              {
-                "id": "ef9ee1c319fb5ac4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "01_Index/작업노트_2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "작업노트_2025"
-                }
-              },
               {
                 "id": "308719b810faea3b",
                 "type": "leaf",
@@ -91,13 +65,71 @@
                 }
               },
               {
-                "id": "67cc09eed4331b04",
+                "id": "010cbf1a09696d13",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "08_MOCs/T08_All_T01_Series_Index.md",
+                    "file": "01_Index/작업노트_2025.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "작업노트_2025"
+                }
+              },
+              {
+                "id": "43ed3e533c086a67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "09_System/09_T-System_Master_Manual.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "09_T-System_Master_Manual"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "cf2f4efe2257debb",
+            "type": "tabs",
+            "dimension": 56.9078947368421,
+            "children": [
+              {
+                "id": "80660d864cf631bf",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "09_System/09_T-System_Master_Manual.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -113,113 +145,35 @@
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "T08_All_T01_Series_Index"
+                  "title": "09_T-System_Master_Manual"
+                }
+              },
+              {
+                "id": "fd096df92b0cd840",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "02_Sources/작업노트_2025/T-시스템 구조 변경 작업 리스트.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "T-시스템 구조 변경 작업 리스트"
                 }
               }
-            ]
-          },
-          {
-            "id": "cf2f4efe2257debb",
-            "type": "tabs",
-            "dimension": 51.13986444855206,
-            "children": [
-              {
-                "id": "12665d8821ee56ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02_Sources/한자어휘 템플릿/노트의 생애 주기(Life Cycle).md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "노트의 생애 주기(Life Cycle)"
-                }
-              },
-              {
-                "id": "c0dc21c289f2315f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "09_System/tp/01/어휘 핵심 발상 데이타뷰.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "어휘 핵심 발상 데이타뷰"
-                }
-              },
-              {
-                "id": "5d3eb28af2d8edab",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "09_System/tp/01/📚 원문.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "📚 원문"
-                }
-              },
-              {
-                "id": "780e16fa6cdb4f46",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "09_System/가이드라인/템플릿 파일명 최종 확정 목록.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "템플릿 파일명 최종 확정 목록"
-                }
-              }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -255,7 +209,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[status: final",
+                "query": "tag:#출처/내부_활동",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,8 +220,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f2a0b13a76ea1b29",
@@ -288,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 391.5
   },
   "right": {
     "id": "02b10f3212415f63",
@@ -319,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Sources/한자어휘 템플릿/노트의 생애 주기(Life Cycle).md",
+                "file": "03_Concepts/T03_Concept_Workspace.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "노트의 생애 주기(Life Cycle) 의 개요"
+              "title": "T03_Concept_Workspace 의 개요"
             }
           },
           {
@@ -371,8 +324,7 @@
               "title": "calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5755bb59587dbe5a",
@@ -392,7 +344,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -404,52 +356,52 @@
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
       "translate:Open translation view": false,
       "obsidian-kanban:새 보드 만들기": false,
       "smart-composer:Open smart composer": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "12665d8821ee56ce",
+  "active": "fd096df92b0cd840",
   "lastOpenFiles": [
-    "09_System/tp/01/어휘 핵심 발상 데이타뷰.md",
-    "09_System/tp/01/T02_Source_Note_Template_작업노트.md",
-    "02_Sources/작업노트_2025/vs code 설치후 초기 설정(필수).md",
-    "09_System/가이드라인/템플릿 파일명 최종 확정 목록.md",
-    "09_System/가이드라인/T03 자동 생성 로직 및 템플릿 슬림화 확정.md",
-    "09_System/tp/01/📚 원문.md",
-    "02_Sources/한자어휘 템플릿/vs code 설치후 초기 설정(필수).md",
-    "02_Sources/한자어휘 템플릿/노트의 생애 주기(Life Cycle).md",
     "01_Index/작업노트_2025.md",
-    "01_Index/10x Lessons.md",
-    "09_System/tp/01/T08_MOCs_Map_Template.md",
-    "20JUNI.code-workspace",
-    "08_MOCs/T08_All_T01_Series_Index.md",
-    "01_Index/00_Inbox.md",
-    "01_Index/한자어휘 템플릿.md",
+    "02_Sources/작업노트_2025/T-시스템 구조 변경 작업 리스트.md",
+    "09_System/09_T-System_Master_Manual.md",
+    "02_Sources/작업노트_2024/Hword1 yaml 변경.md",
+    "01_Index/작업노트_2024.md",
+    "02_Sources/작업노트_2024/T01 템플릿의 process 필드 값 및 Dataview FROM 절 최적화 검토.md",
+    "02_Sources/작업노트_2025",
+    "09_System/09_T-System_Master_Manual - 구버전.md",
+    "09_System/가이드라인/Status, Priority, Process.md",
+    "02_Sources/한자어휘 템플릿/노트의 생애 주기(Life Cycle).md",
+    "09_System/가이드라인/finalized, critical.md",
+    "09_System/가이드라인/action_required, difficulty, satisfaction.md",
+    "09_System/tp/01/T01_Series_Index_Template.md",
     "01_Index/노트 템플릿.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 0426 知.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 0803 物.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 0828 亞.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 1026 怒.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 0712 恐.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 0906 辱.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 0827 善.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 0516 之.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 1228 舊.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 1014 因.md",
-    "02_Sources/하루 한자 공부/하루 한자 공부 0910 千.md",
+    "02_Sources/작업노트_2024/T03 개념어 사전의 정보 완결성 기반 템플릿 최종 확정.md",
+    "01_Index/김정운의 감언이설.md",
+    "09_System/tp/01/T04_Analysis_Template.md",
+    "01_Index/김정운의 감언이설 od.md",
+    "01_Index/한자어휘 템플릿.md",
+    "08_MOCs/T08_All_T01_Series_Index.md",
+    "01_Index/T01_VSCode_Index.md",
+    "02_Sources/T02_VSCode_Core_Categories.md",
+    "02_Sources/김정운의 감언이설/김정운의 감언이설 '구체화'할 수 없다면 가짜다.md",
+    "02_Sources/김정운의 감언이설/김정운의 감언이설 대한민국은 '猜忌(시기) 사회'다.md",
+    "03_Concepts/한자암기박사/家計.md",
+    "03_Concepts/앱 용어/T03_Concept_Integrated Terminal.md",
+    "03_Concepts/앱 용어/T03_Concept_Command Palette.md",
+    "03_Concepts/앱 용어",
+    "02_Sources/vs code 최적화",
+    "20JUNI.code-workspace",
     "09_System/tp/old",
     "09_System/api_key",
     "00_Inbox/chatgpt template",
     "09_System/tp/03 chatgpt",
     "09_System/tp/무제",
     "Bases/사색 허브.base",
-    "00_Inbox/영어 공부법",
-    "00_Inbox/01/00_Inbox",
-    "00_Inbox/01/oo_inbox",
     "09_System/Assets/24-%E1%84%82%E1%85%A9%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%B8-%E1%84%89%E1%85%AE.png",
     "09_System/Assets/%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%91%E1%85%B3%E1%84%87%E1%85%B2-%E1%84%87%E1%85%B5%E1%84%80%E1%85%AD.jpg",
     "09_System/Assets/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA-2022-09-04-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE-3.44.07-1024x538.png",

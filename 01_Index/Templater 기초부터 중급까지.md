@@ -1,7 +1,7 @@
 ---
 title: Templater 기초부터 중급까지
 level: T01
-file_role: series_collection
+file_role: original_source
 parent: ""
 word_type: ""
 status: planned

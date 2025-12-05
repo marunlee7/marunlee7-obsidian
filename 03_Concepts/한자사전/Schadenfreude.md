@@ -1,16 +1,21 @@
 ---
 title: 샤덴프로이데(Schadenfreude)
-word_type: 외래어
-status: t3사용안함
+level: T03
+file_role: concept_dictionary
+parent: 김정운의 감언이설 '구체화'할 수 없다면 가짜다
+word_type: 한자성어
+status: planned
 priority: medium
-process: "raw"
-source_name: Schadenfreude
-source_type: "article"
-source_author: "self"
-references: 독일어권 심리학 용어
+process: final
+action_required: link_to_t04
+difficulty: good
+satisfaction: 3
+references:
+  - 김정운의 감언이설 대한민국은 '猜忌(시기) 사회'다
+  - 독일어권 심리학 용어
+tags:
+  - 한자어/철학
 ---
-# Schadenfreude
-
 ## 정의 및 핵심 요약
 
 - 샤덴프로이데(Schadenfreude)는 독일어로 '손해, 해(Schaden)'와 '기쁨(Freude)'이 결합된 단어입니다.

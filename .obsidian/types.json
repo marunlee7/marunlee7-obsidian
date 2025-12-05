@@ -31,6 +31,7 @@
     "status": "text",
     "published": "date",
     "links": "multitext",
-    "source_author": "text"
+    "source_author": "text",
+    "references": "multitext"
   }
 }

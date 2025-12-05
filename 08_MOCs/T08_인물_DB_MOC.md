@@ -3,7 +3,6 @@ title: T08_인물_DB_MOC
 level: T08
 file_role: concept_moc
 tags:
-  - 시스템/MOC_색인
 ---
 # 👤 T08. 인물 데이터베이스 마스터 목록
 

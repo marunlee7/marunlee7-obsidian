@@ -1,7 +1,7 @@
 ---
 title: T-시스템 Status, Priority, Process (최종 표준 매뉴얼)
 source_type: Gemini
-parent: "[[09_T-System_Master_Manual]]"
+parent: "[[09_T-System_Master_Manual - 구버전]]"
 source_name: Gemini와의 T-레벨 논의
 source_author: self
 references:

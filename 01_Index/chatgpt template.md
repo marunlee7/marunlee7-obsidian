@@ -1,7 +1,7 @@
 ---
 title: chatgpt template
 level: T01
-file_role: series_collection
+file_role: original_source
 parent: ""
 word_type: ""
 status: planned

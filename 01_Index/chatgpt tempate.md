@@ -1,7 +1,7 @@
 ---
 title: chatgpt tempate
 level: T01
-file_role: series_collection
+file_role: original_source
 
 parent: ""
 word_type: "" # T03 전용 필드 (빈 값 유지)
