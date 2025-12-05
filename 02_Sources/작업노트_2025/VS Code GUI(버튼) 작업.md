@@ -12,7 +12,8 @@ source_type: worknote
 action_required: link_to_t04
 difficulty: good
 satisfaction: 3
-references: ""
+references:
+  - "[[VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리]]"
 tags:
   - task
   - 출처/내부_활동/아이디어

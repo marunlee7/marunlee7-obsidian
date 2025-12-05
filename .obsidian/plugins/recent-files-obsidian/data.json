@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "09_T-System_Master_Manual",
+      "path": "09_System/09_T-System_Master_Manual.md"
+    },
+    {
       "basename": "VS Code GUI(버튼) 작업",
       "path": "02_Sources/작업노트_2025/VS Code GUI(버튼) 작업.md"
+    },
+    {
+      "basename": "VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리",
+      "path": "02_Sources/작업노트_2025/VS Code GUI에서 스테이징 → 커밋 → 푸시를 깔끔하게 진행하는 순서를 단계별로 정리.md"
     },
     {
       "basename": "T-시스템 구조 변경 작업 리스트",
@@ -19,10 +27,6 @@
     {
       "basename": "T01_VSCode_Index",
       "path": "01_Index/T01_VSCode_Index.md"
-    },
-    {
-      "basename": "09_T-System_Master_Manual",
-      "path": "09_System/09_T-System_Master_Manual.md"
     },
     {
       "basename": "action_required, difficulty, satisfaction",
@@ -195,10 +199,6 @@
     {
       "basename": "T02_Source_Note_Template",
       "path": "09_System/tp/01/T02_Source_Note_Template.md"
-    },
-    {
-      "basename": "YAML 필드의 적용 범위, 값 목록, 용례에 대한 상세 정리 및 최종 템플릿 본문 헤딩 확인",
-      "path": "02_Sources/작업노트_2024/YAML 필드의 적용 범위, 값 목록, 용례에 대한 상세 정리 및 최종 템플릿 본문 헤딩 확인.md"
     }
   ],
   "omittedPaths": [],
