@@ -6,7 +6,7 @@ parent: 작업노트_2025
 status: completed
 priority: high
 process: final
-action_required: none
+action_required: link_to_t04
 difficulty: good
 satisfaction: 5
 source_name: Gemini & User Final Standardization (2025-12-05 최종 완료)

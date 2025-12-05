@@ -33,7 +33,7 @@ priority: medium
 process: raw # 최종 확정: T02의 초기 품질 단계
 
 
-action_required: none # Quickadd 선택: [memorize, deep_dive, daily_use, none]
+action_required: link_to_t04 # Quickadd 선택: [memorize, deep_dive, daily_use, none]
 difficulty: good # Quickadd 선택: [again, hard, good, easy, none]
 satisfaction: 3 # 1~5점 척도
 

@@ -17,7 +17,7 @@ source_name: "{{value:출처_이름_입력}}" # ✅ 수정 완료 (간결화)
 source_author: "{{value:출처_저자_입력}}" # ✅ 수정 완료 (간결화)
 source_type: "{{value:출처_유형_입력}}" # ✅ 수정 완료 (예: book, article)
 
-action_required: none # Quickadd 선택: [memorize, deep_dive, daily_use, none]
+action_required: link_to_t04 # Quickadd 선택: [memorize, deep_dive, daily_use, none]
 difficulty: good # Quickadd 선택: [again, hard, good, easy, none]
 satisfaction: 3 # 1~5점 척도
 

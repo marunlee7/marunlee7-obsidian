@@ -9,7 +9,7 @@ process: final
 source_name: 
 source_author: self
 source_type: worknote
-action_required: none
+action_required: link_to_t04
 difficulty: good
 satisfaction: 3
 references: "[[YAML 필드의 적용 범위, 값 목록, 용례에 대한 상세 정리 및 최종 템플릿 본문 헤딩 확인]]"

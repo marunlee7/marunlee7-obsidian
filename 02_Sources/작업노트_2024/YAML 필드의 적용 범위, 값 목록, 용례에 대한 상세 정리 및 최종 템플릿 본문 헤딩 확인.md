@@ -9,7 +9,7 @@ process: final
 source_name: 
 source_author: self
 source_type: worknote
-action_required: none
+action_required: link_to_t04
 difficulty: good
 satisfaction: 3
 references: "[[T03 템플릿의 YAML 필드 변화 및 태그 구조 개선 확인]]"

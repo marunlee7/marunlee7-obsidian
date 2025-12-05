@@ -12,7 +12,7 @@ process: raw
 source_name: ""
 source_author: ""
 source_type: ""
-action_required: none
+action_required: link_to_t04
 difficulty: good
 satisfaction: 3
 references:

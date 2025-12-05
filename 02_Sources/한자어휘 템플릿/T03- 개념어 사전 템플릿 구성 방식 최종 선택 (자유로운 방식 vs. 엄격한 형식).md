@@ -67,7 +67,7 @@ parent: "{{value:T02_Filename_Input}}"
 
 priority: medium
 process: final # T03은 개념을 정의하는 단계이므로 항상 final
-action_required: none
+action_required: link_to_t04
 difficulty: good
 satisfaction: 3
 ---
